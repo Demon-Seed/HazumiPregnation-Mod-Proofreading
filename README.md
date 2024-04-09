@@ -1,3 +1,5 @@
+README credit goes to DazedAnon.
+
 # Apply Patch
 1. Click Code
 2. Click Download ZIP
@@ -45,5 +47,3 @@ Now you are all setup, all you need to do is play the game and look for any chan
 
 8. Click Sync to push your changes to your fork. Now all that's left is to put in a pull request.
 9. Go to Pull Requests > New Pull Requests. Look at the arrow, your fork should be pointing to the original repo (mine). Add in details on what you fixed and Submit. If everything looks good I'll merge it in and you would have successfully contributed.
-
-README credit goes to DazedAnon.
