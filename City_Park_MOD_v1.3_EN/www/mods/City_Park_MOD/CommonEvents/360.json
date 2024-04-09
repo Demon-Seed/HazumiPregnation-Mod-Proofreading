@@ -182,7 +182,7 @@
       "code": 401,
       "indent": 1,
       "parameters": [
-        "\\n<\\v[104]>Looks like already had other guys before me."
+        "\\n<\\v[104]>Looks like you've already had other guys before me."
       ]
     },
     {
@@ -244,7 +244,7 @@
       "code": 401,
       "indent": 2,
       "parameters": [
-        "\\n<\\v[104]>Looks like already had other guys before me."
+        "\\n<\\v[104]>Looks like you've already had other guys before me."
       ]
     },
     {
@@ -1078,7 +1078,7 @@
       "code": 401,
       "indent": 2,
       "parameters": [
-        "Finish and call to the next Man?"
+        "Finish and call the next Man?"
       ]
     },
     {
@@ -1087,7 +1087,7 @@
       "parameters": [
         [
           "Next",
-          "Continue"
+          "Return"
         ],
         1,
         0,
