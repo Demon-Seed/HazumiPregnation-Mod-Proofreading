@@ -1,0 +1,794 @@
+{
+  "id": 366,
+  "list": [
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        104,
+        104,
+        0,
+        4,
+        "'???'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        792,
+        792,
+        0,
+        4,
+        "$gameVariables._data[793][$gameVariables._data[794]]"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        792,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>There must be a path for a car into the hill, "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "the ship will always head straight when passing bridge."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>No matter what diffculties you face, "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "there must always be a best solution to it."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>If you can't find the solution yourself, "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "how about ask others about it?"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>If there is really no one you can talk to, "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "it's okay to even ask a passerby."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>You may get unexpected help from them."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        792,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>If you get lost in life, "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "try to set several goals for yourself."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>After you finished the goals one by one, "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "you will walk out of the mist."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        792,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>Everyone has his/her own different happiness, "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "there's no need to keep pursuing others' happiness."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>If you are not satisfied with your current "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "life, then go look for your own happiness."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        792,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>Don't feel sad for yourself."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>Even if 99% of people in the world "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "dislike you, there will always be one who will "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "stand with you."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>Please believe in it."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        792,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>All of the unreasonings "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "all came from stupidness."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        792,
+        0,
+        6,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>An eye for an eye will "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "leave the whole world blind."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        792,
+        0,
+        7,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>Even in the hell, as long as there is light "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "in heart, will be just like in the paradise."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        792,
+        0,
+        8,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>Please strive to keep alive."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>As long as you stay alive, there will always "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "be chance to see the hope."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        792,
+        0,
+        9,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>Beautiful things always appear at a sudden."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>If you look around carefully, "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "you may find it."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        792,
+        0,
+        10,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>Do not impose on others "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "what you youself do not desire."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        792,
+        0,
+        11,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>Do not fail to do good no matter how petty "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "the deed, do not engage in evil no matter how trivial "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "the deed."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        792,
+        0,
+        12,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>The immense sea allows fish to leap "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "at liberty, the vast sky lets bird fly freely."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "Quotes",
+  "switchId": 1,
+  "trigger": 0
+}

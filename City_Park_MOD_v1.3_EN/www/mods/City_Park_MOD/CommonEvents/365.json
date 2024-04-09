@@ -1,0 +1,82 @@
+{
+  "id": 365,
+  "list": [
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "変数initialize"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        80,
+        80,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        81,
+        0,
+        140,
+        4
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "this.setupChild($dataCommonEvents[$gameVariables.value(81)].list, 0)"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "this.setupChild($dataCommonEvents[140].list, 0)"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        101
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0
+    }
+  ],
+  "name": "Common Erotic Event",
+  "switchId": 1,
+  "trigger": 0
+}

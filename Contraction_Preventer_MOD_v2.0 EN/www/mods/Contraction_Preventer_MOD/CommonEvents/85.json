@@ -1,0 +1,835 @@
+{
+  "id": 85,
+  "list": [
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "0..中出し量 / 10..100"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 0,
+      "parameters": [
+        "の確率で出産"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "randper(randmm(0,$gameVariables.value(77)))"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        518,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[1] feels like the baby want to born!!! "
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "But thanks to the contraction preventer \\.\\.\\.\\."
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "the contractions never happen."
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 115,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "The stimulation from \\n[4]'s rod causes \\n[1] to go \ninto labor."
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        56,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "Because it's her first child, \\n[1] goes to the \nhospital..."
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        446,
+        446,
+        1
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 1,
+      "parameters": [
+        "出産開始"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "namen('Likes Birth')"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        301,
+        301,
+        1,
+        2,
+        6000,
+        14000
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        37,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        24,
+        24,
+        0,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "Because \\n[4] \\c[2]likes childbirth\\c[0], he was able to \ninstruct \\n[1] to give birth safely."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "He tries to compose himself as he watches her pussy \nwith excited eyes."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[4] \\c[2]likes childbirth\\c[0] and is very excited to \nwitness it."
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        446,
+        446,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        87
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 1,
+      "parameters": [
+        "出産開始"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        99,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        24,
+        24,
+        0,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        24,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        446,
+        446,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        0,
+        37,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "Although scared, \\n[4] tries his best to support \\n[1] with \ngiving birth."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        37,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        24,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[4] freaks out and runs away after calling an \nambulance..."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        47,
+        47,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 245,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "ambulance",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 223,
+      "indent": 3,
+      "parameters": [
+        [
+          -255,
+          -255,
+          -255,
+          0
+        ],
+        120,
+        true
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        100
+      ]
+    },
+    {
+      "code": 246,
+      "indent": 3,
+      "parameters": [
+        2
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        200
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        99,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        24,
+        24,
+        0,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        24,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        446,
+        446,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        0,
+        37,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "Although scared, \\n[4] tries his best to support \\n[1] with \ngiving birth."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        24,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        446,
+        446,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        0,
+        37,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[1] gives birth while being watched by \\n[4]."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 118,
+      "indent": 0,
+      "parameters": [
+        "出産開始"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        361,
+        361,
+        0,
+        1,
+        362
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        21,
+        21,
+        0
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 0,
+      "parameters": [
+        "選択肢カラム数 0"
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        309,
+        309,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        307,
+        307,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        59
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        8
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "イベント終了させるために後処理で初期化できないので、Initializeで初期化"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "【Active】 Birth",
+  "switchId": 1,
+  "trigger": 0
+}

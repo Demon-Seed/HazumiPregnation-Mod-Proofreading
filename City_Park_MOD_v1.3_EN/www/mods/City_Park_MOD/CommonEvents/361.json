@@ -1,0 +1,1572 @@
+{
+  "id": 361,
+  "list": [
+    {
+      "code": 223,
+      "indent": 0,
+      "parameters": [
+        [
+          -255,
+          -255,
+          -255,
+          0
+        ],
+        1,
+        true
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "//setChip"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "let ID = 1, num, name = 'hadumi'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "s[17] ? num = 1 : num = 2"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "$gameActors.actor(ID).setCharacterImage(name,num)"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "$gamePlayer.refresh()"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        99
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        320,
+        320,
+        1
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "精液処理"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "膣内体外精液かかってる"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        73,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "if ( v[76] ){"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  v[24] = `He was wearing a condom and ejaculated \\x1bV[354] sperm.`"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  } else {"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  v[24] = 'He couldn\\'t do a creampie because of the condom.'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  $gameMessage.add(v[24])"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        73,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "if ( v[77] ){"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "  v[24] = `The condom broke and there were \\x1bV[355] creampies.`"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "  } else {"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "  v[24] = 'The condom broke, but he didn\\'t cum inside.'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "  $gameMessage.add(v[24])"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        73,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 3,
+      "parameters": [
+        "if ( v[77] ){"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "  v[24] = `Because \\x1bn[4] took off the condom, \\nthere were \\x1bV[355] creampies.`"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "  } else {"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "  v[24] = `The condom was removed, but he didn\\'t cum inside.`"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "  $gameMessage.add(v[24])"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 108,
+      "indent": 3,
+      "parameters": [
+        "膣内体外精液かかってる"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 3,
+      "parameters": [
+        "v[24] = '\\\\n[1] had \\n' "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "if ( v[353] ){ v[24] += '\\\\c[3]\\\\v[353]\\\\c[0] ejaculations in her mouth, \\n'}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "if ( v[354] ){ v[24] += '\\\\c[3]\\\\v[354]\\\\c[0] ejaculations on her body, \\n'}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "if ( v[355] ){ v[24] += '\\\\c[3]\\\\v[355]\\\\c[0] ejaculations in her vagina, \\n'}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "if ( v[356] ){ v[24] += '\\\\c[3]\\\\v[356]\\\\c[0] ejaculatons in her anus, \\n'}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "v[24] += 'in total.' "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "if ( !v[76] && !v[77] && !v[78] ){"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "  v[75]>=1 ? v[24] = 'The condom prevented any creampies.'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "   : v[24] = '\\\\n[1] didn\\'t get ejaculated on anywhere.'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "$gameMessage.add(v[24])"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        84
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        75,
+        1
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 1,
+      "parameters": [
+        "後処理"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 356,
+      "indent": 0,
+      "parameters": [
+        "選択肢カラム数 0"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "おちんぎん"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "処女かつぶっかけ孕ませおじさん以外の相手"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        305,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        80,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        44,
+        44,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "A virginity bonus was received!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        80,
+        80,
+        3,
+        2,
+        4,
+        7
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "The client took \\n[1]'s virginity and ran..."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        305,
+        305,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "売春中出産がON&&売春額が0より多い"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "$gameSwitches.value(307) && $gameVariables.value(80) > 0"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "namen('Likes Birth')"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "As a \\c[2]birth lover\\c[0], \\n[4] sheds an emotional tear "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "while praying for a safe birth."
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 2,
+      "parameters": [
+        "出産祝い分岐終了"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        24,
+        24,
+        0,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        24,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[4] is angry for being interrupted by childbirth, and \npays only a portion of what was agreed."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        80,
+        80,
+        4,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        24,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[4] gives a bonus to \\n[1] to celebrate giving \nbirth."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        80,
+        80,
+        3,
+        2,
+        130,
+        160
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        80,
+        80,
+        4,
+        0,
+        100
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        24,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        80,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[4] pays the agreed amount, despite being interrupted"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "by childbirth."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 118,
+      "indent": 0,
+      "parameters": [
+        "出産祝い分岐終了"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "namen('Generous')"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        102,
+        102,
+        0,
+        4,
+        "'generous'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        80,
+        80,
+        3,
+        2,
+        12,
+        19
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        80,
+        80,
+        4,
+        0,
+        10
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "Being \\c[2]\\v[102]\\c[0], \\n[4] pays a bit more than was agreed."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "namen('Rich')"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        102,
+        102,
+        0,
+        4,
+        "'rich'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        80,
+        80,
+        3,
+        2,
+        19,
+        32
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        80,
+        80,
+        4,
+        0,
+        10
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "Being \\c[2]\\v[102]\\c[0], \\n[4] pays more than was agreed."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "namen('Millionare')"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        102,
+        102,
+        0,
+        4,
+        "'millionare'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        80,
+        80,
+        3,
+        2,
+        27,
+        44
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        80,
+        80,
+        4,
+        0,
+        10
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "Being a \\c[2]\\v[102]\\c[0], \\n[4] pays a lot more than "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "was agreed."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "namen('Stingy')"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "v[80] *= (randmm(80,50)/100)"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "v[80] = Math.round(v[80])"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "Being a \\c[2]stingy\\c[0] bastard, \\n[4] is reluctant to pay."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        301,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n[4] gives a bonus for being satisfied."
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "v[80] += Math.floor( v[80] * v[301] / 10000 )"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "randper($gameVariables.value(301)/100)"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[1]'s charm increased from satisfying her partner!"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "//0～満足度 ～ 満足度分上昇"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "var satis = v[301]/100"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "$gameVariables.setValue(36,  Math.max(1, randmm( randmm(satis), randmm(satis) ) )  )"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        29
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        301,
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n[4] is unsatisfied and pays less than was agreed..."
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "v[80] += Math.floor( v[80] * v[301] / 10000 )"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "namen('Poor')"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n[4] was actually \\c[2]poor\\c[0] and couldn't pay, \nso he fled."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        80,
+        80,
+        3,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        304,
+        0
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "if( randmm(2)==2 ){"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  v[102] = '\\\\n[4] sees that \\\\n[1] is asleep, and gets an idea. \\n\\\\n[1] wakes up and notices that no money was left \\nfor her.'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  if ($gameMessage._texts.length > 0){$gameMessage.add('\\f')}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  $gameMessage.add(v[102])"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  v[80] = 0"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "AP減少処理"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "prostitute.decreaseAP.call(this)"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "this.setWaitMode('message');"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        80,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        75,
+        0
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Wind-Synthetic02-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "Not even 1 yen could be obtained......"
+      ]
+    },
+    {
+      "code": 251,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "v[80] = Math.floor(v[80])"
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Coin",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "Received \\c[2]\\v[80]\\c[0] yen."
+      ]
+    },
+    {
+      "code": 125,
+      "indent": 1,
+      "parameters": [
+        0,
+        1,
+        80
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 118,
+      "indent": 0,
+      "parameters": [
+        "後処理"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "帰宅"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "スイッチinitialize"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        175
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        62
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        307,
+        0
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "NightQueen/Orgy SexEnd",
+  "switchId": 1,
+  "trigger": 0
+}

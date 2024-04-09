@@ -1,0 +1,33 @@
+{
+  "id": 371,
+  "animationId": 0,
+  "consumable": true,
+  "damage": {
+    "critical": false,
+    "elementId": 0,
+    "formula": "0",
+    "type": 0,
+    "variance": 20
+  },
+  "description": "The crepe pancake is rolled and folded, with many \ndifferent kinds of ingredients wrapped inside.",
+  "effects": [
+    {
+      "code": 44,
+      "dataId": 38,
+      "value1": 1,
+      "value2": 0
+    }
+  ],
+  "hitType": 0,
+  "iconIndex": 265,
+  "itypeId": 1,
+  "name": "Crepe Pancake",
+  "note": "<EVC 使用時>\nv[17]=1\n</EVC 使用時>",
+  "occasion": 0,
+  "price": 660,
+  "repeats": 1,
+  "scope": 11,
+  "speed": 0,
+  "successRate": 100,
+  "tpGain": 0
+}

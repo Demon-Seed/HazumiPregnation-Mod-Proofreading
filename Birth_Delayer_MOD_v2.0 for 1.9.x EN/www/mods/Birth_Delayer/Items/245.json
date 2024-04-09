@@ -1,0 +1,33 @@
+{
+  "id": 245,
+  "animationId": 0,
+  "consumable": true,
+  "damage": {
+    "critical": false,
+    "elementId": 0,
+    "formula": "0",
+    "type": 0,
+    "variance": 20
+  },
+  "description": "your baby take more time to born.\n(be careful you will be pregnant FOREVER!!!)",
+  "effects": [
+    {
+      "code": 44,
+      "dataId": 41,
+      "value1": 1,
+      "value2": 0
+    }
+  ],
+  "hitType": 0,
+  "iconIndex": 177,
+  "itypeId": 1,
+  "name": "Birth Delayer",
+  "note": "",
+  "occasion": 2,
+  "price": 25000,
+  "repeats": 1,
+  "scope": 11,
+  "speed": 0,
+  "successRate": 100,
+  "tpGain": 0
+}

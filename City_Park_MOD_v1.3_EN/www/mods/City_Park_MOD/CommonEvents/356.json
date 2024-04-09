@@ -1,0 +1,1009 @@
+{
+  "id": 356,
+  "list": [
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        358
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        381,
+        381,
+        0,
+        4,
+        "'正常位'"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        783,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        74,
+        74,
+        0,
+        4,
+        "'1st Man'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        104,
+        104,
+        0,
+        4,
+        "'1st Man'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        783,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        74,
+        74,
+        0,
+        4,
+        "'2nd Man'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        104,
+        104,
+        0,
+        4,
+        "'2nd Man'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        783,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        74,
+        74,
+        0,
+        4,
+        "'3rd Man'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        104,
+        104,
+        0,
+        4,
+        "'3rd Man'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        783,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        74,
+        74,
+        0,
+        4,
+        "'4th Man'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        104,
+        104,
+        0,
+        4,
+        "'4th Man'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        203
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        100,
+        100,
+        0,
+        0,
+        999
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        600,
+        0,
+        5,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        790,
+        790,
+        0,
+        2,
+        1,
+        5
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        600,
+        0,
+        6,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        790,
+        790,
+        0,
+        2,
+        1,
+        6
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        600,
+        0,
+        7,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        790,
+        790,
+        0,
+        2,
+        1,
+        7
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        1,
+        600,
+        0,
+        8,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 4,
+      "parameters": [
+        790,
+        790,
+        0,
+        2,
+        1,
+        8
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 4,
+      "parameters": [
+        1,
+        600,
+        0,
+        9,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 5,
+      "parameters": [
+        790,
+        790,
+        0,
+        2,
+        1,
+        9
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 5,
+      "parameters": [
+        1,
+        600,
+        0,
+        10,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 6,
+      "parameters": [
+        790,
+        790,
+        0,
+        2,
+        1,
+        10
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 6,
+      "parameters": [
+        1,
+        600,
+        0,
+        11,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 7,
+      "parameters": [
+        790,
+        790,
+        0,
+        2,
+        1,
+        11
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 7,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 7,
+      "parameters": [
+        1,
+        600,
+        0,
+        12,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 8,
+      "parameters": [
+        790,
+        790,
+        0,
+        2,
+        1,
+        12
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 8,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 7,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 8,
+      "parameters": [
+        1,
+        600,
+        0,
+        13,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 9,
+      "parameters": [
+        790,
+        790,
+        0,
+        2,
+        1,
+        13
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 9,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 8,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 9,
+      "parameters": [
+        1,
+        600,
+        0,
+        14,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 10,
+      "parameters": [
+        790,
+        790,
+        0,
+        2,
+        1,
+        14
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 10,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 9,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 10,
+      "parameters": [
+        1,
+        600,
+        0,
+        15,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 11,
+      "parameters": [
+        790,
+        790,
+        0,
+        2,
+        1,
+        15
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 11,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 10,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 10,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 9,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 9,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 8,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 8,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 7,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 7,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        599,
+        599,
+        0,
+        1,
+        790
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        81,
+        81,
+        0,
+        0,
+        91
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "Enchantment_mobs.mobSet.call(this)"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        64
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        666,
+        666,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        321,
+        321,
+        0,
+        0,
+        30
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        215
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        377,
+        377,
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        378,
+        378,
+        0,
+        4,
+        "$gameVariables._data[377] * 100"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        359
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\v[104] buried his dick deep inside \\n[1]'s pussy, "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "and kept cumming until dick completely softened."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        328,
+        328,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        83
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        78
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        10,
+        10,
+        1,
+        1,
+        76
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        10,
+        10,
+        1,
+        1,
+        78
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        11,
+        11,
+        1,
+        1,
+        77
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        50,
+        50,
+        1,
+        1,
+        76
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        50,
+        50,
+        1,
+        1,
+        78
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        51,
+        51,
+        1,
+        1,
+        77
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        49,
+        49,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        85,
+        85,
+        1
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "$gameTemp.isPiston = false"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "$gameTemp.isPulling = true"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        90
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        77,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "var i = $H.in_seieki.findIndex(x => x >= v[77])-1"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "i=i.clamp(1,6)"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "v[320] = $H.in_stat[i]"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "Last man just pulled out, next man immediately stepped "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "forward and replaced him by getting his dick inside."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        783,
+        783,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "NightQueen Sex1",
+  "switchId": 1,
+  "trigger": 0
+}

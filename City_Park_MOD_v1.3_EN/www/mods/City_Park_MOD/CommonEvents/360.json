@@ -1,0 +1,1202 @@
+{
+  "id": 360,
+  "list": [
+    {
+      "code": 118,
+      "indent": 0,
+      "parameters": [
+        "開始"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        225
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "if(!s[85]){"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "// 挿入していなかったらピストンもしない"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "  $gameTemp.isPiston = false"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        83,
+        0
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "AudioManager.playSe({\"name\":'gucho',\"volume\":350,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "const name = $gameActors.actor(1).name()"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "this.newNotif(`\\x1bC[23]The semen from the last person provides lubrication...\\x1bC[0]`)"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        54,
+        0
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "AudioManager.playSe({\"name\":'gucho',\"volume\":350,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "const name = $gameActors.actor(1).name()"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "this.newNotif(`\\x1bC[23]${name} is already wet.\\x1bC[0]`)"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        11,
+        0,
+        50,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "Semen from former people slowly and continuously "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "flowed out of \\n[1]'s vagina."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>Looks like already had other guys before me."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        10,
+        0,
+        30,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "Semen from former people covered \\n[1]'s whole body "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "with huge amount."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\v[104]>Looks like already had other guys before me."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[1]'s vulva beautifully bloomed like a flower."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\v[104]>How beautiful!"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        11,
+        0,
+        50,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>Well, okay."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\v[104]>I will shoot a lot inside as well."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        10,
+        0,
+        30,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\v[104]>Well, okay."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\v[104]>I will cover your body with a lot of my seed "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "as well."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\v[104]>Let's start."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 112,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "!!AudioManager._currentBgs && AudioManager._currentBgs.name == '_fella'"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "!$gameTemp.isOralSex"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        90
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        307,
+        0
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        309,
+        0
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 2,
+      "parameters": [
+        "終了"
+      ]
+    },
+    {
+      "code": 113,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 108,
+      "indent": 1,
+      "parameters": [
+        "基本コマンド"
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 1,
+      "parameters": [
+        "選択肢カラム数 3"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "if ($gameMessage._texts.length > 0){$gameMessage.add('\\f')}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "if (v[320]){ $gameMessage.add($gameVariables.value(320))"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "} else if (v[314]) { $gameMessage.add($gameVariables.value(314)) }"
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 1,
+      "parameters": [
+        [
+          "Drugs",
+          "Mouth",
+          "if(s[85])Pull Out",
+          "if(!s[85])",
+          "Chest",
+          "en( v[100]!==12 )Insert"
+        ],
+        -1,
+        5,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        0,
+        "Drugs"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        378,
+        378,
+        0,
+        4,
+        "$gameVariables._data[377] * 100"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        66
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        0,
+        309,
+        0
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 3,
+      "parameters": [
+        "終了"
+      ]
+    },
+    {
+      "code": 113,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        1,
+        "Mouth"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        378,
+        378,
+        0,
+        4,
+        "$gameVariables._data[377] * 100"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        67
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        2,
+        "if(s[85])Pull Out"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        320,
+        320,
+        0,
+        4,
+        "''"
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        85,
+        85,
+        1
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "$gameTemp.isPiston = false"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "$gameTemp.isPulling = true"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        90
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        90
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        77,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 3,
+      "parameters": [
+        "var i = $H.in_seieki.findIndex(x => x >= v[77])-1"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "i=i.clamp(1,6)"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "v[320] = $H.in_stat[i]"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        3,
+        "if(!s[85])"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        68
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        4,
+        "Chest"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        378,
+        378,
+        0,
+        4,
+        "$gameVariables._data[377] * 100"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        69
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        5,
+        "en( v[100]!==12 )Insert"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        378,
+        378,
+        0,
+        4,
+        "$gameVariables._data[377] * 100"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        70
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        0,
+        307,
+        0
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 102,
+      "indent": 1,
+      "parameters": [
+        [
+          "Belly",
+          "Tools",
+          "",
+          "Stop"
+        ],
+        -1,
+        -1,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        0,
+        "Belly"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        378,
+        378,
+        0,
+        4,
+        "$gameVariables._data[377] * 100"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        71
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        1,
+        "Tools"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        378,
+        378,
+        0,
+        4,
+        "$gameVariables._data[377] * 100"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        72
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        2,
+        ""
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        0,
+        500,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        378,
+        378,
+        0,
+        4,
+        "$gameVariables._data[377] * 100"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        73
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        3,
+        "Stop"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "Finish and call to the next Man?"
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 2,
+      "parameters": [
+        [
+          "Next",
+          "Continue"
+        ],
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 2,
+      "parameters": [
+        0,
+        "Next"
+      ]
+    },
+    {
+      "code": 113,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 2,
+      "parameters": [
+        1,
+        "Continue"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        309,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        61
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 413,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 118,
+      "indent": 0,
+      "parameters": [
+        "終了"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        361
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 0
+    }
+  ],
+  "name": "【Active】NightQueen Prostitution Mini Game",
+  "switchId": 1,
+  "trigger": 0
+}

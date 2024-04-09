@@ -1,0 +1,6301 @@
+{
+  "id": 358,
+  "list": [
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        785,
+        785,
+        0,
+        4,
+        "$gameVariables._data[784][$gameVariables._data[783]]"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "$gameVariables._data[785]==null"
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 1,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 1,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 1,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "man_a",
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "man_a",
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "Student_boy_1",
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "Student_boy_1",
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_1",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_1",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_2",
+                2
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_2",
+            2
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "Student_boy_1",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "Student_boy_1",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        6,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "Evil",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "Evil",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        7,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_1",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_1",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        8,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_2",
+                3
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_2",
+            3
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        9,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "office_worker_1",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "office_worker_1",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        10,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "People1",
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "People1",
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        11,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "middle_age_1",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "middle_age_1",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        12,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_2",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_2",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        13,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "People4",
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "People4",
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        14,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "middle_age_1",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "middle_age_1",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        15,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "middle_age_1",
+                2
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "middle_age_1",
+            2
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        16,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_2",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_2",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        17,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "Actor1",
+                2
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "Actor1",
+            2
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        18,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "man_a",
+                5
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "man_a",
+            5
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        19,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "office_worker_1",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "office_worker_1",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        785,
+        0,
+        20,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        21,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "man_a",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "man_a",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        786,
+        786,
+        0,
+        4,
+        "$gameVariables._data[784][$gameVariables._data[783]+1]"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "$gameVariables._data[786]==null"
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 1,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 1,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 1,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "man_a",
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "man_a",
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "Student_boy_1",
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "Student_boy_1",
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_1",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_1",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_2",
+                2
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_2",
+            2
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "Student_boy_1",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "Student_boy_1",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        6,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "Evil",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "Evil",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        7,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_1",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_1",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        8,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_2",
+                3
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_2",
+            3
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        9,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "office_worker_1",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "office_worker_1",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        10,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "People1",
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "People1",
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        11,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "middle_age_1",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "middle_age_1",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        12,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_2",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_2",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        13,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "People4",
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "People4",
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        14,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "middle_age_1",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "middle_age_1",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        15,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "middle_age_1",
+                2
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "middle_age_1",
+            2
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        16,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_2",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_2",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        17,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "Actor1",
+                2
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "Actor1",
+            2
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        18,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "man_a",
+                5
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "man_a",
+            5
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        19,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "office_worker_1",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "office_worker_1",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        786,
+        0,
+        20,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        31,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "man_a",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "man_a",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        787,
+        787,
+        0,
+        4,
+        "$gameVariables._data[784][$gameVariables._data[783]+2]"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "$gameVariables._data[787]==null"
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 1,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 1,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 1,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "man_a",
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "man_a",
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "Student_boy_1",
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "Student_boy_1",
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_1",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_1",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_2",
+                2
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_2",
+            2
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "Student_boy_1",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "Student_boy_1",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        6,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "Evil",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "Evil",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        7,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_1",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_1",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        8,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_2",
+                3
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_2",
+            3
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        9,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "office_worker_1",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "office_worker_1",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        10,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "People1",
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "People1",
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        11,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "middle_age_1",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "middle_age_1",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        12,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_2",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_2",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        13,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "People4",
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "People4",
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        14,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "middle_age_1",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "middle_age_1",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        15,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "middle_age_1",
+                2
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "middle_age_1",
+            2
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        16,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_2",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_2",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        17,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "Actor1",
+                2
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "Actor1",
+            2
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        18,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "man_a",
+                5
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "man_a",
+            5
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        19,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "office_worker_1",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "office_worker_1",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        787,
+        0,
+        20,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        9,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "man_a",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "man_a",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        788,
+        788,
+        0,
+        4,
+        "$gameVariables._data[784][$gameVariables._data[783]+3]"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "$gameVariables._data[788]==null"
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 1,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 1,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 1,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "man_a",
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "man_a",
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "Student_boy_1",
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "Student_boy_1",
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_1",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_1",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_2",
+                2
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_2",
+            2
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "Student_boy_1",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "Student_boy_1",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        6,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "Evil",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "Evil",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        7,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_1",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_1",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        8,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_2",
+                3
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_2",
+            3
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        9,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "office_worker_1",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "office_worker_1",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        10,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "People1",
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "People1",
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        11,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "middle_age_1",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "middle_age_1",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        12,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_2",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_2",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        13,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "People4",
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "People4",
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        14,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "middle_age_1",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "middle_age_1",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        15,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "middle_age_1",
+                2
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "middle_age_1",
+            2
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        16,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "pervert_2",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "pervert_2",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        17,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "Actor1",
+                2
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "Actor1",
+            2
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        18,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "man_a",
+                5
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "man_a",
+            5
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        19,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "office_worker_1",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "office_worker_1",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        788,
+        0,
+        20,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 2,
+      "parameters": [
+        32,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "man_a",
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 19,
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "man_a",
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 2,
+      "parameters": [
+        {
+          "code": 19,
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "Gather People ",
+  "switchId": 1,
+  "trigger": 0
+}

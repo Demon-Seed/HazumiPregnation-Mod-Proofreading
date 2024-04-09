@@ -1,0 +1,1348 @@
+{
+  "id": 73,
+  "list": [
+    {
+      "code": 112,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 118,
+      "indent": 1,
+      "parameters": [
+        "開始"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        309,
+        0
+      ]
+    },
+    {
+      "code": 113,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        ""
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "var erectIndex = $H.m_ext.findNum($gameVariables.value(321)) + 1"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "$gameVariables.setValue( 316, $H.bokki_fella[erectIndex] )"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "if (!$gameVariables.value(316)){ tryCatchAlert(`エラー！勃起文字列が不正です！`)　}"
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 1,
+      "parameters": [
+        "選択肢カラム数 3"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "if (v[314]) {"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  if ($gameMessage._texts.length > 0){$gameMessage.add('\\f')}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  $gameMessage.add(v[314]) "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 1,
+      "parameters": [
+        [
+          "Clitoris Play",
+          "Admire",
+          "Insert Finger",
+          "Rub",
+          "Lick",
+          "Return"
+        ],
+        -1,
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        0,
+        "Clitoris Play"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        379,
+        379,
+        0,
+        4,
+        "$gameVariables._data[377] * 10"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$gameVariables._data[371] <  $H.f_stat.findIndex(x => x == 'slightly wet')"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 3,
+      "parameters": [
+        "var arr = "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "["
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[1] squirms from \\\\n[4] toying her \\nclit.',"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[4] caresses \\\\n[1]\\'s beautiful clit \\nto his heart\\'s delight.',"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[4] attacks \\\\n[1]\\'s erect clit \\nto his heart\\'s delight.'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "]"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "randbunEX(arr)"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 3,
+      "parameters": [
+        "var arr = "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "["
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[1] lets out a moan as\\\\n[4] toying her \\nclit.',"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[4] caresses \\\\n[1]\\'s beautiful clit \\nto his heart\\'s delight.',"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[4] attacks \\\\n[1]\\'s soft clit \\nto his heart\\'s delight.'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "]"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "randbunEX(arr)"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        1,
+        "Admire"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        379,
+        379,
+        0,
+        4,
+        "$gameVariables._data[377] * 10"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "var arr = "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "["
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "'\\\\n[1] is spreading her vagina for \\\\n[4].',"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "'\\\\n[4] looks \\\\n[1]\\'s vagina \\nto his heart\\'s delight.',"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "'\\\\n[4] admires \\\\n[1]\\'s beautiful vagina \\nto his heart\\'s delight.'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "]"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "randbunEX(arr)"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        2,
+        "Insert Finger"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        379,
+        379,
+        0,
+        4,
+        "$gameVariables._data[377] * 10"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        354,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[4] scoops up some semen, and uses it as lubricant \nfor his finger."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[4] enjoys the firmness of the folds as he smears \nthem with cum."
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 3,
+      "parameters": [
+        "here"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        0,
+        54,
+        1
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 3,
+      "parameters": [
+        "v[102] = ''"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "switch (randmm(2)){"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "  case 0:"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "    v[102] += '\\x1bN[1]\\'s vagina won\\'t accept fingers.'; break;"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "  case 1:"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "    v[102] += '\\\\n[1]\\'s entrance \\x1bC[2]isn\\'t wet\\x1bC[0] yet!'; break;"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "  case 2:"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "    v[102] += '\\\\n[4] tries to insert his fingers, \\nbut \\x1bN[1]\\'s vagina \\x1bC[2]isn\\'t ready yet\\x1bC[0].'; break;"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "bun(v[102])"
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 118,
+      "indent": 2,
+      "parameters": [
+        "here"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        0,
+        85,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[4]'s penis is blocking \\n[1]'s vagina"
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 108,
+      "indent": 2,
+      "parameters": [
+        "実行判定"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[4] insert his fingers into \\n[1]'s vagina."
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$gameVariables.value(371) >= 20 && $gameVariables.value(371) < 60"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 3,
+      "parameters": [
+        "適度に湿った<=性感<濡れそぼった"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        3,
+        "Rub"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        379,
+        379,
+        0,
+        4,
+        "$gameVariables._data[377] * 10"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$gameVariables._data[371] <  $H.f_stat.findIndex(x => x == 'slightly wet')"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 3,
+      "parameters": [
+        "var arr = "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "["
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[1] squirms from \\\\n[4] rubbing her \\nvulva with his penis.',"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[4] caresses \\\\n[1]\\'s beautiful vulva with his penis \\nto his heart\\'s delight.',"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[4] rubs \\\\n[1]\\'s soft vulva with his penis \\nto his heart\\'s delight.'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "]"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "randbunEX(arr)"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 3,
+      "parameters": [
+        "var arr = "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "["
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[1] lets out a moan as \\\\n[4] caresses her \\nvulva with his penis.',"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[4] rubs \\\\n[1]\\'s vulva with his penis \\nto his heart\\'s delight.',"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[4] rubs \\\\n[1]\\'s soft vulva with his penis \\nto his heart\\'s delight.'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "]"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "randbunEX(arr)"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$gameVariables._data[321] <= $H.ext[5]"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        322,
+        322,
+        1,
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        322,
+        322,
+        1,
+        2,
+        4,
+        7
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        301,
+        301,
+        1,
+        2,
+        90,
+        440
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        87
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        4,
+        "Lick"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        379,
+        379,
+        0,
+        4,
+        "$gameVariables._data[377] * 10"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$gameVariables._data[371] <  $H.f_stat.findIndex(x => x == 'slightly wet')"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 3,
+      "parameters": [
+        "var arr = ["
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[1] squirms from \\\\n[4] licking her vulva.',"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[4] taste \\\\n[1]\\'s beautiful vulva to his \\nheart\\'s delight.',"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[4] lap \\\\n[1]\\'s soft vulva to his heart\\'s \\ndelight.'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "]"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "randbunEX(arr)"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 3,
+      "parameters": [
+        "var arr = ["
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[1] lets out a moan as \\\\n[4] tastes her \\nvulva.',"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[4] licks \\\\n[1]\\'s vulva to his heart\\'s delight.',"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "'\\\\n[4] laps \\\\n[1]\\'s soft vulva to his heart\\'s \\ndelight.'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "]"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "randbunEX(arr)"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        5,
+        "Return"
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "namen('God Hands')"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        372,
+        372,
+        1,
+        2,
+        2,
+        6
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "namen('Nimble-Fingered')"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        372,
+        372,
+        1,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 356,
+      "indent": 1,
+      "parameters": [
+        "callsel"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        215
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        216
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        211
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 1,
+      "parameters": [
+        "勃起が性感上限より多いなら強制射精"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "$gameVariables.value(321) > 92"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        328,
+        328,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$gameTemp.isOralSex"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        328,
+        328,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        0,
+        85,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        328,
+        328,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        87,
+        87,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        209
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        361,
+        361,
+        1,
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        61
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 413,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0
+    }
+  ],
+  "name": "【Active】 Genitals",
+  "switchId": 1,
+  "trigger": 0
+}

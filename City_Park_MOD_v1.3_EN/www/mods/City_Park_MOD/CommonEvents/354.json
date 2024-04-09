@@ -1,0 +1,3379 @@
+{
+  "id": 354,
+  "list": [
+    {
+      "code": 356,
+      "indent": 0,
+      "parameters": [
+        "選択肢カラム数 0"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "前戯好きならキャンセル"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "$gameVariables.value(100) == 12"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\v[79] \\n[4] lost interest."
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "勃起度による可不可判定"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        53,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n[4] is \\c[2]not erect enough\\c[0] to insert..."
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "!namen('Wants to Pour In Semen')"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        83,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        0,
+        317,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[1]'s pussy is caked in semen from the previous "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "partner, and accepts \\n[4]'s penis easily."
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 3,
+      "parameters": [
+        317,
+        317,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 108,
+      "indent": 2,
+      "parameters": [
+        "精液濡れでない"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        0,
+        54,
+        1
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        12,
+        "namen('Small Penis')"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\n[1] is not wet enough, however \\n[4]'s penis is \nsmall enough to fit."
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 4,
+      "parameters": [
+        "濡れた分岐終わり"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 355,
+      "indent": 3,
+      "parameters": [
+        "v[102] = ''"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "switch (randmm(2)){"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "  case 0:"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "    v[102] += '\\x1bN[1]\\'s vagina won\\'t accept a penis.'; break;"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "  case 1:"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "    v[102] += '\\\\n[1]\\'s entrance \\x1bC[2]isn\\'t wet\\x1bC[0] yet!'; break;"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "  case 2:"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "    v[102] += '\\\\n[4] tries to insert his penis, \\nbut \\x1bN[1]\\'s vagina \\x1bC[2]isn\\'t ready yet\\x1bC[0].'; break;"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "bun(v[102])"
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 118,
+      "indent": 0,
+      "parameters": [
+        "濡れた分岐終わり"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "$gameVariables.value(327)&&$gameVariables.value(327)+3 > $gameVariables.value(361)"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "namen('Lively')"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[4] is \\c[2]energetic\\c[0] and is already erect \nagain."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        327,
+        327,
+        0,
+        1,
+        361
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 2,
+      "parameters": [
+        "息子復活"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "namen('Loses Erection Suddenly')"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "It will take a bit for \\n[4] to get erect again."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        327,
+        327,
+        1,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 2,
+      "parameters": [
+        "息子復活"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        363,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "Because he drank an aphrodisiac, \\n[4]'s penis stays \nerect!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        327,
+        327,
+        0,
+        1,
+        361
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 2,
+      "parameters": [
+        "息子復活"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 108,
+      "indent": 1,
+      "parameters": [
+        "射精インターバル存在していて&&、経過時間より多かったら"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n[4] takes a short rest before getting erect again."
+      ]
+    },
+    {
+      "code": 118,
+      "indent": 1,
+      "parameters": [
+        "息子復活"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        361,
+        361,
+        0,
+        1,
+        327
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        327,
+        327,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "注ぎ好きなら特殊分岐"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "namen('Wants to Pour In Semen')"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        98
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        85,
+        0
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 1,
+      "parameters": [
+        "ピストン"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "コンドーム装着/はずす"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 0,
+      "parameters": [
+        "450<生理周期<=800&&中出しされていない&&妊娠自覚していない"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 0,
+      "parameters": [
+        "ゴム好きでない&&注ぎ込みたいでないなら"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        86,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n[4] is wearing a condom. Remove it?"
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 1,
+      "parameters": [
+        [
+          "No",
+          "Yes"
+        ],
+        -1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        0,
+        "No"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        1,
+        "Yes"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[4] removes his condom."
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        86,
+        86,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 119,
+      "indent": 1,
+      "parameters": [
+        "ピストン"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "$gameVariables.value(3) > 450 && $gameVariables.value(3) <= 800 && !$gameSwitches.value(43) && $gameVariables.value(77) <= 5 && !namen('Likes Condoms','Wants to Pour In Semen')"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n[4] tries to insert his penis into \\n[1], but it's not \na safe day and she asks him to wear a condom."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "isRingetsu() && $gameVariables.value(77) <= 5"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[4] tries to insert his penis into \\n[1], but she's \nclose to giving birth and asks him to wear a condom."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 119,
+      "indent": 2,
+      "parameters": [
+        "ピストン"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "Should \\n[4] put on a condom?"
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 0,
+      "parameters": [
+        [
+          "No",
+          "en(v[100]!==7)Yes"
+        ],
+        -1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        0,
+        "No"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "v[102] = '\\\\n[4]'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "arr = ['They reject the request.', 'They ignore the request.', 'They pretend not to hear.']"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "randbunEX(arr,v[102])"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        1,
+        "en(v[100]!==7)Yes"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        100,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\v[79] \\n[4] puts on a free condom."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[4] puts on a condom."
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        86,
+        86,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 119,
+      "indent": 0,
+      "parameters": [
+        "ピストン"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "namen('Likes Condoms')"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n[4] likes to use condoms, so he puts one on."
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        86,
+        86,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 118,
+      "indent": 0,
+      "parameters": [
+        "ピストン"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "$gameTemp.isPulling = false"
+      ]
+    },
+    {
+      "code": 112,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        309,
+        0
+      ]
+    },
+    {
+      "code": 113,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 108,
+      "indent": 1,
+      "parameters": [
+        "勃起状態分岐"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 1,
+      "parameters": [
+        "男コンドーム付けていたら分岐"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "let stat = $H.m_ext.findIndex(x => x >= $gameVariables.value(321))"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "if($gameVariables.value(321) >= $H.m_ext[20]){ stat=20 }"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "if ( $gameSwitches.value(86) ) { "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  $gameVariables.setValue(316, 'wrapped up' )"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "} else { "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  if(stat){ $gameVariables.setValue( 316, $H.bokki_text[stat] ) }"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 1,
+      "parameters": [
+        "女性感で文章分岐"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 1,
+      "parameters": [
+        "一定以上の性感で中に出されていたら分岐"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "let stat = $H.f_ext.findIndex(x => x >= $gameVariables.value(371))"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "if($gameSwitches.value(55) && $gameVariables.value(371) < 50){ "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  $gameVariables.setValue( 315, `lotion lubricated` )"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  stat = null"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "if($gameVariables.value(371) >= $H.f_ext[20]){ stat=20 }"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "if(stat){ $gameVariables.setValue(315,$H.f_stat[stat]) }"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        85,
+        1
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        0,
+        87,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        0,
+        86,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\n[4] thrusts his \\v[316] \\c[17]semen coated\\c[0] \npenis into \\n[1]'s \\v[315] pussy."
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 4,
+      "parameters": [
+        {
+          "name": "sonyuu",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 4,
+      "parameters": [
+        77,
+        77,
+        1,
+        4,
+        "Math.round( randmm(140,300)/100 )"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 4,
+      "parameters": [
+        12,
+        "namen('Desires to Impregnate')"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "There is a possibility of getting pregnant."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n[4] smiles and laughs because of his desire to \nimpregnate."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 5,
+      "parameters": [
+        301,
+        301,
+        1,
+        2,
+        99,
+        450
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 5,
+      "parameters": [
+        87
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        1,
+        75,
+        0,
+        5,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\n[4] thrusts his \\v[316] penis back into the \nhole he had ejaculated several times into."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\n[4] thrusts his \\v[316] dick into \\n[1]'s "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\v[315] pussy."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "sonyuu",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "namen('Big Dick')"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        1,
+        371,
+        0,
+        60,
+        3
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\n[1]'s dripping wet cunt quickly swallows \\n[4]'s \nmagnum dong."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\n[1] is in pain after being penetrated by such a \nmassive penis."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        87,
+        87,
+        1
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        0,
+        313,
+        1
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        12,
+        "namen('Virgin')"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\n[4] quivers as he loses his virginity."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 4,
+      "parameters": [
+        301,
+        301,
+        1,
+        2,
+        1400,
+        3500
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 4,
+      "parameters": [
+        87
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        95
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        321,
+        0,
+        100,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[4]'s dick is at its limit, and he cums just from \ninsertion."
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 3,
+      "parameters": [
+        "暴発"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[4] penetrates \\n[1]'s \\v[315] snatch with \nhis \\v[316] cock."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "v[89] = v[89] || 1"
+      ]
+    },
+    {
+      "code": 245,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "_bed_ghisian",
+          "volume": 80,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "$gameTemp.isPiston = true"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "$gameTemp.isShasei = false"
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        313,
+        313,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        378,
+        378,
+        0,
+        0,
+        500
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        379,
+        379,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 1,
+      "parameters": [
+        "callsel"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 1,
+      "parameters": [
+        "########################################"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 1,
+      "parameters": [
+        "#               本体                   #"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 1,
+      "parameters": [
+        "########################################"
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 1,
+      "parameters": [
+        "選択肢カラム数 3"
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 1,
+      "parameters": [
+        [
+          "Normal Thrusting",
+          "Hard Thrusting",
+          "Slow Thrusting",
+          "en( v[100]!==7 )Cum Outside",
+          "en( v[100]!==8 )Cum Inside",
+          "Just Cum & Finish"
+        ],
+        -1,
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        0,
+        "Normal Thrusting"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        379,
+        379,
+        0,
+        4,
+        "$gameVariables._data[377] * 10"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 2,
+      "parameters": [
+        "実行判定"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[4] moves his hips while thrusting."
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$gameVariables.value(371) < 45"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 3,
+      "parameters": [
+        "勃起が半勃起未満"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 3,
+      "parameters": [
+        "早漏4のときは更に加算"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 3,
+      "parameters": [
+        "遅漏5のときは上昇鈍く"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 3,
+      "parameters": [
+        "それ以外のときは3つ目の数値"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        322,
+        322,
+        0,
+        2,
+        10,
+        14
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        322,
+        322,
+        0,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$gameVariables.value(371) >= 20 && $gameVariables.value(371) < 60"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 3,
+      "parameters": [
+        "適度に湿った<=性感<濡れそぼった"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        227
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        1,
+        "Hard Thrusting"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        379,
+        379,
+        0,
+        4,
+        "$gameVariables._data[377] * 10"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[4] thrusts hard."
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$gameVariables.value(361) >= 45"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 3,
+      "parameters": [
+        "勃起が半勃起以上"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 3,
+      "parameters": [
+        "早漏4のときは更に加算"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 3,
+      "parameters": [
+        "遅漏5のときは上昇鈍く"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 3,
+      "parameters": [
+        "それ以外のときは3つ目の数値"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        322,
+        322,
+        0,
+        2,
+        11,
+        14
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        322,
+        322,
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$gameVariables.value(371) >= 60"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 3,
+      "parameters": [
+        "性感>=濡れそぼった"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        227
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        2,
+        "Slow Thrusting"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        379,
+        379,
+        0,
+        4,
+        "$gameVariables._data[377] * 10"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "var num = 2"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "if(!s[86]){//ゴムをしていなかったら"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "  num+=1"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "v[24] = randmm(1,num)"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        24,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[4] moves in a way to relish \\n[1]'s \n\\v[315] vagina."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        24,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[4] rubs his \\v[316] prick along the wall of \n\\n[1]'s pussy to experience its folds."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        24,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[4] is enjoying the experience of flesh on flesh \ncontact that can't be done with a condom."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        321,
+        321,
+        1,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        227
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        3,
+        "en( v[100]!==7 )Cum Outside"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        379,
+        379,
+        0,
+        4,
+        "$gameVariables._data[377] * 10"
+      ]
+    },
+    {
+      "code": 118,
+      "indent": 2,
+      "parameters": [
+        "Cum Outside"
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 2,
+      "parameters": [
+        "選択肢カラム数 0"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        24,
+        24,
+        0,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        24,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[4] ejaculates on \\n[1]'s body."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        24,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[4] ejaculates on \\n[1]'s face."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        328,
+        328,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        85,
+        85,
+        1
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 2,
+      "parameters": [
+        "callsel"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        83
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        4,
+        "en( v[100]!==8 )Cum Inside"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        379,
+        379,
+        0,
+        4,
+        "$gameVariables._data[377] * 10"
+      ]
+    },
+    {
+      "code": 118,
+      "indent": 2,
+      "parameters": [
+        "Inside"
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 2,
+      "parameters": [
+        "選択肢カラム数 0"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 2,
+      "parameters": [
+        "危険日真っ只中&&ゴムなし&&膣内精液<=5"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$gameSwitches.value(49) && !$gameSwitches.value(86) && $gameVariables.value(77) <= 5"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "Today is a dangerous day... Will you ask him to cum \noutside?"
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 3,
+      "parameters": [
+        [
+          "Say nothing.",
+          "Cum outside."
+        ],
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 3,
+      "parameters": [
+        0,
+        "Say nothing."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 3,
+      "parameters": [
+        1,
+        "Cum outside."
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 4,
+      "parameters": [
+        12,
+        "namen('Wants to Creampie')"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 5,
+      "parameters": [
+        "let arrBun = [`Giving in to lust, semen is shot out while still inside.`,"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 5,
+      "parameters": [
+        "`Despite agreeing not to, semen is shot out while still \\ninside.`,"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 5,
+      "parameters": [
+        "`Giving in to lust, the request is ignored.`]"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 5,
+      "parameters": [
+        "v[102] = randbun(arrBun)"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n[4] wants to put it in raw \\v[102]."
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 5,
+      "parameters": [
+        "外出し分岐スキップ"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 4,
+      "parameters": [
+        12,
+        "namen('Desires to Impregnate')"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 5,
+      "parameters": [
+        "let arrBun = ["
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 5,
+      "parameters": [
+        "`Child making seed pours inside.`,"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 5,
+      "parameters": [
+        "`Despite agreeing not to, semen is shot out while still \\ninside.`,"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 5,
+      "parameters": [
+        "`The request is ignored.`"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 5,
+      "parameters": [
+        "]"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 5,
+      "parameters": [
+        "v[102] = randbun(arrBun)"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n[4] wants to impregnate the woman in front of him "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\v[102]."
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 5,
+      "parameters": [
+        "外出し分岐スキップ"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 4,
+      "parameters": [
+        22,
+        22,
+        0,
+        2,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 4,
+      "parameters": [
+        1,
+        22,
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n[4] agrees."
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 5,
+      "parameters": [
+        85,
+        85,
+        1
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 5,
+      "parameters": [
+        "Cum Outside"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 5,
+      "parameters": [
+        24,
+        24,
+        0,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 5,
+      "parameters": [
+        1,
+        24,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 6,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 6,
+      "parameters": [
+        "\\n[4] shakes his head."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 5,
+      "parameters": [
+        1,
+        24,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 6,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 6,
+      "parameters": [
+        "\\n[4] pretends not to hear."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 118,
+      "indent": 2,
+      "parameters": [
+        "外出し分岐スキップ"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        226
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[4] penetrates \\n[1]."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        328,
+        328,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 2,
+      "parameters": [
+        "callsel"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        83
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        5,
+        "Just Cum & Finish"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[4] is in a hurry, so he just focus on cum."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        819,
+        819,
+        0,
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        819,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 3,
+      "parameters": [
+        "Inside"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 119,
+      "indent": 3,
+      "parameters": [
+        "Cum Outside"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "namen('Nimble-Fingered')"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        372,
+        372,
+        1,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 356,
+      "indent": 1,
+      "parameters": [
+        "callsel"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        215
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        216
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        211
+      ]
+    },
+    {
+      "code": 118,
+      "indent": 1,
+      "parameters": [
+        "暴発"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "$gameVariables.value(321) > 92"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        328,
+        328,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        209
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        361,
+        361,
+        1,
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        61
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 413,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0
+    }
+  ],
+  "name": "【Active】Park Insertion/Thrusting",
+  "switchId": 1,
+  "trigger": 0
+}

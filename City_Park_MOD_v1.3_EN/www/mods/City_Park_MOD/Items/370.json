@@ -1,0 +1,33 @@
+{
+  "id": 370,
+  "animationId": 0,
+  "consumable": false,
+  "damage": {
+    "critical": false,
+    "elementId": 0,
+    "formula": "0",
+    "type": 0,
+    "variance": 20
+  },
+  "description": "You can take off your clothes and store it here.",
+  "effects": [
+    {
+      "code": 44,
+      "dataId": 352,
+      "value1": 1,
+      "value2": 0
+    }
+  ],
+  "hitType": 0,
+  "iconIndex": 209,
+  "itypeId": 2,
+  "name": "Exhibitionist purse",
+  "note": "",
+  "occasion": 0,
+  "price": 0,
+  "repeats": 1,
+  "scope": 11,
+  "speed": 0,
+  "successRate": 100,
+  "tpGain": 0
+}

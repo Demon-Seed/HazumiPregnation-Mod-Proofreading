@@ -1,0 +1,50 @@
+{
+  "id": 367,
+  "list": [
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        726,
+        726,
+        0,
+        3,
+        5,
+        -1,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        727,
+        727,
+        0,
+        3,
+        5,
+        -1,
+        1
+      ]
+    },
+    {
+      "code": 285,
+      "indent": 0,
+      "parameters": [
+        728,
+        6,
+        1,
+        726,
+        727
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "Detect Region ID",
+  "switchId": 1,
+  "trigger": 0
+}

@@ -1,0 +1,1230 @@
+{
+  "id": 352,
+  "list": [
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "Do you want to store you clone on it?"
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 0,
+      "parameters": [
+        [
+          "if(s[2]==0)Store all my clothes",
+          "if(s[3]==0)Store Just my bra",
+          "if(s[2]==1||s[3]==1)Put my clothes on",
+          "Leave"
+        ],
+        3,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        0,
+        "if(s[2]==0)Store all my clothes"
+      ]
+    },
+    {
+      "code": 221,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Equip2",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        3,
+        3,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        2,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 222,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        6
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>I don't care what other people would think of "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "me anymore!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        1,
+        "if(s[3]==0)Store Just my bra"
+      ]
+    },
+    {
+      "code": 221,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Equip2",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        3,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiTopless'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumiTopless_maid'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiYTopless'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumiTopless_maidY'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiLTopless'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumiTopless_maidL'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiGT1Topless'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumiTopless_maidGT1'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiGT2Topless'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumiTopless_maidGT2'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiYGT1Topless'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumiTopless_maidYGT1'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        6,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiYGT2Topless'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumiTopless_maidYGT2'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        7,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiLGT1Topless'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumiTopless_maidLGT1'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        8,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiLGT2Topless'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumiTopless_maidLGT2'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        236
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 222,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Feels more embarrassing than nude."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        2,
+        "if(s[2]==1||s[3]==1)Put my clothes on"
+      ]
+    },
+    {
+      "code": 221,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Equip2",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        3,
+        3,
+        1
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumi'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumi_maid'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiY'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumi_maidY'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiL'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumi_maidL'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiGT1'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumi_maidGT1'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiGT2'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumi_maidGT2'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        5,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiYGT1'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumi_maidYGT1'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        6,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiYGT2'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumi_maidYGT2'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        7,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiLGT1'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumi_maidLGT1'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        704,
+        0,
+        8,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        703,
+        703,
+        0,
+        4,
+        "'hadumiLGT2'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        702,
+        702,
+        0,
+        4,
+        "'hadumi_maidLGT2'"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        236
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 222,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>That's it for today!"
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        168,
+        168,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        3,
+        "Leave"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "Exhibitionist purse",
+  "switchId": 1,
+  "trigger": 0
+}

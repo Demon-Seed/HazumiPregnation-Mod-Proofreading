@@ -1,0 +1,118 @@
+{
+  "id": 351,
+  "list": [
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "if ( v[802] >= 0 && v[802] <= 5 ) { v[806] = 5 }"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "if ( v[802] >= 6 && v[802] <= 12 ) { v[806] = 2 }"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "if ( v[802] >= 13 && v[802] <= 17 ) { v[806] = 3 }"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "if ( v[802] >= 18 && v[802] <= 20 ) { v[806] = 4 }"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "if ( v[802] >= 21 && v[802] <= 24 ) { v[806] = 5 }"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "switch(v[806]){"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "case 5: v[798]='Night' "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "break;"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "case 2: v[798]='Morning'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "break;"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "case 3: v[798]='Afternoon' "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "break;"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "case 4: v[798]='Evening' "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "break;"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "} "
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "Day cycle time",
+  "switchId": 1000,
+  "trigger": 2
+}

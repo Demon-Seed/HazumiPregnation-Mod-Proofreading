@@ -1,0 +1,804 @@
+{
+  "id": 368,
+  "list": [
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        728,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "$gamePlayer.isMoving()"
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "501888__greenfiresound__snow-07",
+          "volume": 60,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        22
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "$gamePlayer.isDashing()"
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "501888__greenfiresound__snow-07",
+          "volume": 60,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        10
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        728,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "$gamePlayer.isMoving()"
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "501890__greenfiresound__snow-05",
+          "volume": 60,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        22
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "$gamePlayer.isDashing()"
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "501890__greenfiresound__snow-05",
+          "volume": 60,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        10
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        728,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "$gamePlayer.isMoving()"
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "501887__greenfiresound__snow-08",
+          "volume": 60,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        22
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        819,
+        819,
+        0,
+        2,
+        0,
+        50
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        819,
+        0,
+        50,
+        1
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "536921__eminyildirim__ice-crack-low",
+          "volume": 60,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        14
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>What was that sound?"
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "_boton",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>Aaaaaaaaaaaaaah!!!"
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 3,
+      "parameters": [
+        -1,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 3,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 221,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        11
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "Ice suddenly cracked and \\n[1] fell into the iced lake."
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "Next Spring when the ice melted, "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "her dead body was found..."
+      ]
+    },
+    {
+      "code": 353,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "$gamePlayer.isDashing()"
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "501887__greenfiresound__snow-08",
+          "volume": 60,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        10
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        819,
+        819,
+        0,
+        2,
+        0,
+        10
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        819,
+        0,
+        10,
+        1
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "536921__eminyildirim__ice-crack-low",
+          "volume": 60,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        14
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>What was that sound?"
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "_boton",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>Aaaaaaaaaaaaaah!!!"
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 3,
+      "parameters": [
+        -1,
+        {
+          "list": [
+            {
+              "code": 41,
+              "parameters": [
+                "",
+                0
+              ],
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 3,
+      "parameters": [
+        {
+          "code": 41,
+          "parameters": [
+            "",
+            0
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 221,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        11
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "Ice suddenly cracked and \\n[1] fell into the iced lake."
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "Next Spring when the ice melted, "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "her dead body was found..."
+      ]
+    },
+    {
+      "code": 353,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "FootStep Sounds",
+  "switchId": 1,
+  "trigger": 0
+}

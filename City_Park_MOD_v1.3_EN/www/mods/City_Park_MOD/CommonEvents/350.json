@@ -1,0 +1,260 @@
+{
+  "id": 350,
+  "list": [
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        801,
+        801,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        801,
+        0,
+        60,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        802,
+        802,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        801,
+        801,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        805,
+        805,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        805,
+        0,
+        8,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        804,
+        804,
+        0,
+        2,
+        0,
+        5
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        805,
+        805,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        802,
+        0,
+        24,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        802,
+        802,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        803,
+        803,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        995,
+        995,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        803,
+        0,
+        15,
+        1
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        999,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        999,
+        999,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        999,
+        999,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        803,
+        803,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "Time System",
+  "switchId": 1000,
+  "trigger": 2
+}
