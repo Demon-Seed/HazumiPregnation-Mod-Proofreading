@@ -12051,7 +12051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "← W.C"
+                                "← Bathroom"
                             ]
                         },
                         {
@@ -12086,7 +12086,7 @@
         },
         {
             "id": 7,
-            "name": "W.C. Sign",
+            "name": "Bathroom Sign",
             "note": "",
             "pages": [
                 {
@@ -12148,7 +12148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "W.C"
+                                "Bathroom"
                             ]
                         },
                         {
