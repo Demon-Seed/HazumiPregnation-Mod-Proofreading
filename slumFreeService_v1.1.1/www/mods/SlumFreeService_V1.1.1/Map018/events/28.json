@@ -1,0 +1,60 @@
+{
+  "id": 28,
+  "name": "EV028",
+  "note": "",
+  "pages": [
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 666,
+        "switch2Valid": false,
+        "variableId": 661,
+        "variableValid": true,
+        "variableValue": 7
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Doctor",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 0
+      },
+      "list": [
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    }
+  ],
+  "x": 8,
+  "y": 9
+}

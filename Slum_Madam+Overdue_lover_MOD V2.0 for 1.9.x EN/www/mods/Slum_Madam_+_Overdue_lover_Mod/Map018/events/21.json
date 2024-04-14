@@ -1,0 +1,1928 @@
+{
+  "id": 21,
+  "name": "EV021",
+  "note": "",
+  "pages": [
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 56,
+        "variableValid": true,
+        "variableValue": 3
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "People1",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 5
+      },
+      "list": [
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            104,
+            104,
+            0,
+            4,
+            "'????'"
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>Ahh, it's been a long time since I last came here."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]>Excuse me Miss, who exactly are you?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>Ohh sorry, I'm the Slum Lord's beloved wife, "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "you can call me \"Slum Madam\", if you like."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            104,
+            104,
+            0,
+            4,
+            "'Slum Madam'"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]>OK, \\v[104], why weren't you here before?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>Well, that is because I was travelling around "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "the world, carrying out some research."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            5
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]>Research?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>yeah,\\.\\. You know,\\.\\. multiple pregnancy"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            16
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]>Wait!?\\.\\. You what!?."
+          ]
+        },
+        {
+          "code": 123,
+          "indent": 0,
+          "parameters": [
+            "A",
+            0
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 2,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 2,
+      "moveType": 1,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    },
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": true,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 56,
+        "variableValid": true,
+        "variableValue": 3
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "People1",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 5
+      },
+      "list": [
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            104,
+            104,
+            0,
+            4,
+            "'Slum Madam'"
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>Hello honey, how can I help you?"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 112,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>What should I ask her?"
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 1,
+          "parameters": [
+            [
+              "Tell me about yourself",
+              "What has your researsh uncovered? ",
+              "What are the limits?",
+              "What's the cost?",
+              "I want to try it",
+              "Nevermind"
+            ],
+            5,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            0,
+            "Tell me about yourself"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>As you know I'm the wife of the Slum Lord,"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "when I was a young woman, I really wanted bear a "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "child with him."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>Sadly, I discovered I was an infertile woman... "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "All I ever wanted was a child..."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>In my denial, I travelled around the world"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "searching for a solution, or so that was my thinking..."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            1,
+            "What has your researsh uncovered? "
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>I discovered a technique to induce the production "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "of ovums in the ovaries of fertile women"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[1]>Where did you learn that technique?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>I learned the technique from the maidens of shrine "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "dedicated to a fertility goddess from a faraway country."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            2,
+            "What are the limits?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>This technique has certain limitations:"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "First, you need to have at least one fertilized ovum, "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "or be in the first eight weeks of pregnancy."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>Second, it doesn't work alone."
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "It needs your collaboration for a successful multiple pregnancy"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "you need to have a lot of sperm in your uterus"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "during the treatment."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            3,
+            "What's the cost?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>I use breast milk as currency, keep that in mind"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            4,
+            "I want to try it"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            1,
+            60,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\v[104]>Sorry honey, in your current condition "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "the technique will not work."
+          ]
+        },
+        {
+          "code": 113,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            1,
+            42,
+            0,
+            1,
+            5
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            1,
+            43,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "code": 119,
+          "indent": 4,
+          "parameters": [
+            "first week pregnant"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\v[104]>Sorry honey, you need to be fertilized or"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "the technique will not work."
+          ]
+        },
+        {
+          "code": 113,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 118,
+          "indent": 2,
+          "parameters": [
+            "first week pregnant"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            1,
+            43,
+            0,
+            7,
+            1
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\v[104]>Sorry honey, in your current condition "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "the technique will not work."
+          ]
+        },
+        {
+          "code": 113,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            1,
+            59,
+            0,
+            5,
+            3
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\v[104]>\\n[1], I can sense a LOT of little lives in your "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "belly, your body cannot possibly bear more."
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "Do you really want to continue?"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            15
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 3,
+          "parameters": [
+            [
+              "Yes,Do it ",
+              "I want to think about it"
+            ],
+            1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 3,
+          "parameters": [
+            0,
+            "Yes,Do it "
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 4,
+          "parameters": [
+            8,
+            44
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 5,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 5,
+          "parameters": [
+            "\\n<\\v[104]>It will cost 1 unit of breast milk."
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 5,
+          "parameters": [
+            [
+              "Pay it",
+              "I've changed my mind"
+            ],
+            1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 5,
+          "parameters": [
+            0,
+            "Pay it"
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 6,
+          "parameters": [
+            {
+              "name": "Shop1",
+              "volume": 80,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 126,
+          "indent": 6,
+          "parameters": [
+            44,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 6,
+          "parameters": [
+            "$gameSystem.items.bonyu.length -= 1"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 6,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 6,
+          "parameters": [
+            "\\v[104] takes 1 unit of breast milk from \\n[1]"
+          ]
+        },
+        {
+          "code": 119,
+          "indent": 6,
+          "parameters": [
+            "treatment"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 5,
+          "parameters": [
+            1,
+            "I've changed my mind"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 6,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 5,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 5,
+          "parameters": [
+            "\\n<\\v[104]>Sorry honey... It seems you don't have any breast milk. "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 5,
+          "parameters": [
+            "Come back when you have some."
+          ]
+        },
+        {
+          "code": 115,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 3,
+          "parameters": [
+            1,
+            "I want to think about it"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            8,
+            44
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>It will cost 1 unit of breast milk."
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 4,
+          "parameters": [
+            [
+              "Pay it",
+              "I've changed my mind"
+            ],
+            1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 4,
+          "parameters": [
+            0,
+            "Pay it"
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 5,
+          "parameters": [
+            {
+              "name": "Shop1",
+              "volume": 80,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 126,
+          "indent": 5,
+          "parameters": [
+            44,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 5,
+          "parameters": [
+            "$gameSystem.items.bonyu.length -= 1"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 5,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 5,
+          "parameters": [
+            "\\v[104] takes 1 unit of breast milk from \\n[1]"
+          ]
+        },
+        {
+          "code": 119,
+          "indent": 5,
+          "parameters": [
+            "treatment"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 4,
+          "parameters": [
+            1,
+            "I've changed my mind"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Sorry honey... It seems you don't have any breast milk. "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "Come back when you have some."
+          ]
+        },
+        {
+          "code": 115,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 118,
+          "indent": 3,
+          "parameters": [
+            "treatment"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\v[104]>OK, are you ready \\n[1]?, "
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>I'm ready, start the process."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\v[104]>OK \\n[1],first remove your clothes."
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 3,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 3,
+          "parameters": [
+            {
+              "name": "Equip2",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 3,
+          "parameters": [
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 3,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            7
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>This is a little embarrassing..."
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 3,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\v[104]>Your womb will feel like it's melting."
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 3,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\v[104] put her hand in \\n[1]'s belly"
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 3,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n[1]'s insides begins to feel like it's melting."
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 3,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            9
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>This treatment is turning me on a little..."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            364,
+            364,
+            1,
+            2,
+            1,
+            5
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\v[104]>OK \\n[1],you can dress up now."
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 3,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 3,
+          "parameters": [
+            {
+              "name": "Equip2",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 3,
+          "parameters": [
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 3,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            12,
+            "prostitute.judgeCombinedPregnancy.call(this)"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 4,
+          "parameters": [
+            0,
+            4,
+            0
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 5,
+          "parameters": [
+            {
+              "name": "Starlight",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 5,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            14
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 5,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 5,
+          "parameters": [
+            "a new ovum in \\n[1]'s uterus has take place "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 5,
+          "parameters": [
+            "a new life has taken hold...!"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 5,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 5,
+          "parameters": [
+            "the \\n[1]'s womb feels a little different."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 5,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 355,
+          "indent": 4,
+          "parameters": [
+            "prostitute.combinedPregnancy.call(this)"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "the \\n[1]'s womb doesn't feel any difference..."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 113,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            5,
+            "Nevermind"
+          ]
+        },
+        {
+          "code": 113,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 413,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 2,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 2,
+            "indent": null
+          },
+          {
+            "code": 2,
+            "indent": null
+          },
+          {
+            "code": 2,
+            "indent": null
+          },
+          {
+            "code": 2,
+            "indent": null
+          },
+          {
+            "code": 3,
+            "indent": null
+          },
+          {
+            "code": 3,
+            "indent": null
+          },
+          {
+            "code": 3,
+            "indent": null
+          },
+          {
+            "code": 15,
+            "parameters": [
+              60
+            ],
+            "indent": null
+          },
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 1,
+      "moveType": 1,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    }
+  ],
+  "x": 14,
+  "y": 13
+}
