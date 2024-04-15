@@ -1,9 +1,13 @@
-README credit goes to DazedAnon.
+# How to Apply Patch
+1. Hit the green code button.
+2. Download as Zip.
+3. Merge the www folders contained within the mod folders into the www folder in your game files. The order doesn't matter.
 
-# Apply Patch
-1. Click Code
-2. Click Download ZIP
-3. Extract to game folder and Replace All.
+# Example Changes 
+
+![image](https://github.com/Demon-Seed/NamelessDEV-Mod-Proofreading/assets/153878897/89d746c8-a239-421c-8a87-a89d967ed9bf)
+
+README credit goes to DazedAnon. 
 
 # How To Contribute
 TLDR 3 steps.
