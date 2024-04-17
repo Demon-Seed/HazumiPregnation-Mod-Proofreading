@@ -3,6 +3,10 @@
 2. Download as Zip.
 3. Merge the www folders contained within the mod folders into the www folder in your game files. The order doesn't matter.
 
+# Mod Credits
+ - Exhibitionism Mod: XYZone
+ - The Rest of the Mods: NamelessDEV
+
 # Example Changes 
 
 ![image](https://github.com/Demon-Seed/NamelessDEV-Mod-Proofreading/assets/153878897/89d746c8-a239-421c-8a87-a89d967ed9bf)
