@@ -5,7 +5,9 @@
 
 # Mod Credits
  - Exhibitionism Mod: XYZone
+ - Rich House Mod: PreggoLover
  - The Rest of the Mods: NamelessDEV
+   
 
 # Example Changes 
 
