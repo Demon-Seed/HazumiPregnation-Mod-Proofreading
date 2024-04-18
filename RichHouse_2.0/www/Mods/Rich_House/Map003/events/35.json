@@ -1,1 +1,1364 @@
-{"id":35,"name":"EV035","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":43,"variableValid":false,"variableValue":30},"directionFix":false,"image":{"tileId":0,"characterName":"Evil","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":122,"indent":0,"parameters":[104,104,0,4,"'Smaar'"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>What do you need girl? I'm to here to give"]},{"code":401,"indent":0,"parameters":["a job to unpregnant girls..."]},{"code":401,"indent":0,"parameters":["But, your belly is quite pretty. Maybe one time you"]},{"code":401,"indent":0,"parameters":["will have enought bulge to work in my master House."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":43,"variableValid":true,"variableValue":23},"directionFix":false,"image":{"tileId":0,"characterName":"Evil","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":122,"indent":0,"parameters":[104,104,0,4,"'Smaar'"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>Nice Belly, but too small. It is not enought"]},{"code":401,"indent":0,"parameters":["for my master. Sorry. Go, talk with manager, he will "]},{"code":401,"indent":0,"parameters":["surely have work for you. I'm busy."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":43,"variableValid":true,"variableValue":33},"directionFix":false,"image":{"tileId":0,"characterName":"Evil","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":122,"indent":0,"parameters":[104,104,0,4,"'Smaar'"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>Hey! Girl with pretty belly! Maybe I have "]},{"code":401,"indent":0,"parameters":["work for you. If that dumbass manager will not hire you"]},{"code":401,"indent":0,"parameters":["because of belly, come here! I think, I have a pretty"]},{"code":401,"indent":0,"parameters":["good job for you!"]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":436,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":0,"characterName":"Evil","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":122,"indent":0,"parameters":[104,104,0,4,"'Smaar'"]},{"code":111,"indent":0,"parameters":[1,43,0,36,1]},{"code":111,"indent":1,"parameters":[1,437,0,0,0]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["\\n<\\n[1]>Hello! Manager say's, that I may talk with you"]},{"code":401,"indent":2,"parameters":["about part-time job..."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["\\n<\\v[104]>Yes. I'm looking for some very pregnant "]},{"code":401,"indent":2,"parameters":["girls, to serve my master, on his party."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["\\n<\\n[1]>Intresting... What exacly will I do there?"]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["\\n<\\v[104]>He is offen celebrate a new life in his "]},{"code":401,"indent":2,"parameters":["house. He Always invite a Very Important Persones from"]},{"code":401,"indent":2,"parameters":["our city. You will need to serve them drinks and food!"]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["\\n<\\n[1]>Ok, but why does he want to do it by pregnant"]},{"code":401,"indent":2,"parameters":["girls?"]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["\\n<\\v[104]>Fertile woman is rare in this country. And"]},{"code":401,"indent":2,"parameters":["pregnant young girl is very rare. And what is rare, "]},{"code":401,"indent":2,"parameters":["that is Expencive! And what is expencive - attracts "]},{"code":401,"indent":2,"parameters":["my master!"]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["\\n<\\n[1]>What abaut payments? I need money now..."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["\\n<\\v[104]>Master is Pay well. Do not worry. "]},{"code":401,"indent":2,"parameters":["But it requires good quality work. "]},{"code":401,"indent":2,"parameters":["He does not accept excuses or delays! "]},{"code":401,"indent":2,"parameters":["Even pregnancy is not an indulgence!"]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["\\n<\\n[1]>Understood. I'm ready to work! When can "]},{"code":401,"indent":2,"parameters":["I start?"]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["\\n<\\v[104]>Masters celebration is starting about few "]},{"code":401,"indent":2,"parameters":["hours."]},{"code":401,"indent":2,"parameters":["If you are ready, come with me."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["\\n<\\v[104]>And last important thing. My master can sell"]},{"code":401,"indent":2,"parameters":[" your baby to another person's! You must agree it, or "]},{"code":401,"indent":2,"parameters":["I can not Hire you for job in my master House."]},{"code":401,"indent":2,"parameters":["Of course you will be reworded!"]},{"code":102,"indent":2,"parameters":[["Ok, I'm ready","Sorry, need a few minutes."],1,0,2,0]},{"code":402,"indent":2,"parameters":[0,"Ok, I'm ready"]},{"code":123,"indent":3,"parameters":["A",0]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["\\n<\\v[104]>Good. Let's go!"]},{"code":201,"indent":3,"parameters":[0,36,11,45,2,1]},{"code":241,"indent":3,"parameters":[{"name":"KK_Winter_shining_stars","volume":90,"pitch":100,"pan":0}]},{"code":246,"indent":3,"parameters":[2]},{"code":0,"indent":3,"parameters":[]},{"code":402,"indent":2,"parameters":[1,"Sorry, need a few minutes."]},{"code":122,"indent":3,"parameters":[437,437,0,0,1]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["\\n<\\v[104]>Ok. But hurry! We have not much time."]},{"code":0,"indent":3,"parameters":[]},{"code":404,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["\\n<\\v[104]>So, Are you ready now?"]},{"code":102,"indent":2,"parameters":[["Yes, I'm.","No, sorry."],1,0,2,0]},{"code":402,"indent":2,"parameters":[0,"Yes, I'm."]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["\\n<\\v[104]>Good. Let's go!"]},{"code":201,"indent":3,"parameters":[0,28,11,45,2,1]},{"code":241,"indent":3,"parameters":[{"name":"KK_Winter_shining_stars","volume":90,"pitch":100,"pan":0}]},{"code":246,"indent":3,"parameters":[2]},{"code":123,"indent":3,"parameters":["A",0]},{"code":0,"indent":3,"parameters":[]},{"code":402,"indent":2,"parameters":[1,"No, sorry."]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["\\n<\\v[104]>Ok. But hurry! We have not much time."]},{"code":0,"indent":3,"parameters":[]},{"code":404,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>I'm sorry young lady. I seeking only for"]},{"code":401,"indent":1,"parameters":["very pregnant ladyes. Sorry."]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":436,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":0,"characterName":"Evil","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":122,"indent":0,"parameters":[104,104,0,4,"'Smaar'"]},{"code":111,"indent":0,"parameters":[1,43,0,36,1]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>Hello \\n[1]. Are you ready to work in my "]},{"code":401,"indent":1,"parameters":["Master house?"]},{"code":102,"indent":1,"parameters":[["Yes, I'm","No, not now."],1,0,2,0]},{"code":402,"indent":1,"parameters":[0,"Yes, I'm"]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["\\n<\\v[104]>Good. Let's go!"]},{"code":201,"indent":2,"parameters":[0,36,11,45,2,1]},{"code":241,"indent":2,"parameters":[{"name":"KK_Winter_shining_stars","volume":90,"pitch":100,"pan":0}]},{"code":246,"indent":2,"parameters":[2]},{"code":0,"indent":2,"parameters":[]},{"code":402,"indent":1,"parameters":[1,"No, not now."]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["\\n<\\v[104]>Ok, I'm here if you want."]},{"code":0,"indent":2,"parameters":[]},{"code":404,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>Hello \\n[1]. Come when your pregnancy "]},{"code":401,"indent":1,"parameters":["reaches at least 36 weeks."]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":59,"variableValid":true,"variableValue":4},"directionFix":false,"image":{"tileId":0,"characterName":"Evil","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":122,"indent":0,"parameters":[104,104,0,4,"'Smaar'"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>Wow lady! You really want to work with "]},{"code":401,"indent":0,"parameters":["that belly??? I'm afraid, I can not hire you! "]},{"code":401,"indent":0,"parameters":["You simply dont fit into uniform..."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":7,"y":4}
+{
+    "id": 35,
+    "name": "EV035",
+    "note": "",
+    "pages": [
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 43,
+                "variableValid": false,
+                "variableValue": 30
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "Evil",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 1
+            },
+            "list": [
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        104,
+                        104,
+                        0,
+                        4,
+                        "'Smaar'"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>What do you need girl? I'm here to give"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "a job only to pregnant girls..."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "But, your belly is quite pretty. Maybe one time you"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "will have enough bulge to work in my Master's House."
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 43,
+                "variableValid": true,
+                "variableValue": 23
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "Evil",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 1
+            },
+            "list": [
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        104,
+                        104,
+                        0,
+                        4,
+                        "'Smaar'"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>Nice Belly, but too small. It is not enought"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "for my master. Sorry. Go, talk with manager, he will "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "surely have work for you. I'm busy."
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 43,
+                "variableValid": true,
+                "variableValue": 33
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "Evil",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 1
+            },
+            "list": [
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        104,
+                        104,
+                        0,
+                        4,
+                        "'Smaar'"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>Hey! Girl with pretty belly! Maybe I have "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "work for you. If that dumbass manager will not hire you"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "because of belly, come here! I think, I have a pretty"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "good job for you!"
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 436,
+                "variableValid": true,
+                "variableValue": 1
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "Evil",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 1
+            },
+            "list": [
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        104,
+                        104,
+                        0,
+                        4,
+                        "'Smaar'"
+                    ]
+                },
+                {
+                    "code": 111,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        43,
+                        0,
+                        36,
+                        1
+                    ]
+                },
+                {
+                    "code": 111,
+                    "indent": 1,
+                    "parameters": [
+                        1,
+                        437,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 2,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "\\n<\\n[1]>Hello! Manager say's, that I may talk with you"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "about part-time job..."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 2,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "\\n<\\v[104]>Yes. I'm looking for some very pregnant "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "girls, to serve my master, on his party."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 2,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "\\n<\\n[1]>Intresting... What exacly will I do there?"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 2,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "\\n<\\v[104]>He is offen celebrate a new life in his "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "house. He Always invite a Very Important Persones from"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "our city. You will need to serve them drinks and food!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 2,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "\\n<\\n[1]>Ok, but why does he want to do it by pregnant"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "girls?"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 2,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "\\n<\\v[104]>Fertile woman is rare in this country. And"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "pregnant young girl is very rare. And what is rare, "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "that is Expencive! And what is expencive - attracts "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "my master!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 2,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "\\n<\\n[1]>What abaut payments? I need money now..."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 2,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "\\n<\\v[104]>Master is Pay well. Do not worry. "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "But it requires good quality work. "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "He does not accept excuses or delays! "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "Even pregnancy is not an indulgence!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 2,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "\\n<\\n[1]>Understood. I'm ready to work! When can "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "I start?"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 2,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "\\n<\\v[104]>Masters celebration is starting about few "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "hours."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "If you are ready, come with me."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 2,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "\\n<\\v[104]>And last important thing. My master can sell"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        " your baby to another person's! You must agree it, or "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "I can not Hire you for job in my master House."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "Of course you will be reworded!"
+                    ]
+                },
+                {
+                    "code": 102,
+                    "indent": 2,
+                    "parameters": [
+                        [
+                            "Ok, I'm ready",
+                            "Sorry, need a few minutes."
+                        ],
+                        1,
+                        0,
+                        2,
+                        0
+                    ]
+                },
+                {
+                    "code": 402,
+                    "indent": 2,
+                    "parameters": [
+                        0,
+                        "Ok, I'm ready"
+                    ]
+                },
+                {
+                    "code": 123,
+                    "indent": 3,
+                    "parameters": [
+                        "A",
+                        0
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 3,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 3,
+                    "parameters": [
+                        "\\n<\\v[104]>Good. Let's go!"
+                    ]
+                },
+                {
+                    "code": 201,
+                    "indent": 3,
+                    "parameters": [
+                        0,
+                        36,
+                        11,
+                        45,
+                        2,
+                        1
+                    ]
+                },
+                {
+                    "code": 241,
+                    "indent": 3,
+                    "parameters": [
+                        {
+                            "name": "KK_Winter_shining_stars",
+                            "volume": 90,
+                            "pitch": 100,
+                            "pan": 0
+                        }
+                    ]
+                },
+                {
+                    "code": 246,
+                    "indent": 3,
+                    "parameters": [
+                        2
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 3,
+                    "parameters": []
+                },
+                {
+                    "code": 402,
+                    "indent": 2,
+                    "parameters": [
+                        1,
+                        "Sorry, need a few minutes."
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 3,
+                    "parameters": [
+                        437,
+                        437,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 3,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 3,
+                    "parameters": [
+                        "\\n<\\v[104]>Ok. But hurry! We have not much time."
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 3,
+                    "parameters": []
+                },
+                {
+                    "code": 404,
+                    "indent": 2,
+                    "parameters": []
+                },
+                {
+                    "code": 0,
+                    "indent": 2,
+                    "parameters": []
+                },
+                {
+                    "code": 411,
+                    "indent": 1,
+                    "parameters": []
+                },
+                {
+                    "code": 101,
+                    "indent": 2,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "\\n<\\v[104]>So, Are you ready now?"
+                    ]
+                },
+                {
+                    "code": 102,
+                    "indent": 2,
+                    "parameters": [
+                        [
+                            "Yes, I'm.",
+                            "No, sorry."
+                        ],
+                        1,
+                        0,
+                        2,
+                        0
+                    ]
+                },
+                {
+                    "code": 402,
+                    "indent": 2,
+                    "parameters": [
+                        0,
+                        "Yes, I'm."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 3,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 3,
+                    "parameters": [
+                        "\\n<\\v[104]>Good. Let's go!"
+                    ]
+                },
+                {
+                    "code": 201,
+                    "indent": 3,
+                    "parameters": [
+                        0,
+                        28,
+                        11,
+                        45,
+                        2,
+                        1
+                    ]
+                },
+                {
+                    "code": 241,
+                    "indent": 3,
+                    "parameters": [
+                        {
+                            "name": "KK_Winter_shining_stars",
+                            "volume": 90,
+                            "pitch": 100,
+                            "pan": 0
+                        }
+                    ]
+                },
+                {
+                    "code": 246,
+                    "indent": 3,
+                    "parameters": [
+                        2
+                    ]
+                },
+                {
+                    "code": 123,
+                    "indent": 3,
+                    "parameters": [
+                        "A",
+                        0
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 3,
+                    "parameters": []
+                },
+                {
+                    "code": 402,
+                    "indent": 2,
+                    "parameters": [
+                        1,
+                        "No, sorry."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 3,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 3,
+                    "parameters": [
+                        "\\n<\\v[104]>Ok. But hurry! We have not much time."
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 3,
+                    "parameters": []
+                },
+                {
+                    "code": 404,
+                    "indent": 2,
+                    "parameters": []
+                },
+                {
+                    "code": 0,
+                    "indent": 2,
+                    "parameters": []
+                },
+                {
+                    "code": 412,
+                    "indent": 1,
+                    "parameters": []
+                },
+                {
+                    "code": 0,
+                    "indent": 1,
+                    "parameters": []
+                },
+                {
+                    "code": 411,
+                    "indent": 0,
+                    "parameters": []
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>I'm sorry young lady. I seeking only for"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "very pregnant ladyes. Sorry."
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 1,
+                    "parameters": []
+                },
+                {
+                    "code": 412,
+                    "indent": 0,
+                    "parameters": []
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": true,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 436,
+                "variableValid": true,
+                "variableValue": 1
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "Evil",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 1
+            },
+            "list": [
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        104,
+                        104,
+                        0,
+                        4,
+                        "'Smaar'"
+                    ]
+                },
+                {
+                    "code": 111,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        43,
+                        0,
+                        36,
+                        1
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>Hello \\n[1]. Are you ready to work in my "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "Master house?"
+                    ]
+                },
+                {
+                    "code": 102,
+                    "indent": 1,
+                    "parameters": [
+                        [
+                            "Yes, I'm",
+                            "No, not now."
+                        ],
+                        1,
+                        0,
+                        2,
+                        0
+                    ]
+                },
+                {
+                    "code": 402,
+                    "indent": 1,
+                    "parameters": [
+                        0,
+                        "Yes, I'm"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 2,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "\\n<\\v[104]>Good. Let's go!"
+                    ]
+                },
+                {
+                    "code": 201,
+                    "indent": 2,
+                    "parameters": [
+                        0,
+                        36,
+                        11,
+                        45,
+                        2,
+                        1
+                    ]
+                },
+                {
+                    "code": 241,
+                    "indent": 2,
+                    "parameters": [
+                        {
+                            "name": "KK_Winter_shining_stars",
+                            "volume": 90,
+                            "pitch": 100,
+                            "pan": 0
+                        }
+                    ]
+                },
+                {
+                    "code": 246,
+                    "indent": 2,
+                    "parameters": [
+                        2
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 2,
+                    "parameters": []
+                },
+                {
+                    "code": 402,
+                    "indent": 1,
+                    "parameters": [
+                        1,
+                        "No, not now."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 2,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 2,
+                    "parameters": [
+                        "\\n<\\v[104]>Ok, I'm here if you want."
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 2,
+                    "parameters": []
+                },
+                {
+                    "code": 404,
+                    "indent": 1,
+                    "parameters": []
+                },
+                {
+                    "code": 0,
+                    "indent": 1,
+                    "parameters": []
+                },
+                {
+                    "code": 411,
+                    "indent": 0,
+                    "parameters": []
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>Hello \\n[1]. Come when your pregnancy "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "reaches at least 36 weeks."
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 1,
+                    "parameters": []
+                },
+                {
+                    "code": 412,
+                    "indent": 0,
+                    "parameters": []
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 59,
+                "variableValid": true,
+                "variableValue": 4
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "Evil",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 1
+            },
+            "list": [
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        104,
+                        104,
+                        0,
+                        4,
+                        "'Smaar'"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>Wow lady! You really want to work with "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "that belly??? I'm afraid, I can not hire you! "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "You simply dont fit into uniform..."
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 7,
+    "y": 4
+}

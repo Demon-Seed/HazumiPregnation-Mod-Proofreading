@@ -1,1 +1,1860 @@
-{"id":265,"list":[{"code":122,"indent":0,"parameters":[464,464,0,0,0]},{"code":235,"indent":0,"parameters":[11]},{"code":235,"indent":0,"parameters":[12]},{"code":235,"indent":0,"parameters":[13]},{"code":235,"indent":0,"parameters":[14]},{"code":235,"indent":0,"parameters":[15]},{"code":235,"indent":0,"parameters":[16]},{"code":121,"indent":0,"parameters":[447,447,0]},{"code":117,"indent":0,"parameters":[33]},{"code":122,"indent":0,"parameters":[381,381,0,4,"`出産`"]},{"code":122,"indent":0,"parameters":[459,459,0,0,0]},{"code":122,"indent":0,"parameters":[460,460,0,0,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>No... Noooooooo!!!!"]},{"code":250,"indent":0,"parameters":[{"name":"shasei","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>I can not hold it anymore!!!"]},{"code":122,"indent":0,"parameters":[1,1,0,0,12]},{"code":230,"indent":0,"parameters":[60]},{"code":250,"indent":0,"parameters":[{"name":"Paralyze1","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[30]},{"code":250,"indent":0,"parameters":[{"name":"shasei","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>AAaaaaaaaiiiiieeeeeeeee..."]},{"code":230,"indent":0,"parameters":[60]},{"code":250,"indent":0,"parameters":[{"name":"Paralyze1","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[120]},{"code":250,"indent":0,"parameters":[{"name":"Break","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[120]},{"code":250,"indent":0,"parameters":[{"name":"kill8","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[120]},{"code":250,"indent":0,"parameters":[{"name":"kill8","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[120]},{"code":250,"indent":0,"parameters":[{"name":"kill8","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>The Baby!!!!!! It is going out!!!!"]},{"code":230,"indent":0,"parameters":[60]},{"code":117,"indent":0,"parameters":[96]},{"code":122,"indent":0,"parameters":[71,71,0,0,2]},{"code":122,"indent":0,"parameters":[20,20,0,0,1]},{"code":122,"indent":0,"parameters":[1,1,0,0,2]},{"code":230,"indent":0,"parameters":[120]},{"code":250,"indent":0,"parameters":[{"name":"kill8","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[60]},{"code":122,"indent":0,"parameters":[1,1,0,0,2]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>Uuuummmmmm...."]},{"code":122,"indent":0,"parameters":[1,1,0,0,3]},{"code":230,"indent":0,"parameters":[120]},{"code":250,"indent":0,"parameters":[{"name":"kill8","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[60]},{"code":122,"indent":0,"parameters":[1,1,0,0,2]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>Nnnnggggghhhhhhhh! OOOOOOOowwwwwww!!!!"]},{"code":230,"indent":0,"parameters":[120]},{"code":250,"indent":0,"parameters":[{"name":"kill8","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[60]},{"code":122,"indent":0,"parameters":[1,1,0,0,3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>Nnngggghhhhaaaaaaaaaaahhh!!!!"]},{"code":122,"indent":0,"parameters":[71,71,0,0,3]},{"code":122,"indent":0,"parameters":[1,1,0,0,4]},{"code":250,"indent":0,"parameters":[{"name":"_bochan","volume":100,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[200]},{"code":250,"indent":0,"parameters":[{"name":"_baby_cry","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[55]},{"code":122,"indent":0,"parameters":[20,20,0,0,1]},{"code":230,"indent":0,"parameters":[45]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>Aaaaaahhhh.... Baby is out..."]},{"code":111,"indent":0,"parameters":[12,"hasMultiBaby()"]},{"code":355,"indent":1,"parameters":["namingMultiBaby()"]},{"code":122,"indent":1,"parameters":[1,1,0,0,2]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>Contractions are still strong!!!"]},{"code":230,"indent":1,"parameters":[30]},{"code":250,"indent":1,"parameters":[{"name":"kill8","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":1,"parameters":[60]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>My belly... it is still full..."]},{"code":122,"indent":1,"parameters":[443,443,0,0,1]},{"code":230,"indent":1,"parameters":[30]},{"code":250,"indent":1,"parameters":[{"name":"kill8","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":1,"parameters":[60]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>Uaah... AAaaaaaahhhhhh... Aaaaaaahhhh!!!"]},{"code":122,"indent":1,"parameters":[1,1,0,0,3]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>AAAAAArrrrrrgggghhhhhh!!!!"]},{"code":122,"indent":1,"parameters":[443,443,0,0,2]},{"code":230,"indent":1,"parameters":[30]},{"code":250,"indent":1,"parameters":[{"name":"kill8","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":1,"parameters":[60]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>It is coming!!! Another baby is coming out!"]},{"code":230,"indent":1,"parameters":[30]},{"code":250,"indent":1,"parameters":[{"name":"kill8","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":1,"parameters":[60]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>I can not hold it! Aaaahhhh!!!! Oh my god!!!"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>Uuuuaaaaaaaaaaaaa!!!!!!"]},{"code":122,"indent":1,"parameters":[443,443,0,0,3]},{"code":122,"indent":1,"parameters":[1,1,0,0,0]},{"code":122,"indent":1,"parameters":[71,71,0,0,3]},{"code":250,"indent":1,"parameters":[{"name":"_bochan","volume":100,"pitch":100,"pan":0}]},{"code":230,"indent":1,"parameters":[160]},{"code":117,"indent":1,"parameters":[243]},{"code":250,"indent":1,"parameters":[{"name":"_baby_cry","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[1,59,0,0,0]},{"code":117,"indent":1,"parameters":[205]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[1,59,0,1,0]},{"code":355,"indent":1,"parameters":["if (v[359]){ v[102]='boy'"]},{"code":655,"indent":1,"parameters":["} else if (v[360]){ v[102]='girl'"]},{"code":655,"indent":1,"parameters":["} else { $gameMessage.add( '子どもの性別が不正です！' ) }"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n[1] gave birth to a healthy \\c[2]\\v[102]\\c[0] in "]},{"code":401,"indent":1,"parameters":["front of guests... It weighs \\c[3]\\v[358]\\c[0]."]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":355,"indent":1,"parameters":["v[102] = '\\x1bn[1] is safe,\\n'"]},{"code":655,"indent":1,"parameters":["if (v[359]){ v[102] += 'and \\x1bc[2]\\x1bv[359]\\x1bc[0] boy、\\n' }"]},{"code":655,"indent":1,"parameters":["if (v[360]){ v[102] += 'and \\x1bc[2]\\x1bv[360]\\x1bc[0] girl、\\n' }"]},{"code":655,"indent":1,"parameters":["v[102] += 'was born！'"]},{"code":655,"indent":1,"parameters":["v[102] += `\\fThe weights from the eldest child are, \\n\\x1bc[3]\\x1bv[358]\\x1bc[0].\\n`"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\v[102]"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":251,"indent":0,"parameters":[]},{"code":117,"indent":0,"parameters":[99]},{"code":122,"indent":0,"parameters":[57,57,1,1,359]},{"code":122,"indent":0,"parameters":[58,58,1,1,360]},{"code":122,"indent":0,"parameters":[20,20,0,0,1]},{"code":122,"indent":0,"parameters":[1,1,0,0,0]},{"code":122,"indent":0,"parameters":[56,56,1,0,1]},{"code":122,"indent":0,"parameters":[508,508,1,0,1]},{"code":122,"indent":0,"parameters":[43,43,0,0,0]},{"code":122,"indent":0,"parameters":[42,42,0,0,0]},{"code":122,"indent":0,"parameters":[60,60,0,0,1]},{"code":355,"indent":0,"parameters":["//ご祝儀計算"]},{"code":655,"indent":0,"parameters":["const birthed = $gameVariables.value(56)"]},{"code":655,"indent":0,"parameters":["let i=0, num=1"]},{"code":655,"indent":0,"parameters":["while  (i<birthed){"]},{"code":655,"indent":0,"parameters":["  num += Math.ceil(2*i/2)"]},{"code":655,"indent":0,"parameters":["  i++"]},{"code":655,"indent":0,"parameters":["}"]},{"code":655,"indent":0,"parameters":["num *= 10000"]},{"code":655,"indent":0,"parameters":["num *= (0.5*v[59]) + 0.5"]},{"code":655,"indent":0,"parameters":["$gameVariables.setValue( 23, num )"]},{"code":117,"indent":0,"parameters":[223]},{"code":122,"indent":0,"parameters":[3,3,0,0,1100]},{"code":122,"indent":0,"parameters":[338,338,0,0,1]},{"code":122,"indent":0,"parameters":[339,339,0,0,0]},{"code":122,"indent":0,"parameters":[340,340,0,0,9]},{"code":121,"indent":0,"parameters":[21,21,1]},{"code":121,"indent":0,"parameters":[2,2,1]},{"code":251,"indent":0,"parameters":[]},{"code":121,"indent":0,"parameters":[447,447,1]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Smaar>Get in my office. NOW!"]},{"code":201,"indent":0,"parameters":[0,36,11,45,2,0]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Smaar>It's outrageous! How could you?!"]},{"code":401,"indent":0,"parameters":["You had the opportunity to come up to me, and I would "]},{"code":401,"indent":0,"parameters":["help you not to embarrass yourself in front of the"]},{"code":401,"indent":0,"parameters":["whole Hall!!!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Smaar>You must keep the child inside! When "]},{"code":401,"indent":0,"parameters":["celebrating new life, maids MUST be Pregnant. These are "]},{"code":401,"indent":0,"parameters":["the demands of Mr. Masterson! "]},{"code":401,"indent":0,"parameters":["You broke this rule!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Smaar>To give birth in front of all the guests, "]},{"code":401,"indent":0,"parameters":["this is the greatest shame for you! "]},{"code":401,"indent":0,"parameters":["And also for our house!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Smaar>We will take care of the newborn, "]},{"code":401,"indent":0,"parameters":["and you will have to leave this place!"]},{"code":401,"indent":0,"parameters":["Return your uniform, before leave."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Smaar>Also, you must pay a Penalty, to cover our"]},{"code":401,"indent":0,"parameters":["guest's moral damage. Your loose all your charm, "]},{"code":401,"indent":0,"parameters":["and reputation!"]},{"code":401,"indent":0,"parameters":["Now Leave!"]},{"code":125,"indent":0,"parameters":[1,0,5000000]},{"code":125,"indent":0,"parameters":[1,0,5000000]},{"code":125,"indent":0,"parameters":[1,0,5000000]},{"code":125,"indent":0,"parameters":[1,0,5000000]},{"code":317,"indent":0,"parameters":[0,1,2,1,0,5000]},{"code":317,"indent":0,"parameters":[0,1,2,1,0,5000]},{"code":317,"indent":0,"parameters":[0,1,2,1,0,5000]},{"code":317,"indent":0,"parameters":[0,1,2,1,0,5000]},{"code":235,"indent":0,"parameters":[11]},{"code":235,"indent":0,"parameters":[12]},{"code":235,"indent":0,"parameters":[13]},{"code":235,"indent":0,"parameters":[14]},{"code":235,"indent":0,"parameters":[15]},{"code":235,"indent":0,"parameters":[16]},{"code":355,"indent":0,"parameters":["delete $gameSystem.caffe"]},{"code":121,"indent":0,"parameters":[80,80,1]},{"code":117,"indent":0,"parameters":[3]},{"code":230,"indent":0,"parameters":[60]},{"code":122,"indent":0,"parameters":[433,440,0,0,0]},{"code":122,"indent":0,"parameters":[445,460,0,0,0]},{"code":122,"indent":0,"parameters":[463,480,0,0,0]},{"code":122,"indent":0,"parameters":[565,579,0,0,0]},{"code":122,"indent":0,"parameters":[436,436,0,0,1]},{"code":117,"indent":0,"parameters":[2]},{"code":0,"indent":0,"parameters":[]}],"name":"[RH][Birth] BHS FailBirth","switchId":1,"trigger":0}
+{
+    "id": 265,
+    "list": [
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                464,
+                464,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "code": 235,
+            "indent": 0,
+            "parameters": [
+                11
+            ]
+        },
+        {
+            "code": 235,
+            "indent": 0,
+            "parameters": [
+                12
+            ]
+        },
+        {
+            "code": 235,
+            "indent": 0,
+            "parameters": [
+                13
+            ]
+        },
+        {
+            "code": 235,
+            "indent": 0,
+            "parameters": [
+                14
+            ]
+        },
+        {
+            "code": 235,
+            "indent": 0,
+            "parameters": [
+                15
+            ]
+        },
+        {
+            "code": 235,
+            "indent": 0,
+            "parameters": [
+                16
+            ]
+        },
+        {
+            "code": 121,
+            "indent": 0,
+            "parameters": [
+                447,
+                447,
+                0
+            ]
+        },
+        {
+            "code": 117,
+            "indent": 0,
+            "parameters": [
+                33
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                381,
+                381,
+                0,
+                4,
+                "`出産`"
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                459,
+                459,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                460,
+                460,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "\\n<\\n[1]>No... Noooooooo!!!!"
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 0,
+            "parameters": [
+                {
+                    "name": "shasei",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "\\n<\\n[1]>I can not hold it anymore!!!"
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                1,
+                1,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                60
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 0,
+            "parameters": [
+                {
+                    "name": "Paralyze1",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                30
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 0,
+            "parameters": [
+                {
+                    "name": "shasei",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "\\n<\\n[1]>AAaaaaaaaiiiiieeeeeeeee..."
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                60
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 0,
+            "parameters": [
+                {
+                    "name": "Paralyze1",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                120
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 0,
+            "parameters": [
+                {
+                    "name": "Break",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                120
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 0,
+            "parameters": [
+                {
+                    "name": "kill8",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                120
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 0,
+            "parameters": [
+                {
+                    "name": "kill8",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                120
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 0,
+            "parameters": [
+                {
+                    "name": "kill8",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "\\n<\\n[1]>The Baby!!!!!! It is going out!!!!"
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                60
+            ]
+        },
+        {
+            "code": 117,
+            "indent": 0,
+            "parameters": [
+                96
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                71,
+                71,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                20,
+                20,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                1,
+                1,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                120
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 0,
+            "parameters": [
+                {
+                    "name": "kill8",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                60
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                1,
+                1,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "\\n<\\n[1]>Uuuummmmmm...."
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                1,
+                1,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                120
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 0,
+            "parameters": [
+                {
+                    "name": "kill8",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                60
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                1,
+                1,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "\\n<\\n[1]>Nnnnggggghhhhhhhh! OOOOOOOowwwwwww!!!!"
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                120
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 0,
+            "parameters": [
+                {
+                    "name": "kill8",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                60
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                1,
+                1,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "\\n<\\n[1]>Nnngggghhhhaaaaaaaaaaahhh!!!!"
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                71,
+                71,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                1,
+                1,
+                0,
+                0,
+                4
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 0,
+            "parameters": [
+                {
+                    "name": "_bochan",
+                    "volume": 100,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                200
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 0,
+            "parameters": [
+                {
+                    "name": "_baby_cry",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                55
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                20,
+                20,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                45
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "\\n<\\n[1]>Aaaaaahhhh.... Baby is out..."
+            ]
+        },
+        {
+            "code": 111,
+            "indent": 0,
+            "parameters": [
+                12,
+                "hasMultiBaby()"
+            ]
+        },
+        {
+            "code": 355,
+            "indent": 1,
+            "parameters": [
+                "namingMultiBaby()"
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 1,
+            "parameters": [
+                1,
+                1,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 1,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 1,
+            "parameters": [
+                "\\n<\\n[1]>Contractions are still strong!!!"
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 1,
+            "parameters": [
+                30
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 1,
+            "parameters": [
+                {
+                    "name": "kill8",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 1,
+            "parameters": [
+                60
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 1,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 1,
+            "parameters": [
+                "\\n<\\n[1]>My belly... it is still full..."
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 1,
+            "parameters": [
+                443,
+                443,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 1,
+            "parameters": [
+                30
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 1,
+            "parameters": [
+                {
+                    "name": "kill8",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 1,
+            "parameters": [
+                60
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 1,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 1,
+            "parameters": [
+                "\\n<\\n[1]>Uaah... AAaaaaaahhhhhh... Aaaaaaahhhh!!!"
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 1,
+            "parameters": [
+                1,
+                1,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 1,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 1,
+            "parameters": [
+                "\\n<\\n[1]>AAAAAArrrrrrgggghhhhhh!!!!"
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 1,
+            "parameters": [
+                443,
+                443,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 1,
+            "parameters": [
+                30
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 1,
+            "parameters": [
+                {
+                    "name": "kill8",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 1,
+            "parameters": [
+                60
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 1,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 1,
+            "parameters": [
+                "\\n<\\n[1]>It is coming!!! Another baby is coming out!"
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 1,
+            "parameters": [
+                30
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 1,
+            "parameters": [
+                {
+                    "name": "kill8",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 1,
+            "parameters": [
+                60
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 1,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 1,
+            "parameters": [
+                "\\n<\\n[1]>I can not hold it! Aaaahhhh!!!! Oh my god!!!"
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 1,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 1,
+            "parameters": [
+                "\\n<\\n[1]>Uuuuaaaaaaaaaaaaa!!!!!!"
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 1,
+            "parameters": [
+                443,
+                443,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 1,
+            "parameters": [
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 1,
+            "parameters": [
+                71,
+                71,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 1,
+            "parameters": [
+                {
+                    "name": "_bochan",
+                    "volume": 100,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 1,
+            "parameters": [
+                160
+            ]
+        },
+        {
+            "code": 117,
+            "indent": 1,
+            "parameters": [
+                243
+            ]
+        },
+        {
+            "code": 250,
+            "indent": 1,
+            "parameters": [
+                {
+                    "name": "_baby_cry",
+                    "volume": 90,
+                    "pitch": 100,
+                    "pan": 0
+                }
+            ]
+        },
+        {
+            "code": 0,
+            "indent": 1,
+            "parameters": []
+        },
+        {
+            "code": 412,
+            "indent": 0,
+            "parameters": []
+        },
+        {
+            "code": 111,
+            "indent": 0,
+            "parameters": [
+                1,
+                59,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "code": 117,
+            "indent": 1,
+            "parameters": [
+                205
+            ]
+        },
+        {
+            "code": 0,
+            "indent": 1,
+            "parameters": []
+        },
+        {
+            "code": 412,
+            "indent": 0,
+            "parameters": []
+        },
+        {
+            "code": 111,
+            "indent": 0,
+            "parameters": [
+                1,
+                59,
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "code": 355,
+            "indent": 1,
+            "parameters": [
+                "if (v[359]){ v[102]='boy'"
+            ]
+        },
+        {
+            "code": 655,
+            "indent": 1,
+            "parameters": [
+                "} else if (v[360]){ v[102]='girl'"
+            ]
+        },
+        {
+            "code": 655,
+            "indent": 1,
+            "parameters": [
+                "} else { $gameMessage.add( '子どもの性別が不正です！' ) }"
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 1,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 1,
+            "parameters": [
+                "\\n[1] gave birth to a healthy \\c[2]\\v[102]\\c[0] in "
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 1,
+            "parameters": [
+                "front of guests... It weighs \\c[3]\\v[358]\\c[0]."
+            ]
+        },
+        {
+            "code": 0,
+            "indent": 1,
+            "parameters": []
+        },
+        {
+            "code": 411,
+            "indent": 0,
+            "parameters": []
+        },
+        {
+            "code": 355,
+            "indent": 1,
+            "parameters": [
+                "v[102] = '\\x1bn[1] is safe,\\n'"
+            ]
+        },
+        {
+            "code": 655,
+            "indent": 1,
+            "parameters": [
+                "if (v[359]){ v[102] += 'and \\x1bc[2]\\x1bv[359]\\x1bc[0] boy、\\n' }"
+            ]
+        },
+        {
+            "code": 655,
+            "indent": 1,
+            "parameters": [
+                "if (v[360]){ v[102] += 'and \\x1bc[2]\\x1bv[360]\\x1bc[0] girl、\\n' }"
+            ]
+        },
+        {
+            "code": 655,
+            "indent": 1,
+            "parameters": [
+                "v[102] += 'was born！'"
+            ]
+        },
+        {
+            "code": 655,
+            "indent": 1,
+            "parameters": [
+                "v[102] += `\\fThe weights from the eldest child are, \\n\\x1bc[3]\\x1bv[358]\\x1bc[0].\\n`"
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 1,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 1,
+            "parameters": [
+                "\\v[102]"
+            ]
+        },
+        {
+            "code": 0,
+            "indent": 1,
+            "parameters": []
+        },
+        {
+            "code": 412,
+            "indent": 0,
+            "parameters": []
+        },
+        {
+            "code": 251,
+            "indent": 0,
+            "parameters": []
+        },
+        {
+            "code": 117,
+            "indent": 0,
+            "parameters": [
+                99
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                57,
+                57,
+                1,
+                1,
+                359
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                58,
+                58,
+                1,
+                1,
+                360
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                20,
+                20,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                56,
+                56,
+                1,
+                0,
+                1
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                508,
+                508,
+                1,
+                0,
+                1
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                43,
+                43,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                42,
+                42,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                60,
+                60,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "code": 355,
+            "indent": 0,
+            "parameters": [
+                "//ご祝儀計算"
+            ]
+        },
+        {
+            "code": 655,
+            "indent": 0,
+            "parameters": [
+                "const birthed = $gameVariables.value(56)"
+            ]
+        },
+        {
+            "code": 655,
+            "indent": 0,
+            "parameters": [
+                "let i=0, num=1"
+            ]
+        },
+        {
+            "code": 655,
+            "indent": 0,
+            "parameters": [
+                "while  (i<birthed){"
+            ]
+        },
+        {
+            "code": 655,
+            "indent": 0,
+            "parameters": [
+                "  num += Math.ceil(2*i/2)"
+            ]
+        },
+        {
+            "code": 655,
+            "indent": 0,
+            "parameters": [
+                "  i++"
+            ]
+        },
+        {
+            "code": 655,
+            "indent": 0,
+            "parameters": [
+                "}"
+            ]
+        },
+        {
+            "code": 655,
+            "indent": 0,
+            "parameters": [
+                "num *= 10000"
+            ]
+        },
+        {
+            "code": 655,
+            "indent": 0,
+            "parameters": [
+                "num *= (0.5*v[59]) + 0.5"
+            ]
+        },
+        {
+            "code": 655,
+            "indent": 0,
+            "parameters": [
+                "$gameVariables.setValue( 23, num )"
+            ]
+        },
+        {
+            "code": 117,
+            "indent": 0,
+            "parameters": [
+                223
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                3,
+                3,
+                0,
+                0,
+                1100
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                338,
+                338,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                339,
+                339,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                340,
+                340,
+                0,
+                0,
+                9
+            ]
+        },
+        {
+            "code": 121,
+            "indent": 0,
+            "parameters": [
+                21,
+                21,
+                1
+            ]
+        },
+        {
+            "code": 121,
+            "indent": 0,
+            "parameters": [
+                2,
+                2,
+                1
+            ]
+        },
+        {
+            "code": 251,
+            "indent": 0,
+            "parameters": []
+        },
+        {
+            "code": 121,
+            "indent": 0,
+            "parameters": [
+                447,
+                447,
+                1
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "\\n<Smaar>Get in my office. NOW!"
+            ]
+        },
+        {
+            "code": 201,
+            "indent": 0,
+            "parameters": [
+                0,
+                36,
+                11,
+                45,
+                2,
+                0
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "\\n<Smaar>It's outrageous! How could you?!"
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "You had the opportunity to come up to me, and I would "
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "help you not to embarrass yourself in front of the"
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "whole Hall!!!"
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "\\n<Smaar>You must keep the child inside! When "
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "celebrating new life, maids MUST be Pregnant. These are "
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "the demands of Mr. Masterson! "
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "You broke this rule!"
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "\\n<Smaar>To give birth in front of all the guests, "
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "this is the greatest shame for you! "
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "And also for our house!"
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "\\n<Smaar>We will take care of the newborn, "
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "and you will have to leave this place!"
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "Return your uniform, before leave."
+            ]
+        },
+        {
+            "code": 101,
+            "indent": 0,
+            "parameters": [
+                "",
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "\\n<Smaar>Also, you must pay a Penalty, to cover our"
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "guest's moral damage. Your loose all your charm, "
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "and reputation!"
+            ]
+        },
+        {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+                "Now Leave!"
+            ]
+        },
+        {
+            "code": 125,
+            "indent": 0,
+            "parameters": [
+                1,
+                0,
+                5000000
+            ]
+        },
+        {
+            "code": 125,
+            "indent": 0,
+            "parameters": [
+                1,
+                0,
+                5000000
+            ]
+        },
+        {
+            "code": 125,
+            "indent": 0,
+            "parameters": [
+                1,
+                0,
+                5000000
+            ]
+        },
+        {
+            "code": 125,
+            "indent": 0,
+            "parameters": [
+                1,
+                0,
+                5000000
+            ]
+        },
+        {
+            "code": 317,
+            "indent": 0,
+            "parameters": [
+                0,
+                1,
+                2,
+                1,
+                0,
+                5000
+            ]
+        },
+        {
+            "code": 317,
+            "indent": 0,
+            "parameters": [
+                0,
+                1,
+                2,
+                1,
+                0,
+                5000
+            ]
+        },
+        {
+            "code": 317,
+            "indent": 0,
+            "parameters": [
+                0,
+                1,
+                2,
+                1,
+                0,
+                5000
+            ]
+        },
+        {
+            "code": 317,
+            "indent": 0,
+            "parameters": [
+                0,
+                1,
+                2,
+                1,
+                0,
+                5000
+            ]
+        },
+        {
+            "code": 235,
+            "indent": 0,
+            "parameters": [
+                11
+            ]
+        },
+        {
+            "code": 235,
+            "indent": 0,
+            "parameters": [
+                12
+            ]
+        },
+        {
+            "code": 235,
+            "indent": 0,
+            "parameters": [
+                13
+            ]
+        },
+        {
+            "code": 235,
+            "indent": 0,
+            "parameters": [
+                14
+            ]
+        },
+        {
+            "code": 235,
+            "indent": 0,
+            "parameters": [
+                15
+            ]
+        },
+        {
+            "code": 235,
+            "indent": 0,
+            "parameters": [
+                16
+            ]
+        },
+        {
+            "code": 355,
+            "indent": 0,
+            "parameters": [
+                "delete $gameSystem.caffe"
+            ]
+        },
+        {
+            "code": 121,
+            "indent": 0,
+            "parameters": [
+                80,
+                80,
+                1
+            ]
+        },
+        {
+            "code": 117,
+            "indent": 0,
+            "parameters": [
+                3
+            ]
+        },
+        {
+            "code": 230,
+            "indent": 0,
+            "parameters": [
+                60
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                433,
+                440,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                445,
+                460,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                463,
+                480,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                565,
+                579,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "code": 122,
+            "indent": 0,
+            "parameters": [
+                436,
+                436,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "code": 117,
+            "indent": 0,
+            "parameters": [
+                2
+            ]
+        },
+        {
+            "code": 0,
+            "indent": 0,
+            "parameters": []
+        }
+    ],
+    "name": "[RH][Birth] BHS FailBirth",
+    "switchId": 1,
+    "trigger": 0
+}
