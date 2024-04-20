@@ -9,7 +9,7 @@
     "type": 0,
     "variance": 20
   },
-  "description": "Reduces the chance of going into labor.",
+  "description": "Reduces the chance of going into labor when sleeping.",
   "effects": [
     {
       "code": 44,
