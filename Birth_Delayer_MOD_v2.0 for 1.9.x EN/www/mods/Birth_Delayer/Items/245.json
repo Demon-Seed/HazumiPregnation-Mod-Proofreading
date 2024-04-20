@@ -9,7 +9,7 @@
     "type": 0,
     "variance": 20
   },
-  "description": "Your baby will take more time to be born.",
+  "description": "Reduces the chance of going into labor.",
   "effects": [
     {
       "code": 44,

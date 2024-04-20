@@ -153,7 +153,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<\\n[1]>OK, \\v[104], why weren't you here before?"
+            "\\n<\\n[1]>Ok, \\v[104], why weren't you here before?"
           ]
         },
         {
@@ -222,7 +222,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<\\v[104]>yeah,\\.\\. You know,\\.\\. multiple pregnancy"
+            "\\n<\\v[104]>Yeah,\\.\\. you know,\\.\\. on  pregnancy with multiples."
           ]
         },
         {
@@ -410,7 +410,7 @@
           "parameters": [
             [
               "Tell me about yourself",
-              "What has your researsh uncovered? ",
+              "What has your research uncovered? ",
               "What are the limits?",
               "What's the cost?",
               "I want to try it",
@@ -451,14 +451,14 @@
           "code": 401,
           "indent": 2,
           "parameters": [
-            "when I was a young woman, I really wanted bear a "
+            "when I was a young woman, I really wanted to bear"
           ]
         },
         {
           "code": 401,
           "indent": 2,
           "parameters": [
-            "child with him."
+            "a child with him."
           ]
         },
         {
@@ -475,7 +475,7 @@
           "code": 401,
           "indent": 2,
           "parameters": [
-            "\\n<\\v[104]>Sadly, I discovered I was an infertile woman... "
+            "\\n<\\v[104]>Sadly, I discovered I was infertile... "
           ]
         },
         {
@@ -519,7 +519,7 @@
           "indent": 1,
           "parameters": [
             1,
-            "What has your researsh uncovered? "
+            "What has your research uncovered? "
           ]
         },
         {
@@ -645,21 +645,21 @@
           "code": 401,
           "indent": 2,
           "parameters": [
-            "\\n<\\v[104]>Second, it doesn't work alone."
+            "\\n<\\v[104]>Second, it doesn't on it's own. Your collaboration"
           ]
         },
         {
           "code": 401,
           "indent": 2,
           "parameters": [
-            "It needs your collaboration for a successful multiple pregnancy"
+            "is neccesary for a successful multiple pregnancy"
           ]
         },
         {
           "code": 401,
           "indent": 2,
           "parameters": [
-            "you need to have a lot of sperm in your uterus"
+            "you'll need to have a lot of sperm in your uterus"
           ]
         },
         {
@@ -1370,7 +1370,7 @@
           "code": 401,
           "indent": 3,
           "parameters": [
-            "\\n<\\v[104]>OK, are you ready \\n[1]?, "
+            "\\n<\\v[104]>Ok, are you ready \\n[1]?, "
           ]
         },
         {
@@ -1415,7 +1415,7 @@
           "code": 401,
           "indent": 3,
           "parameters": [
-            "\\n<\\v[104]>OK \\n[1],first remove your clothes."
+            "\\n<\\v[104]>Ok \\n[1],first remove your clothes."
           ]
         },
         {
@@ -1526,7 +1526,7 @@
           "code": 401,
           "indent": 3,
           "parameters": [
-            "\\v[104] put her hand in \\n[1]'s belly"
+            "\\v[104] put her hand on \\n[1]'s belly"
           ]
         },
         {
@@ -1550,7 +1550,7 @@
           "code": 401,
           "indent": 3,
           "parameters": [
-            "\\n[1]'s insides begins to feel like it's melting."
+            "\\n[1]'s insides began to feel like they were melting."
           ]
         },
         {
@@ -1614,7 +1614,7 @@
           "code": 401,
           "indent": 3,
           "parameters": [
-            "\\n<\\v[104]>OK \\n[1],you can dress up now."
+            "\\n<\\v[104]>Ok \\n[1], you can get dressed now."
           ]
         },
         {
@@ -1784,7 +1784,7 @@
           "code": 401,
           "indent": 4,
           "parameters": [
-            "the \\n[1]'s womb doesn't feel any difference..."
+            "\\n[1]'s womb doesn't feel any different..."
           ]
         },
         {
