@@ -1,0 +1,1510 @@
+{
+  "id": 293,
+  "list": [
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "AudioManager.stopMe()"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        21,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 201,
+      "indent": 1,
+      "parameters": [
+        0,
+        7,
+        47,
+        9,
+        6,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Hope that birth is not start on this lesson!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "hasMultiBaby()"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        43,
+        1,
+        44,
+        4
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        1,
+        56,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 4,
+      "parameters": [
+        "namingMultiBaby()"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 4,
+      "parameters": [
+        0,
+        376,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n<\\n[1]>Hope all of this \\v[102] babies are fine."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n<\\n[1]>Wow the are active now, I can't concentrate to"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "learning. And those womb pains..."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Wow, that punch \"massage\" wasn't very "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "comfortable. I felt wierd in my lower abdomen..."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        150
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        37,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        2,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "_baby_cry",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        55
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        45
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        56,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 1,
+      "parameters": [
+        "出産初回"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "Request anesthesia? \n(Will skip birth)"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        20
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 1,
+      "parameters": [
+        [
+          "No",
+          "Yes"
+        ],
+        -1,
+        -1,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        0,
+        "No"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 2,
+      "parameters": [
+        "選択肢ヘルプ"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 2,
+      "parameters": [
+        "The full birth scene \\c[2]will be shown\\c[0]. This can be \nchanged later in the options menu."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        1,
+        "Yes"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 2,
+      "parameters": [
+        "選択肢ヘルプ"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 2,
+      "parameters": [
+        "The full birth scene \\c[2]will be skipped\\c[0]. This can be \nchanged later in the options menu."
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        37,
+        37,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        37,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        33
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        99
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        447,
+        447,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        56,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        76,
+        76,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        77,
+        77,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        206
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        364,
+        0,
+        20,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        294
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        295
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        37,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        56,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        2,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "_baby_cry",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        55
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        45
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        59,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        205
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        59,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "if (v[359]){ v[102]='boy'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "} else if (v[360]){ v[102]='girl'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "} else { $gameMessage.add( '子どもの性別が不正です！' ) }"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n[1] safely gave birth to a healthy \\c[2]\\v[102]\\c[0]. \nIt weighs \\c[3]\\v[358]\\c[0]."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "v[102] = '\\x1bn[1] is safe,\\n'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "if (v[359]){ v[102] += 'and \\x1bc[2]\\x1bv[359]\\x1bc[0] boy、\\n' }"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "if (v[360]){ v[102] += 'and \\x1bc[2]\\x1bv[360]\\x1bc[0] girl、\\n' }"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "v[102] += 'was born！'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "v[102] += `\\fThe weights from the eldest child are, \\n\\x1bc[3]\\x1bv[358]\\x1bc[0].\\n`"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\v[102]"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 223,
+      "indent": 0,
+      "parameters": [
+        [
+          -255,
+          -255,
+          -255,
+          0
+        ],
+        60,
+        true
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        99
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        57,
+        57,
+        1,
+        1,
+        359
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        58,
+        58,
+        1,
+        1,
+        360
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "変数clear"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        56,
+        56,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        508,
+        508,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        43,
+        43,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        42,
+        42,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        60,
+        60,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "//ご祝儀計算"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "const birthed = $gameVariables.value(56)"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "let i=0, num=1"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "while  (i<birthed){"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "  num += Math.ceil(2*i/2)"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "  i++"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "num *= 10000"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "num *= (0.5*v[59]) + 0.5"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "$gameVariables.setValue( 23, num )"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "胎児の数リセットより前"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        223
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        3,
+        3,
+        0,
+        0,
+        1100
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        338,
+        338,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        339,
+        339,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        340,
+        340,
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        21,
+        21,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "$gameParty._gold >= $gameVariables.value(461) && $gameSwitches.value(366)"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 1,
+      "parameters": [
+        "所持金200万以上 && おばさんから見受けの話聞いた"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n[1] knows she can take care of a child, and she has "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "the necessary money."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "Keep a child?"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        1
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 1,
+      "parameters": [
+        [
+          "No",
+          "Yes"
+        ],
+        0,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        0,
+        "No"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 2,
+      "parameters": [
+        "選択肢ヘルプ"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 2,
+      "parameters": [
+        "The game will continue."
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        486,
+        486,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        1,
+        "Yes"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 2,
+      "parameters": [
+        "選択肢ヘルプ"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 2,
+      "parameters": [
+        "The game will end."
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        33
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        486,
+        486,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        486,
+        0
+      ]
+    },
+    {
+      "code": 251,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 125,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        461
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        240
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "The state took over custody......"
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Coin",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "The state pays a \\v[23] yen reward."
+      ]
+    },
+    {
+      "code": 125,
+      "indent": 0,
+      "parameters": [
+        0,
+        1,
+        23
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "var babies = $gameVariables.value(57) + $gameVariables.value(58)"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "$gameVariables.setValue(21, trinum((babies+3)*2))"
+      ]
+    },
+    {
+      "code": 317,
+      "indent": 0,
+      "parameters": [
+        0,
+        1,
+        2,
+        0,
+        1,
+        21
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "The huge experience of childbirth increases \\n[1]'s \ncharm by \\c[2]\\v[21]\\c[0]."
+      ]
+    },
+    {
+      "code": 251,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n[1] goes go home and takes a vacation......"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        2
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        447,
+        447,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 0
+    }
+  ],
+  "name": "Institute Birth Event 1",
+  "switchId": 1,
+  "trigger": 0
+}

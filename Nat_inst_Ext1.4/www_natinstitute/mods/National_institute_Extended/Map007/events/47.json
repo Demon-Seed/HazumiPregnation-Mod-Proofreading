@@ -1,0 +1,732 @@
+{
+  "id": 47,
+  "name": "EV047",
+  "note": "",
+  "pages": [
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": true,
+      "image": {
+        "tileId": 0,
+        "characterName": "!Flame",
+        "direction": 4,
+        "pattern": 0,
+        "characterIndex": 7
+      },
+      "list": [
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            370,
+            0
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>Lessons are over!"
+          ]
+        },
+        {
+          "code": 115,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            4,
+            "randarg(2,4,5,11)"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]>Should I study?"
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 0,
+          "parameters": [
+            [
+              "Be in the lesson ",
+              "Don't Do It Now"
+            ],
+            1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 0,
+          "parameters": [
+            0,
+            "Be in the lesson "
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[1]>Okay, let's listen to the teacher "
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            12,
+            "randper(65)"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            501,
+            501,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            23,
+            23,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[1]>I have to do it."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            23,
+            23,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 223,
+          "indent": 1,
+          "parameters": [
+            [
+              -255,
+              -255,
+              -255,
+              0
+            ],
+            30,
+            true
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 1,
+          "parameters": [
+            {
+              "name": "_pen_write",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "Studying..\\......."
+          ]
+        },
+        {
+          "code": 223,
+          "indent": 1,
+          "parameters": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            30,
+            true
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>Finished!"
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 1,
+          "parameters": [
+            370,
+            370,
+            0
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 1,
+          "parameters": [
+            "魅力アップ判定"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            501,
+            501,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            12,
+            "randper(5)"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            501,
+            501,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            1,
+            501,
+            0,
+            3,
+            1
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "const coma = s[70] ? randmm(100,200) : v[2]"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 2,
+          "parameters": [
+            "const minimum = Math.max(1, v[2]/20)"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 2,
+          "parameters": [
+            "v[36] = randmm(minimum ,coma / randmm(3,8)*2 )"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 2,
+          "parameters": [
+            "if(v[541]){"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 2,
+          "parameters": [
+            "  v[36] += v[541]"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 2,
+          "parameters": [
+            "}"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "From doing studying, \\n[1] gained confidence!"
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 2,
+          "parameters": [
+            27
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            501,
+            501,
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            541,
+            541,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            32,
+            32,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 1,
+          "parameters": [
+            22
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 0,
+          "parameters": [
+            1,
+            "Don't Do It Now"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            9
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>I'm good for now......"
+          ]
+        },
+        {
+          "code": 115,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": true,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    },
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 370,
+        "switch1Valid": true,
+        "switch2Id": 271,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "characterIndex": 0,
+        "characterName": "",
+        "direction": 2,
+        "pattern": 0,
+        "tileId": 0
+      },
+      "list": [
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            370,
+            0
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>Lessons are over!"
+          ]
+        },
+        {
+          "code": 115,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    }
+  ],
+  "x": 48,
+  "y": 9
+}

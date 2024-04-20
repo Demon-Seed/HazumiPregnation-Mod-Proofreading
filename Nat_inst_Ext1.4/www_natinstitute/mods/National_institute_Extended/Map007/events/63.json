@@ -1,0 +1,1274 @@
+{
+  "id": 63,
+  "name": "Fuba",
+  "note": "",
+  "pages": [
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 11,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Student_boy_2",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 4
+      },
+      "list": [
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            104,
+            104,
+            0,
+            4,
+            "'Fuba'"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            28,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\v[104]> My balls are empty! They are light. "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "Now i can sit!"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\v[104]>Ohh! My balls. They are bursting! I need to "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "release it. Do you help me?"
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 1,
+          "parameters": [
+            [
+              "Ok...",
+              "No!"
+            ],
+            1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            0,
+            "Ok..."
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            12,
+            "isPregnant()"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\v[104]> Something is wrong with your womb. "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "I can smell it!"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            12,
+            "nakaIndex ()>=4"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]> Your womb is way too full already! "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "My load won't fit."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]> Oh, what a lovly flat belly! Don't worry, "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "i will not penetrate you. Just stay, and i pour "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "it inside you!"
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "Equip2",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 4,
+          "parameters": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 4,
+          "parameters": [
+            120
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 4,
+          "parameters": [
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 4,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "shasei",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 224,
+          "indent": 4,
+          "parameters": [
+            [
+              255,
+              255,
+              255,
+              170
+            ],
+            60,
+            true
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            13,
+            13,
+            1,
+            2,
+            5000,
+            10000
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Oh!"
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "shasei",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 224,
+          "indent": 4,
+          "parameters": [
+            [
+              255,
+              255,
+              255,
+              170
+            ],
+            60,
+            true
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            13,
+            13,
+            1,
+            2,
+            7000,
+            10000
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "shasei2",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 224,
+          "indent": 4,
+          "parameters": [
+            [
+              255,
+              255,
+              255,
+              170
+            ],
+            60,
+            true
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            7
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            75,
+            75,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            382,
+            382,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 4,
+          "parameters": [
+            77
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 4,
+          "parameters": [
+            78
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\n[1]> Ah!"
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "shasei",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 224,
+          "indent": 4,
+          "parameters": [
+            [
+              255,
+              255,
+              255,
+              170
+            ],
+            60,
+            true
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "shasei2",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 224,
+          "indent": 4,
+          "parameters": [
+            [
+              255,
+              255,
+              255,
+              170
+            ],
+            60,
+            true
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "shasei2",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 224,
+          "indent": 4,
+          "parameters": [
+            [
+              255,
+              255,
+              255,
+              170
+            ],
+            60,
+            true
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            13,
+            13,
+            1,
+            2,
+            22000,
+            25000
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            7
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            75,
+            75,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            382,
+            382,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 4,
+          "parameters": [
+            77
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 4,
+          "parameters": [
+            78
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Oh my god!"
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "shasei",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 224,
+          "indent": 4,
+          "parameters": [
+            [
+              255,
+              255,
+              255,
+              170
+            ],
+            60,
+            true
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "shasei",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 224,
+          "indent": 4,
+          "parameters": [
+            [
+              255,
+              255,
+              255,
+              170
+            ],
+            60,
+            true
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "shasei2",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 224,
+          "indent": 4,
+          "parameters": [
+            [
+              255,
+              255,
+              255,
+              170
+            ],
+            60,
+            true
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "shasei2",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 224,
+          "indent": 4,
+          "parameters": [
+            [
+              255,
+              255,
+              255,
+              170
+            ],
+            60,
+            true
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            13,
+            13,
+            1,
+            2,
+            25000,
+            35000
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            7
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            75,
+            75,
+            0,
+            0,
+            4
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            382,
+            382,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 4,
+          "parameters": [
+            77
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 4,
+          "parameters": [
+            78
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            4,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\n[1]>Oh...My womb...I'm feeling pressure"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            6
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Cumiiiiing!!!"
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "shasei",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 224,
+          "indent": 4,
+          "parameters": [
+            [
+              255,
+              255,
+              255,
+              170
+            ],
+            60,
+            true
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "shasei",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 224,
+          "indent": 4,
+          "parameters": [
+            [
+              255,
+              255,
+              255,
+              170
+            ],
+            60,
+            true
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "shasei",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 224,
+          "indent": 4,
+          "parameters": [
+            [
+              255,
+              255,
+              255,
+              170
+            ],
+            60,
+            true
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "shasei2",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 224,
+          "indent": 4,
+          "parameters": [
+            [
+              255,
+              255,
+              255,
+              170
+            ],
+            60,
+            true
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            13,
+            13,
+            1,
+            2,
+            30000,
+            50000
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            7
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            75,
+            75,
+            0,
+            0,
+            4
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            382,
+            382,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 4,
+          "parameters": [
+            77
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 4,
+          "parameters": [
+            78
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Yes! That is great! My balls are empty! "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "I'm very grateful! Here, take it."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            7,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\n[1]>So heavy! My belly is soo hevy. I can't move."
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "My womb is soo full."
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "Equip2",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 4,
+          "parameters": [
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            7,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\n[1]> My poor belly. Oh, I need to go home..."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]> It was great! Hope you are same as my "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "classmate - totally infertile! Ha ha ha."
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "Your belly is quite big, ha ha ha. "
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "Coin",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 125,
+          "indent": 4,
+          "parameters": [
+            0,
+            0,
+            500
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 4,
+          "parameters": [
+            32,
+            32,
+            2,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 4,
+          "parameters": [
+            22
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 4,
+          "parameters": [
+            28,
+            28,
+            0
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            1,
+            "No!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]> Ooh... My balls! They are going to burst!"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    }
+  ],
+  "x": 55,
+  "y": 17
+}

@@ -1,0 +1,2534 @@
+{
+  "id": 272,
+  "list": [
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        447,
+        447,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Equip2",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        2,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        205
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Oh god! I feel the pressure inside my birth "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "canal ..."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        240
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 100,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 100,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "_boton",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "_water_bicha",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>I think my water is broke..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>Yes. You are right. Now concentrate on your "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "contractions. Baby will be soon here!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>II'm trying. But those pains are very strong."
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "I'm already tired!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>You are doing great! Keep breathing!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Contractions, they become more frequent..."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>It is good! Your utherus is puhing baby out!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>It's burning down there!!! Aiiiiiieeeee!!!!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>Come on! You can do it! Just push on next "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "contraction!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Ok... ok.... hooo..... hooooo....hooooo...."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>I can do it!!!"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        56,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>It is not the first time! I need just push!"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>I need to push it out! First birth is the "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "hardest..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<Selby>Well done, keep up! Push! Push!!"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Hoooo..... hoooooo.... hoooooo... hooooo...."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>It is coming..."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Wooooow..... hooooooooooo...."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>I need rest for a while..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Hoooooooooooo..... hooooooooooo...."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Another contraction is coming..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>Push!!! You must push!!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>AAAAAAiiiiiiiiieeeeeeeeeee!!!!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        71,
+        71,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Hnnnnnnngggggggg!! Aaaaaaaaaahhhhhhhhggggggg!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Oooohhh.... I feeel it! It's coming ooouut!!!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>AAAAAAiiiiiiiiieeeeeeeeeee!!!!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Hhhhhnnnnnnnnnggggggggghhhh!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        71,
+        71,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>I can see a head! It is almost out! Keep up!"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "Push! Push!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>I need a rest! I'm too tired!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Hooooooo.... hooooooo.... hoooooo.... hooooooo"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>I need to catch a breath..."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>Concentrate on your breathing, this is very "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "important! "
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>I can not... I'm too tired"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        71,
+        71,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>\\n[1] your baby slide back inside you! You "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "need to breath, and help your utherus! Or the baby will"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "not born!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>I'm trying! But it is not enought..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>Wait until you feel contraction and then push"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "as strong as you can!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>I will try..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Uuuuuuufffff.... another contraction is coming!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>Get ready! And push!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Uuuuuuufffff.... another contraction is coming!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>Go on! Don't stop!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Nyyyyyyyyaaaaahhhhhhh!!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        71,
+        71,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>Head is almost out! Push! keep up!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Aaaaaaaaaaaaaaahhhhhhh!!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Nyyyyyyyyaaaaahhhhhhh!!!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>OOOOhhhh!!!! It's hurts!!!!! AAAAhhhhhh!!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        71,
+        71,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "_bochan",
+          "volume": 100,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        200
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "_baby_cry",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        55
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        45
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "hasMultiBaby()"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "namingMultiBaby()"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Uuuuaaaaa!!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<Selby>It is not over my dear! You are stil pregnant!"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "There is still \\v[102] inside you!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>AAaaaaaahhhhhh..."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>OOOhhhh!!!! Contractions!!! They don't stop!!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        30
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<Selby>I see another head!!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Aagh!!? C-Coming!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        443,
+        443,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<Selby>You are doing great! Next baby coming really "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "fast! Keep pushing!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Uaah. HEEEGH～～～～～!! AAaaaaaahhhhhh..."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Uaah. HEEEGH～～～～～!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        443,
+        443,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Aah～～～～～!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Nyyyyyyyyaaaaahhhhhhh!!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        443,
+        443,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        71,
+        71,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "_bochan",
+          "volume": 100,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        160
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "_baby_cry",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        360
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        243
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>You gave birth to \\v[102]."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "[Birth] Perv Classic Birth",
+  "switchId": 1,
+  "trigger": 0
+}

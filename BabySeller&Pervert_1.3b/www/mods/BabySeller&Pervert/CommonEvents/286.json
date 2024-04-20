@@ -1,0 +1,2598 @@
+{
+  "id": 286,
+  "list": [
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        33
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        76,
+        78,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        353,
+        356,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        375,
+        375,
+        0,
+        1,
+        75
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        75,
+        75,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        381,
+        381,
+        0,
+        4,
+        "'Missionary'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        434,
+        434,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        96
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        85,
+        85,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Lazloo>Oh god, your belly! It is great!"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "So round and hard!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>I can feel that you want to do something..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Lazloo>Lay down! Carefuly! Ooooohhh..."
+      ]
+    },
+    {
+      "code": 118,
+      "indent": 0,
+      "parameters": [
+        "SexMinigame"
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        85,
+        85,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        434,
+        0,
+        5,
+        1
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 1,
+      "parameters": [
+        "BirthStart"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        433,
+        0,
+        30,
+        1
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 1,
+      "parameters": [
+        "Orgasm"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 102,
+      "indent": 1,
+      "parameters": [
+        [
+          "Insert to Vagina",
+          "Suck Breast",
+          "Lick Pussy",
+          "Kiss Belly"
+        ],
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        0,
+        "Insert to Vagina"
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        85,
+        85,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "sonyuu",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 2,
+      "parameters": [
+        [
+          "Slow Soft trust",
+          "Hold inside"
+        ],
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 2,
+      "parameters": [
+        0,
+        "Slow Soft trust"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<Lazloo>You are so warm inside!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        89
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>Ooohhhh..... Aaaahhh...."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        75,
+        75,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        382,
+        382,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        13,
+        13,
+        1,
+        2,
+        1000,
+        1400
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        77
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        78
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        75,
+        75,
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>Ahhhhhhh..."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>Oooooohhhhhh!!! That was strong contraction!!!"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        89
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>Ooooooooh!!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        75,
+        75,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        382,
+        382,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        13,
+        13,
+        1,
+        2,
+        1000,
+        1400
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        77
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        78
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>Yeeeeaaaaaaahh..."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>Yeeeeessss..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<Lazloo>I'm not done! I can cum more!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        433,
+        433,
+        1,
+        0,
+        10
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 3,
+      "parameters": [
+        "SexMinigame"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 2,
+      "parameters": [
+        1,
+        "Hold inside"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>Aaaahhhhh...."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>It feels so good..."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>Ouch..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>Hold still. It fades away..."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>Auch!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<Lazloo>May I stop?"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>No! Stay in!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>Eeeeuuu..."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 3,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<Lazloo>I.... I can not hold it!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>What??"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        75,
+        75,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        382,
+        382,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        13,
+        13,
+        0,
+        2,
+        500,
+        1000
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        77
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        78
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<Lazloo>Ooooooooooohhhhhhh....."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>You.... cum.... inside?!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 3,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        433,
+        433,
+        1,
+        0,
+        10
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 3,
+      "parameters": [
+        "SexMinigame"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        1,
+        "Suck Breast"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "Lazloo suckles like a baby."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "Milk overflows as Lazloo drinks."
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        0,
+        56,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        99
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 3,
+      "parameters": [
+        1,
+        "stand_cut_nursing",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "Sucking",
+          "volume": 90,
+          "pitch": 90,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        240
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 3,
+      "parameters": [
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        381,
+        381,
+        0,
+        4,
+        "'Missionary'"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        96
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        99
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 3,
+      "parameters": [
+        2,
+        "stand_cut_nursing_black",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "Sucking",
+          "volume": 90,
+          "pitch": 90,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        240
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 3,
+      "parameters": [
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        381,
+        381,
+        0,
+        4,
+        "'Missionary'"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        96
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        433,
+        433,
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 2,
+      "parameters": [
+        "SexMinigame"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        2,
+        "Lick Pussy"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Licking",
+          "volume": 90,
+          "pitch": 90,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Ooooohhh.... Oooohhhhh..... Oh god!!!"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "That feels great!!!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Licking",
+          "volume": 90,
+          "pitch": 90,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Oh yes!!!! Oooooohhhhh!!!! YES....."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>No... that contraction ruins it..."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        433,
+        433,
+        1,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 2,
+      "parameters": [
+        "SexMinigame"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        3,
+        "Kiss Belly"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<Lazloo>I want to kiss your belly!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Kiss",
+          "volume": 90,
+          "pitch": 90,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        80
+      ]
+    },
+    {
+      "code": 251,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        433,
+        433,
+        1,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 2,
+      "parameters": [
+        "SexMinigame"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 118,
+      "indent": 0,
+      "parameters": [
+        "Orgasm"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>OOoooohhhhh!!! AAAhhhhh!!!!"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        214
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        433,
+        433,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        434,
+        434,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        24,
+        24,
+        0,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        24,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Oh.. My belly..."
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 1,
+      "parameters": [
+        "SexMinigame"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        24,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Wow, that was strong contraction ..."
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 1,
+      "parameters": [
+        "SexMinigame"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        24,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>I think that baby likes it..."
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 1,
+      "parameters": [
+        "SexMinigame"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        24,
+        0,
+        4,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Calm donw baby! It was just orgasm..."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Ouch... It wasn't..."
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 1,
+      "parameters": [
+        "SexMinigame"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 118,
+      "indent": 0,
+      "parameters": [
+        "BirthStart"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Oh god! Oh god! We must stop!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>My belly! It hurts!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Lazloo>It is time?"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Ouch... Yes..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>I think i'm ready to birth!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Lazloo>It is ok. Go to Selby. He will help you!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>It was great Lazloo! Thank you..."
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        99
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "[Minigame] Lazlo sex scene game",
+  "switchId": 1,
+  "trigger": 0
+}

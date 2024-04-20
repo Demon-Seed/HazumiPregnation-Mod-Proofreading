@@ -1,0 +1,712 @@
+{
+  "id": 24,
+  "name": "\\n[2]\\n[3]",
+  "note": "",
+  "pages": [
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 500,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 343,
+        "variableValid": true,
+        "variableValue": 28
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Student_girl_1",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 6
+      },
+      "list": [
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[2]>Hi \\n[1]! Nice to meet you here!"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]> Hi \\n[2]! Wow, your belly is quite big already!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[2]>Yes I'm about \\v[343] weeks right now."
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "Waiting for the doctor to see me. We need to keep this "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "baby healthy, this is an investment of the state in me!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]> How many babys have you already had?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[2]>Oh... This is baby number \\v[349]! And I have "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "payed well for all children... But, I heard about a"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            " new way of earning money from pregnancy!"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]> Oh really? And which one? "
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[2]>They say we have a private doctor in our city "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "who gives children not to the state, but directly to "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "families. And they pay a lot! He sometimes comes to see "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "pregnant women here, to the gynecology. "
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            14
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]> Oh.... But... It is not legal yes?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[2]>Who cares! He does good to families and pays "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "very well! He stay there at the corner. If you want,"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "Talk to him. And say that you are from me."
+          ]
+        },
+        {
+          "code": 123,
+          "indent": 0,
+          "parameters": [
+            "A",
+            0
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            120
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 0,
+          "parameters": [
+            {
+              "name": "SE_Interphone",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            120
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[2]>Oh! My turn! I need to go. See you in "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "Institute \\n[1]!"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]>Have a nice day!"
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 203,
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            36,
+            6,
+            2
+          ]
+        },
+        {
+          "code": 224,
+          "indent": 0,
+          "parameters": [
+            [
+              255,
+              255,
+              255,
+              170
+            ],
+            120,
+            true
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            180
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]>Hmm... Illegal babby trading... May I...?"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            430,
+            430,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 115,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": false
+    },
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": true,
+        "switch1Id": 271,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 343,
+        "variableValid": true,
+        "variableValue": 28
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Student_girl_1",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 6
+      },
+      "list": [
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[2]>Hi \\n[1]! Nice to meet you here!"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]> Hi \\n[2]! Wow, your belly is quite big already!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[2]>Yes I'm about \\v[343] weeks right now."
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "I'm pretty tired be pregnant. But the money that I "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "receive for this gives me strength."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]> How many babys have you already had?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[2]>Oh... This is baby number \\v[349]! Sometimes,"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "I like be pregnant. but sometimes it is very "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "uncomfortable! That big belly, baby movments. "
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]> Yes, I know what do you mean!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[2]>But there is also a good thing about it!"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "My boobs always grow! And my customers loves it!"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 1,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    }
+  ],
+  "x": 12,
+  "y": 16
+}

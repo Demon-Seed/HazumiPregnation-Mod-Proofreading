@@ -1,0 +1,619 @@
+{
+  "id": 58,
+  "name": "EV058",
+  "note": "",
+  "pages": [
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "characterIndex": 0,
+        "characterName": "",
+        "direction": 2,
+        "pattern": 0,
+        "tileId": 0
+      },
+      "list": [
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            43,
+            0,
+            44,
+            1
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>This toilet isn't working. I should go to "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "other one"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            12,
+            "nakaIndex()<=5"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[1]>It's a toilet"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            12,
+            "nakaIndex()>=6"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            16
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>Woaaa, My belly is bloated."
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 3,
+          "parameters": [
+            43,
+            43,
+            1
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>If someone else saw me they would think "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "i'm pregnant."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            20,
+            20,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            11
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[1]>Should I push my bloated belly?"
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 2,
+          "parameters": [
+            [
+              "Yes",
+              "No"
+            ],
+            1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 2,
+          "parameters": [
+            0,
+            "Yes"
+          ]
+        },
+        {
+          "code": 223,
+          "indent": 3,
+          "parameters": [
+            [
+              -255,
+              -255,
+              -255,
+              0
+            ],
+            40,
+            true
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 3,
+          "parameters": [
+            20
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            20,
+            20,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>First, I should close the door and remove "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "my clothes. I don't want to spoil my clothes."
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 3,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 3,
+          "parameters": [
+            {
+              "name": "Equip2",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 3,
+          "parameters": [
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 3,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            20,
+            20,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            9
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>OK now I'm going to push my bloated belly. "
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 3,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            10
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>Fuu"
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 3,
+          "parameters": [
+            {
+              "name": "gucho",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            13,
+            13,
+            2,
+            2,
+            10000,
+            15000
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 3,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            20,
+            20,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>Fiuu.... I remove a LOT of Semen from my womb."
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 3,
+          "parameters": [
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 3,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 223,
+          "indent": 3,
+          "parameters": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            30,
+            true
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 2,
+          "parameters": [
+            1,
+            "No"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    }
+  ],
+  "x": 57,
+  "y": 29
+}

@@ -1,0 +1,6588 @@
+{
+  "id": 287,
+  "list": [
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        21,
+        1
+      ]
+    },
+    {
+      "code": 241,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "banbado_piano",
+          "volume": 30,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 201,
+      "indent": 1,
+      "parameters": [
+        0,
+        7,
+        39,
+        9,
+        6,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        381,
+        381,
+        0,
+        4,
+        "`出産`"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        15
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>You are quite active today!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>This lesson is so boring! I will draw something!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "_pen_write",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        13
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Ouch!! Stop it baby! It was painful!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>I had to go home, not sit here in class."
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "Although, I really need this money. "
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>I have to wait, we have an agreement."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        13
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Oh... that was gross! This Braxton Hick was"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "very painfull!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>\\n[1] leaned back in her chair and stuck out "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "her belly, stroking it."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Ufff..."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 204,
+      "indent": 1,
+      "parameters": [
+        6,
+        3,
+        3
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<Deny>Is everything allright?"
+      ]
+    },
+    {
+      "code": 204,
+      "indent": 1,
+      "parameters": [
+        4,
+        3,
+        3
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "hasMultiBaby()"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        43,
+        1,
+        44,
+        4
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        1,
+        56,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 4,
+      "parameters": [
+        "namingMultiBaby()"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 4,
+      "parameters": [
+        0,
+        376,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n<\\n[1]>I think yes. I just have a Braxton Hicks. "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "It is hard to keep all of those \\v[102] babies inside. "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "They have too little space left."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n<\\n[1]>I think yes. I just have a Braxton Hicks."
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "It make the babys more active then usualy. They have "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "too little space left."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<Deny>I still have a few lessons ahead of me before"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "I’m free. Hope you will wait!"
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 1,
+      "parameters": [
+        [
+          "Yes",
+          "No"
+        ],
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        0,
+        "Yes"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Of course! I'm not going anywheare. "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "I waiting for you"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Oooh... I need to hide that I have so painful"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "womb contractions. This Braxton Hicks are very annoying"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>\\n[1]'s belly started to be heavy. And"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "an unpleasant feeling in the stomach made her "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "uncomfortable"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        13
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Ufff.... Why are the belly pains started right"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "now? Baby, stop it! Stop trying to born right now."
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "Mama need some money..."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        10
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        12
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Ouch, that was gross! Are you trying to tell "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "me something?"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        15
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>If you will keep attacking my bladder that way,"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "i will pee myself right here. That what bothers you so "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "much?"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        12
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Ok, Ok! I will visit the restroom..."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 204,
+      "indent": 2,
+      "parameters": [
+        6,
+        3,
+        3
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Don't worry! I will be right back."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<Deny>Ok, I will keep my eye to your stuff."
+      ]
+    },
+    {
+      "code": 204,
+      "indent": 2,
+      "parameters": [
+        4,
+        3,
+        3
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        13
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Geeeeez! My belly hurts..."
+      ]
+    },
+    {
+      "code": 201,
+      "indent": 2,
+      "parameters": [
+        0,
+        7,
+        53,
+        30,
+        2,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Equip2",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "_sosogu",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "_water_bicha",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Wow, that was a heavy stream! I really needed"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "to go here."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Equip2",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "_toilet_maoudamashii",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Hope this will calm you down my baby!"
+      ]
+    },
+    {
+      "code": 201,
+      "indent": 2,
+      "parameters": [
+        0,
+        7,
+        39,
+        9,
+        6,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<Deny>Two more lessons, and we will be free. "
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>I'm not going anywheare..."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Oh... here we go again... Those contractions..."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Uh..."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>That was very strong. I can feel my uterus "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "moving the baby! What a strong braxton hicks!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        13
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Ufff...I have a strong urge to push..."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        11
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Braxton Hicks shouldn't lead to this..."
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "Oh... What should i do?"
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 2,
+      "parameters": [
+        "Hold1"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        1,
+        "No"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Sorry, I'm not feeling wery well. I should go "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "home."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[1]'s charm is decreases because she did not keep her "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "promise"
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 317,
+      "indent": 2,
+      "parameters": [
+        0,
+        1,
+        2,
+        1,
+        0,
+        1000
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        32,
+        32,
+        2,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        22
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 118,
+      "indent": 1,
+      "parameters": [
+        "Hold1"
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 1,
+      "parameters": [
+        [
+          "Hold it.",
+          "Push"
+        ],
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        0,
+        "Hold it."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Oooh...Baby, hold in please! I don't want to"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "give birth right here!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        15
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        13
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        11
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Oh my god! It seems to me that I feel a baby "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "in the birth canal!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>I need to hold it! Oh... Uhhhmmmmpppp..."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "se_maoudamashii_chime03",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Lessons are over! It is releaf! I hope that "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "Denny take pictures fast! "
+      ]
+    },
+    {
+      "code": 204,
+      "indent": 2,
+      "parameters": [
+        6,
+        3,
+        4
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<Deny>All right! Lets go take some pitures!"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "You look tired!"
+      ]
+    },
+    {
+      "code": 204,
+      "indent": 2,
+      "parameters": [
+        4,
+        3,
+        4
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        6
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>It is Ok. All is right! "
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<Deny>Ok! Lets go to the vacant place. I think "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "classroom next to if empty!"
+      ]
+    },
+    {
+      "code": 201,
+      "indent": 2,
+      "parameters": [
+        0,
+        7,
+        20,
+        7,
+        6,
+        1
+      ]
+    },
+    {
+      "code": 203,
+      "indent": 2,
+      "parameters": [
+        56,
+        0,
+        22,
+        7,
+        4
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<Deny>I will take some pictures!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<Deny>Can you turn? I want to shoot that belly!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<Deny>Great!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        15
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        13
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        11
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<Deny>Is everything allright?"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Oooooohhhh... It's OK. Only baby is kicking!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<Deny>Stay in this position, i take some shot's, "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "while you holding the belly!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Ok!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Uhhhhh... What is that?"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "_shower",
+          "volume": 70,
+          "pitch": 130,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        180
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>My breast!!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        6
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        3,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>I have a milk stream!!! It is like fountain!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<Deny>OOOhhhh! That is great! I'm taking photos!!!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 251,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Huge contraction comes as \\n[1]'s breast was "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "stimulated..."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Aaaaaahhhh... I neeed to puuushhh!"
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 2,
+      "parameters": [
+        [
+          "Hold it..",
+          "Push!"
+        ],
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 2,
+      "parameters": [
+        0,
+        "Hold it.."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>\\n[1] felt like a child is moving along the "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "birth canal. She felt bulging in her panties."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>Contractions are getting short, and \\n[1] "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "could no longer interfere with the movement of the "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "baby through the birth canal"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>I need to hold it! I can not birth right here!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>(strong contraction hit the belly)"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "...Nnngghh!!....Nnnnggghhh!!!...."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<Deny>Hey, what is going on here? Are you in pains?"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>No, only very active baby! It is kiсking a lot!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[1] is feeling strong urge to push, "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "but she could handle him."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 3,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<Deny>These will be gorgeous pictures! "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "I don't even remember the last time I photographed "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "classmates for my website! "
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>another strong contractions strikes \\n[1]'s "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "Belly"
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 3,
+      "parameters": [
+        [
+          "Try to Hold it",
+          "Push!!"
+        ],
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 3,
+      "parameters": [
+        0,
+        "Try to Hold it"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 4,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        11
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\n[1] is trying to hold the contraction and not "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "pushing. She stand in classrom, adn hold the belly..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\n<Deny>Yes! Hold still! "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "That will be a gregoreus puctires!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 4,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 4,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 4,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 4,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 4,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 4,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 4,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 4,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 4,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\n[1] feeling pressure between her legs..."
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 4,
+      "parameters": [
+        0,
+        300,
+        0
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 5,
+      "parameters": [
+        1,
+        "M_CG_birth_half",
+        1,
+        0,
+        120,
+        10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\n<\\n[1]>I need to hold it, I need to hold it!!!!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 4,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 4,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 4,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 4,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 4,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 4,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 4,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 4,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 4,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\n[1] feels like the baby is breaking out of the "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "vagina. Her panties stretch over her head."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\n<\\n[1]>Oh god! It is coming out!!!!!!!!!!"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 4,
+      "parameters": [
+        0,
+        300,
+        0
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 5,
+      "parameters": [
+        1
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 5,
+      "parameters": [
+        2,
+        "M_CG_birth_before",
+        1,
+        0,
+        120,
+        10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\n[1] Oh god! I need to hold it inside!!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\n[1] takes a deep breath to resist another "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "contraction. The baby is pulled back."
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 4,
+      "parameters": [
+        0,
+        300,
+        0
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 5,
+      "parameters": [
+        2
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 5,
+      "parameters": [
+        3,
+        "M_CG_birth_half",
+        1,
+        0,
+        120,
+        10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "\\n[1] has irresistible urge to push..."
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 4,
+      "parameters": [
+        [
+          "Hold it...",
+          "Push!!!"
+        ],
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 4,
+      "parameters": [
+        0,
+        "Hold it..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n<Deny>Now, lay to table amd spread legs a bit. "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "I will take some shots from this angle."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 5,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n[1] I can't hold it. I feel huge urge to push!!!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 5,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 5,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 5,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 5,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 5,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 5,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 5,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 5,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 5,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n[1] Baby, it's coming..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n<Deny>Nice! Yes, hold your belly! And show it more "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "to camera! It is great!!!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 5,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 5,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 5,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 5,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 5,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 5,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 5,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 5,
+      "parameters": [
+        {
+          "name": "Camera-Shutter03-1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 5,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n<\\n[1]>No baby! Wait! I can't birth right now!"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "I must hold it!!! Uuuuufffffff....."
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 5,
+      "parameters": [
+        0,
+        300,
+        0
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 6,
+      "parameters": [
+        3
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 6,
+      "parameters": [
+        4,
+        "M_CG_birth_before",
+        1,
+        0,
+        120,
+        10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n<\\n[1]>oooooooooohhhhhhhhhhh"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 5,
+      "parameters": [
+        0,
+        300,
+        0
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 6,
+      "parameters": [
+        4
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 6,
+      "parameters": [
+        5,
+        "M_CG_birth_half",
+        1,
+        0,
+        120,
+        10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n<\\n[1]>Dany, i think i would need help..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n<Deny>Yes! Of course! Wait a one moment!"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "Those pictures would be a diamond of my collection!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 5,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 5,
+      "parameters": [
+        "\\n<\\n[1]>OOOooooohhh.... Aaaaaaahhh...."
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 5,
+      "parameters": [
+        [
+          "Hold it....",
+          "Push!!!!"
+        ],
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 5,
+      "parameters": [
+        0,
+        "Hold it...."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 6,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 6,
+      "parameters": [
+        "\\n<\\n[1]>Oooooofffff... I... Must tell you something..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 6,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 6,
+      "parameters": [
+        "\\n<Deny>What?"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 6,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 6,
+      "parameters": [
+        "\\n<\\n[1]>Oooooohhhhhh... Please.... "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 6,
+      "parameters": [
+        "Help me remove clothes.... I..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 6,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 6,
+      "parameters": [
+        "\\n<Deny>You want to do a full naked photos??? Oh yea!!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 6,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 6,
+      "parameters": [
+        "\\n<\\n[1]>Aaaaaahhhh... nope..."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 6,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 6,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 6,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 6,
+      "parameters": [
+        0,
+        300,
+        0
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 7,
+      "parameters": [
+        5
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 7,
+      "parameters": [
+        6,
+        "M_CG_birth_before",
+        1,
+        0,
+        120,
+        10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 7,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 7,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 6,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 6,
+      "parameters": [
+        "\\n<Deny>Dany helps \\n[1] removing clothes, and notice "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 6,
+      "parameters": [
+        "huge bulge in her panties..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 6,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 6,
+      "parameters": [
+        "\\n<Deny>Oh crap! It is a Baby!!! Hold on, I'm taking "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 6,
+      "parameters": [
+        "the camera..."
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 6,
+      "parameters": [
+        6
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 6,
+      "parameters": [
+        3,
+        3,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 6,
+      "parameters": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 6,
+      "parameters": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 6,
+      "parameters": [
+        291
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 6,
+      "parameters": [
+        32,
+        32,
+        2,
+        0,
+        50
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 5,
+      "parameters": [
+        1,
+        "Push!!!!"
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 6,
+      "parameters": [
+        5
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 6,
+      "parameters": [
+        3,
+        3,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 6,
+      "parameters": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 6,
+      "parameters": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 6,
+      "parameters": [
+        290
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 6,
+      "parameters": [
+        32,
+        32,
+        2,
+        0,
+        40
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 4,
+      "parameters": [
+        1,
+        "Push!!!"
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 5,
+      "parameters": [
+        3
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 5,
+      "parameters": [
+        3,
+        3,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 5,
+      "parameters": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 5,
+      "parameters": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 5,
+      "parameters": [
+        289
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 5,
+      "parameters": [
+        32,
+        32,
+        2,
+        0,
+        30
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 3,
+      "parameters": [
+        1,
+        "Push!!"
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 4,
+      "parameters": [
+        3,
+        3,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 4,
+      "parameters": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 4,
+      "parameters": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 4,
+      "parameters": [
+        288
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 4,
+      "parameters": [
+        32,
+        32,
+        2,
+        0,
+        20
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 2,
+      "parameters": [
+        1,
+        "Push!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>Sorry! Call the ambulance!!! Fast! "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "I'm Birthing!! "
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<Deny>Oh crap! You can not hold it? I'm not done yet!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>NO! I can't wait!!! Hurry! It is almost come!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n<\\n[1]>Dany give you a few amount of money. But he is"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "very unsatisfated!"
+      ]
+    },
+    {
+      "code": 125,
+      "indent": 3,
+      "parameters": [
+        0,
+        0,
+        4000
+      ]
+    },
+    {
+      "code": 251,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 3,
+      "parameters": [
+        3,
+        3,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 3,
+      "parameters": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        206
+      ]
+    },
+    {
+      "code": 317,
+      "indent": 3,
+      "parameters": [
+        0,
+        1,
+        2,
+        1,
+        0,
+        600
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        32,
+        32,
+        2,
+        0,
+        10
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        1,
+        "Push"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        14
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>Oh, god!!! Hhhhhnnnnnnnnnggggggggghhhh!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>I giving birth!!! Help!!!"
+      ]
+    },
+    {
+      "code": 204,
+      "indent": 2,
+      "parameters": [
+        6,
+        14,
+        5
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<Teatcher>I will call ambulance! Hold on!"
+      ]
+    },
+    {
+      "code": 204,
+      "indent": 2,
+      "parameters": [
+        4,
+        12,
+        5
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<Deny>Oh crap... My photoset is ruined... Couldn't "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "you keep the baby inside a little longer? Geeez..."
+      ]
+    },
+    {
+      "code": 204,
+      "indent": 2,
+      "parameters": [
+        4,
+        2,
+        3
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>I'm sorry Denyyy!!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[1]'s charm is decreases because she did not keep her "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "promise"
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        206
+      ]
+    },
+    {
+      "code": 317,
+      "indent": 2,
+      "parameters": [
+        0,
+        1,
+        2,
+        1,
+        0,
+        800
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        32,
+        32,
+        2,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        37,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        2,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "_baby_cry",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        55
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        45
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        37,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        33
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        99
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        447,
+        447,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        37,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        56,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        2,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "_baby_cry",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        55
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        45
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        59,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        205
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        59,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "if (v[359]){ v[102]='boy'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "} else if (v[360]){ v[102]='girl'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "} else { $gameMessage.add( '子どもの性別が不正です！' ) }"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n[1] safely gave birth to a healthy \\c[2]\\v[102]\\c[0]. \nIt weighs \\c[3]\\v[358]\\c[0]."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "v[102] = '\\x1bn[1] is safe,\\n'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "if (v[359]){ v[102] += 'and \\x1bc[2]\\x1bv[359]\\x1bc[0] boy、\\n' }"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "if (v[360]){ v[102] += 'and \\x1bc[2]\\x1bv[360]\\x1bc[0] girl、\\n' }"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "v[102] += 'was born！'"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "v[102] += `\\fThe weights from the eldest child are, \\n\\x1bc[3]\\x1bv[358]\\x1bc[0].\\n`"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\v[102]"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 223,
+      "indent": 0,
+      "parameters": [
+        [
+          -255,
+          -255,
+          -255,
+          0
+        ],
+        60,
+        true
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        99
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        57,
+        57,
+        1,
+        1,
+        359
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        58,
+        58,
+        1,
+        1,
+        360
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "変数clear"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        56,
+        56,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        508,
+        508,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        43,
+        43,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        42,
+        42,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        60,
+        60,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "//ご祝儀計算"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "const birthed = $gameVariables.value(56)"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "let i=0, num=1"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "while  (i<birthed){"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "  num += Math.ceil(2*i/2)"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "  i++"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "num *= 10000"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "num *= (0.5*v[59]) + 0.5"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "$gameVariables.setValue( 23, num )"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "胎児の数リセットより前"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        223
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        3,
+        3,
+        0,
+        0,
+        1100
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        338,
+        338,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        339,
+        339,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        340,
+        340,
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        21,
+        21,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "$gameParty._gold >= $gameVariables.value(461) && $gameSwitches.value(366)"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 1,
+      "parameters": [
+        "所持金200万以上 && おばさんから見受けの話聞いた"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n[1] knows she can take care of a child, and she has "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "the necessary money."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "Keep a child?"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        1
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 1,
+      "parameters": [
+        [
+          "No",
+          "Yes"
+        ],
+        0,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        0,
+        "No"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 2,
+      "parameters": [
+        "選択肢ヘルプ"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 2,
+      "parameters": [
+        "The game will continue."
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        486,
+        486,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        1,
+        "Yes"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 2,
+      "parameters": [
+        "選択肢ヘルプ"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 2,
+      "parameters": [
+        "The game will end."
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        33
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        486,
+        486,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        486,
+        0
+      ]
+    },
+    {
+      "code": 251,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 125,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        461
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        240
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "The state took over custody......"
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Coin",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "The state pays a \\v[23] yen reward."
+      ]
+    },
+    {
+      "code": 125,
+      "indent": 0,
+      "parameters": [
+        0,
+        1,
+        23
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "var babies = $gameVariables.value(57) + $gameVariables.value(58)"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "$gameVariables.setValue(21, trinum((babies+3)*2))"
+      ]
+    },
+    {
+      "code": 317,
+      "indent": 0,
+      "parameters": [
+        0,
+        1,
+        2,
+        0,
+        1,
+        21
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "The huge experience of childbirth increases \\n[1]'s \ncharm by \\c[2]\\v[21]\\c[0]."
+      ]
+    },
+    {
+      "code": 251,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n[1] goes go home and takes a vacation......"
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        447,
+        447,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        22
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        2
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 0
+    }
+  ],
+  "name": "Institute Dany Birth",
+  "switchId": 1,
+  "trigger": 0
+}

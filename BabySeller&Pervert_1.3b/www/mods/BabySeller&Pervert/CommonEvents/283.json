@@ -1,0 +1,1835 @@
+{
+  "id": 283,
+  "list": [
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        33
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        1,
+        "M_CG_body",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        2,
+        "M_CG_body_leg",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        56,
+        0
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 1,
+      "parameters": [
+        3,
+        "M_CG_nipple",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 231,
+      "indent": 1,
+      "parameters": [
+        3,
+        "M_CG_nipple_black",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        4,
+        "M_CG_body_bote_ultra",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        69,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 1,
+      "parameters": [
+        5,
+        "M_CG_body_pubic",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        6,
+        "M_CG_face_1",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        7,
+        "M_CG_body_kupa",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>I will gonna pop!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>I need to get it out of me... My uterus!!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Oooohhh... you are rubing my belly. It feels"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "good, please continiue."
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        6
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        8,
+        "M_CG_face_0",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Eh? What are you doing???"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Aaaaaaahhhhhh... Do not push on it!!!!"
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        8
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        9,
+        "M_CG_face_3",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Aaaaaaahhhhhh......"
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        10,
+        "M_CG_naka_1",
+        0,
+        0,
+        -10,
+        -10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        10
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "gucho",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        11,
+        "M_CG_naka_2",
+        0,
+        0,
+        -10,
+        -10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        11
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        12,
+        "M_CG_naka_3",
+        0,
+        0,
+        -10,
+        -10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        12
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "shasei",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        14,
+        "M_CG_naka_5",
+        0,
+        0,
+        -10,
+        -10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        14
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "shasei2",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        15,
+        "M_CG_naka_6",
+        0,
+        0,
+        -10,
+        -10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Uuuhhhh... aaaaaahhhh..... it's leaking..."
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        9
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        16,
+        "M_CG_face_4",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        17,
+        "M_CG_face_emo_1",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        18,
+        "M_CG_body_bote_super",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        4
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>I think, I'm going to puke..."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        15
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "gucho",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        19,
+        "M_CG_naka_5",
+        0,
+        0,
+        -10,
+        -10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        19
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "gucho",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        20,
+        "M_CG_naka_3",
+        0,
+        0,
+        -10,
+        -10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        20
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "gucho",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        21,
+        "M_CG_naka_1",
+        0,
+        0,
+        -10,
+        -10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Please, stop! Do not press on my belly"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "anymore... it hurts..."
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        16
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        22,
+        "M_CG_face_2",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Uaaaaahhhhhh.... Aaaaaaaahhhhh..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Contraction are getting stronger!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Lazloo>So squeezing cum from uterus, helping to it"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "cotracting stronger."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>If you push to my belly one more time, "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "my uterus will burst!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Lazlo>It will not. I'm pushing again!"
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        22
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        23,
+        "M_CG_face_3",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Noooo.... Aaaaaahhhhhhh..."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        21
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "gucho",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        24,
+        "M_CG_naka_2",
+        0,
+        0,
+        -10,
+        -10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        24
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        25,
+        "M_CG_naka_3",
+        0,
+        0,
+        -10,
+        -10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        25
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "shasei",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        26,
+        "M_CG_naka_5",
+        0,
+        0,
+        -10,
+        -10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        26
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "shasei2",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        27,
+        "M_CG_naka_6",
+        0,
+        0,
+        -10,
+        -10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>My uterus!!! AAAaaaaaaaaaaaaahhhhhhhhhhhh..."
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        29,
+        "M_CG_body_bote_mega",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        18
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        23
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        28,
+        "M_CG_face_2",
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>My belly is getting smaller..."
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "gucho",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        27
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        31,
+        "M_CG_naka_5",
+        0,
+        0,
+        -10,
+        -10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        31
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "gucho",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        32,
+        "M_CG_naka_3",
+        0,
+        0,
+        -10,
+        -10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        32
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "gucho",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 231,
+      "indent": 0,
+      "parameters": [
+        33,
+        "M_CG_naka_1",
+        0,
+        0,
+        -10,
+        -10,
+        100,
+        100,
+        255,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Oh... oooohhhhh.... my belly... it is hurt "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "sooo much!"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Contraction! They are so strong! They get back "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "to normal... AAaaaahhhhh"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Paralyze1",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>AAAAAhhhhhh!!! I think it is coming!!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>What the hell are you doing here!!!!???"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Lazloo>Ou... I'm out!!!"
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "Run",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 203,
+      "indent": 0,
+      "parameters": [
+        5,
+        0,
+        3,
+        13,
+        6
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>Geeeez, what is that cum foold here???"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>Can you get up? I you to lay on medical bed..."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Noooo.... It is coming!!! Aaaaahhhhhhh!!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>Crap... Ok. Spread your leg... Ohh..."
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "shasei2",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<Selby>Geeez!!"
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        1
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        2
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        3
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        4
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        5
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        7
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        17
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        28
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        29
+      ]
+    },
+    {
+      "code": 235,
+      "indent": 0,
+      "parameters": [
+        33
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        279
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "[SexScene] Cumflated Birth",
+  "switchId": 1,
+  "trigger": 0
+}

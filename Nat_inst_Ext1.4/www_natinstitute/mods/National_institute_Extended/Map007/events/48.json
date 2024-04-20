@@ -1,0 +1,459 @@
+{
+  "id": 48,
+  "name": "Annie",
+  "note": "",
+  "pages": [
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Student_girl_1",
+        "direction": 6,
+        "pattern": 1,
+        "characterIndex": 0
+      },
+      "list": [
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            104,
+            104,
+            0,
+            4,
+            "'Annie'"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            46,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\v[104]>Oh! Can i touch the belly?!"
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 1,
+          "parameters": [
+            [
+              "Yes",
+              "No"
+            ],
+            1,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            0,
+            "Yes"
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 2,
+          "parameters": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            8
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 2,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            15
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 2,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            13
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[1]>(Geeeeeeeeeez!)"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>Oh! I felt kick! It it adorable!"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            3,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[1]>Yes, the baby is very active! "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "Sometimes i can't learn when it move a lot!"
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 2,
+          "parameters": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            1,
+            "No"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "Sorry, i'm learning now."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    },
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 43,
+        "variableValid": true,
+        "variableValue": 44
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Student_girl_1",
+        "direction": 6,
+        "pattern": 1,
+        "characterIndex": 0
+      },
+      "list": [
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            104,
+            104,
+            0,
+            4,
+            "'Annie'"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>Wow! Your belly is massive! "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "You are definitly overdue!"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            7
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            7,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]>Yes, the baby still waiting. "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "My belly is very heavy. I can't move fast."
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "I hope I give birth soon..."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    }
+  ],
+  "x": 43,
+  "y": 7
+}
