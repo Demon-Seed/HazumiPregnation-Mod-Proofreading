@@ -11144,7 +11144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bring to Big Hall plates, and meals. "
+                                "Bring the Big Hall plates, and meals. "
                             ]
                         },
                         {
@@ -12916,7 +12916,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\v[104]>I'm sorry. Serving Upper Saloon is avalibale"
+                                "\\n<\\v[104]>I'm sorry. Serving the Upper Saloon is available"
                             ]
                         },
                         {
@@ -13176,21 +13176,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "But it is't job, so you will not earn money for it. You"
+                                "But it isn't a job, so you will not earn money for it. "
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "need to keep your maid uniform all time."
+                                "You need to keep your maid uniform all time anyway."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Come Back after you see all that you want."
+                                "Come Back after you've seen all that you want."
                             ]
                         },
                         {
@@ -13316,7 +13316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\v[104]>Have you see the house? Choose the work, "
+                                "\\n<\\v[104]>Are you done exploring the house? Choose the work, "
                             ]
                         },
                         {
@@ -13401,7 +13401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kitchen."
+                                "the kitchen."
                             ]
                         },
                         {
@@ -13486,7 +13486,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\n[1]>I want to Serve upper saloon."
+                                "\\n<\\n[1]>I want to Serve upper Saloon."
                             ]
                         },
                         {
@@ -13503,14 +13503,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\v[104]>Serving Upper Saloon, is avalivale only "
+                                "\\n<\\v[104]>Serving the Upper Saloon, is available only "
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "after Mr.Masterson aproovment."
+                                "after Mr.Masterson's approval."
                             ]
                         },
                         {
@@ -13649,7 +13649,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Prepare the saloon."
+                                "Prepare the Saloon."
                             ]
                         },
                         {
@@ -49574,7 +49574,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>Ehm... I... Mr Masterson..."
+                                "\\n<\\n[1]>Ehm... I... Mr. Masterson..."
                             ]
                         },
                         {
@@ -49820,7 +49820,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "next to this saloon. You deserve better"
+                                "next to this Saloon. You deserve better"
                             ]
                         },
                         {
@@ -49865,7 +49865,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>Ehm... I... Mr Masterson..."
+                                "\\n<\\n[1]>Ehm... I... Mr. Masterson..."
                             ]
                         },
                         {
@@ -54116,7 +54116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm going to resume my work at upper saloon..."
+                                "I'm going to resume my work at upper Saloon..."
                             ]
                         },
                         {

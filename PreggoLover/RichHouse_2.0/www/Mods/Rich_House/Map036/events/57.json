@@ -1,1 +1,2466 @@
-{"id":57,"name":"EV057-1","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":450,"variableValid":true,"variableValue":4},"directionFix":false,"image":{"tileId":0,"characterName":"Young_man","direction":8,"pattern":2,"characterIndex":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":450,"variableValid":true,"variableValue":5},"directionFix":false,"image":{"tileId":0,"characterName":"Young_man","direction":8,"pattern":2,"characterIndex":0},"list":[{"code":122,"indent":0,"parameters":[104,104,0,4,"'Masterson'"]},{"code":101,"indent":0,"parameters":["young_man",1,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>Miss?"]},{"code":213,"indent":0,"parameters":[57,2,true]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>\\n[1] Sir."]},{"code":101,"indent":0,"parameters":["young_man",1,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>Come here \\n[1]."]},{"code":122,"indent":0,"parameters":[450,450,0,0,6]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":450,"variableValid":true,"variableValue":6},"directionFix":false,"image":{"tileId":0,"characterName":"Young_man","direction":8,"pattern":2,"characterIndex":0},"list":[{"code":122,"indent":0,"parameters":[104,104,0,4,"'Masterson'"]},{"code":121,"indent":0,"parameters":[1,1,0]},{"code":101,"indent":0,"parameters":["young_man",4,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>Can you show us your belly miss"]},{"code":401,"indent":0,"parameters":["\\n[1]"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>Ehm..."]},{"code":101,"indent":0,"parameters":["young_man",4,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>I want to see your pregnant "]},{"code":401,"indent":0,"parameters":["belly!"]},{"code":230,"indent":0,"parameters":[10]},{"code":250,"indent":0,"parameters":[{"name":"Equip2","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[30]},{"code":355,"indent":0,"parameters":["delete $gameSystem.caffe"]},{"code":121,"indent":0,"parameters":[1,1,0]},{"code":121,"indent":0,"parameters":[2,2,0]},{"code":122,"indent":0,"parameters":[1,1,0,0,9]},{"code":101,"indent":0,"parameters":["young_man",4,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>Very good belly. I like it."]},{"code":401,"indent":0,"parameters":["Do you agree?"]},{"code":213,"indent":0,"parameters":[58,6,false]},{"code":101,"indent":0,"parameters":["",1,0,2]},{"code":401,"indent":0,"parameters":["\\n<Dealer>Yes."]},{"code":213,"indent":0,"parameters":[55,10,false]},{"code":101,"indent":0,"parameters":["",1,0,2]},{"code":401,"indent":0,"parameters":["\\n<Man>Maybe"]},{"code":213,"indent":0,"parameters":[56,4,false]},{"code":101,"indent":0,"parameters":["",1,0,2]},{"code":401,"indent":0,"parameters":["\\n<Woman>Agree."]},{"code":101,"indent":0,"parameters":["young_man",4,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>You can dress up miss \\n[1]"]},{"code":230,"indent":0,"parameters":[10]},{"code":250,"indent":0,"parameters":[{"name":"Equip2","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[30]},{"code":355,"indent":0,"parameters":["//setChip"]},{"code":655,"indent":0,"parameters":["let ID = 1, num, name = 'hadumi_maid'"]},{"code":655,"indent":0,"parameters":["s[17] ? num = 1 : num = 2"]},{"code":655,"indent":0,"parameters":["$gameActors.actor(ID).setCharacterImage(name,num)"]},{"code":655,"indent":0,"parameters":["$gamePlayer.refresh()"]},{"code":121,"indent":0,"parameters":[1,1,0]},{"code":121,"indent":0,"parameters":[2,2,1]},{"code":122,"indent":0,"parameters":[1,1,0,0,2]},{"code":101,"indent":0,"parameters":["young_man",1,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>This maid, is near to birth,"]},{"code":401,"indent":0,"parameters":["but I already have one baby in this Manson."]},{"code":401,"indent":0,"parameters":["You can take the baby now. But it will be"]},{"code":401,"indent":0,"parameters":["cost much more!!!"]},{"code":101,"indent":0,"parameters":["young_man",4,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>Or you can wait for miss \\n[1]'s"]},{"code":401,"indent":0,"parameters":["baby. "]},{"code":401,"indent":0,"parameters":["Smaar hire her today, so I don't have a "]},{"code":401,"indent":0,"parameters":["buyer for this baby yet."]},{"code":213,"indent":0,"parameters":[56,4,false]},{"code":111,"indent":0,"parameters":[12,"hasMultiBaby()"]},{"code":101,"indent":1,"parameters":["",1,0,2]},{"code":401,"indent":1,"parameters":["\\n<Woman>I want that babes in her belly! Always want to"]},{"code":401,"indent":1,"parameters":["have more than one baby!!!"]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":101,"indent":1,"parameters":["",1,0,2]},{"code":401,"indent":1,"parameters":["\\n<Woman>I want that baby in her belly!"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":213,"indent":0,"parameters":[55,9,false]},{"code":101,"indent":0,"parameters":["",1,0,2]},{"code":401,"indent":0,"parameters":["\\n<Man>Ok, we take this baby!"]},{"code":213,"indent":0,"parameters":[58,3,false]},{"code":101,"indent":0,"parameters":["",1,0,2]},{"code":401,"indent":0,"parameters":["\\n<Dealer>So we have a deal! Lets drink!"]},{"code":101,"indent":0,"parameters":["young_man",7,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>Yes. Miss \\n[1] bring here some"]},{"code":401,"indent":0,"parameters":["more wine, from the kitchen."]},{"code":401,"indent":0,"parameters":["White and red please!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>I'm on my way Mr.Masterson"]},{"code":122,"indent":0,"parameters":[450,450,0,0,7]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":450,"variableValid":true,"variableValue":7},"directionFix":false,"image":{"tileId":0,"characterName":"Young_man","direction":8,"pattern":2,"characterIndex":0},"list":[{"code":122,"indent":0,"parameters":[104,104,0,4,"'Masterson'"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>The Wine miss \\n[1]!!! Hurry..."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":450,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"tileId":0,"characterName":"Young_man","direction":8,"pattern":2,"characterIndex":0},"list":[{"code":122,"indent":0,"parameters":[104,104,0,4,"'Masterson'"]},{"code":101,"indent":0,"parameters":["young_man",2,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>So show us your belly!"]},{"code":111,"indent":0,"parameters":[1,452,0,5,0]},{"code":101,"indent":1,"parameters":["young_man",4,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>Isn't she cute? Do you agree to"]},{"code":401,"indent":1,"parameters":["share your baby to this people miss \\n[1]?"]},{"code":122,"indent":1,"parameters":[1,1,0,0,14]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>Ehm... I... Mr Masterson..."]},{"code":101,"indent":1,"parameters":["young_man",4,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>I will pay you very, very well!"]},{"code":401,"indent":1,"parameters":["Don't be affraid of that! My guests are"]},{"code":401,"indent":1,"parameters":["very, very rich."]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>As a college student, I can not give to my "]},{"code":401,"indent":1,"parameters":["baby enought time and money to rise him..."]},{"code":401,"indent":1,"parameters":["So I Agree. Hope this people give a good family to "]},{"code":401,"indent":1,"parameters":["this child..."]},{"code":213,"indent":1,"parameters":[58,8,false]},{"code":213,"indent":1,"parameters":[55,9,false]},{"code":213,"indent":1,"parameters":[56,4,false]},{"code":101,"indent":1,"parameters":["",1,0,2]},{"code":401,"indent":1,"parameters":["\\n<Woman>Of course we do my dear!!!"]},{"code":401,"indent":1,"parameters":["I'm infertile whole my life, and I want baby more then"]},{"code":401,"indent":1,"parameters":["my life! Do not worry! This child will have whatever "]},{"code":401,"indent":1,"parameters":["he wants!!!"]},{"code":122,"indent":1,"parameters":[1,1,0,0,1]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>I agree. Take the child after it is born."]},{"code":101,"indent":1,"parameters":["young_man",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>So, Let's drink to this deal!"]},{"code":213,"indent":1,"parameters":[58,3,false]},{"code":213,"indent":1,"parameters":[55,3,false]},{"code":213,"indent":1,"parameters":[56,3,false]},{"code":213,"indent":1,"parameters":[57,3,false]},{"code":101,"indent":1,"parameters":["young_man",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>Miss \\n[1], you have served us "]},{"code":401,"indent":1,"parameters":["well! You can go rest. Please, use the room "]},{"code":401,"indent":1,"parameters":["next to this saloon. You deserve better"]},{"code":401,"indent":1,"parameters":["room then another maids. Thank you."]},{"code":122,"indent":1,"parameters":[450,450,0,0,15]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>Ehm... I... Mr Masterson..."]},{"code":101,"indent":1,"parameters":["young_man",4,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>Yes miss \\n[1]?"]},{"code":122,"indent":1,"parameters":[1,1,0,0,11]},{"code":230,"indent":1,"parameters":[30]},{"code":355,"indent":1,"parameters":["AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"]},{"code":230,"indent":1,"parameters":[60]},{"code":101,"indent":1,"parameters":["",0,1,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>Uhhh... My bladder... Baby stop kicking in to"]},{"code":401,"indent":1,"parameters":["my bladder... I will pee myself..."]},{"code":230,"indent":1,"parameters":[30]},{"code":122,"indent":1,"parameters":[1,1,0,0,4]},{"code":101,"indent":1,"parameters":["young_man",5,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>What are you waiting for!"]},{"code":401,"indent":1,"parameters":["Undress yourself! NOW!!!"]},{"code":122,"indent":1,"parameters":[1,1,0,0,13]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>Yes Mr.Masterson!"]},{"code":101,"indent":1,"parameters":["",0,1,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>My bladder... It is going to burst, I can not"]},{"code":401,"indent":1,"parameters":["hold it anymore!!!"]},{"code":230,"indent":1,"parameters":[30]},{"code":250,"indent":1,"parameters":[{"name":"Equip2","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":1,"parameters":[30]},{"code":121,"indent":1,"parameters":[1,1,0]},{"code":121,"indent":1,"parameters":[2,2,0]},{"code":213,"indent":1,"parameters":[58,10,false]},{"code":101,"indent":1,"parameters":["",1,0,2]},{"code":401,"indent":1,"parameters":["\\n<Dealer>Hmmm..."]},{"code":213,"indent":1,"parameters":[55,6,false]},{"code":101,"indent":1,"parameters":["",1,0,2]},{"code":401,"indent":1,"parameters":["\\n<Man>Oh! Sweet belly!"]},{"code":213,"indent":1,"parameters":[56,4,false]},{"code":101,"indent":1,"parameters":["",1,0,2]},{"code":401,"indent":1,"parameters":["\\n<Woman>That outie! How cute!"]},{"code":101,"indent":1,"parameters":["young_man",6,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>Very pretty belly!"]},{"code":401,"indent":1,"parameters":["What is here? Is it a head inside?"]},{"code":250,"indent":1,"parameters":[{"name":"kill8","volume":90,"pitch":100,"pan":0}]},{"code":122,"indent":1,"parameters":[1,1,0,0,11]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>No..."]},{"code":101,"indent":1,"parameters":["young_man",2,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>It is not head? Intresting..."]},{"code":401,"indent":1,"parameters":["What is it?"]},{"code":250,"indent":1,"parameters":[{"name":"kill8","volume":90,"pitch":100,"pan":0}]},{"code":122,"indent":1,"parameters":[1,1,0,0,7]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>It is my bladder... Please, do not push it!"]},{"code":101,"indent":1,"parameters":["young_man",7,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>Oh... It is very hard... I thing"]},{"code":401,"indent":1,"parameters":["it is not healthy to holding pee so long."]},{"code":101,"indent":1,"parameters":["young_man",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>I check it one more time!"]},{"code":250,"indent":1,"parameters":[{"name":"kill8","volume":90,"pitch":100,"pan":0}]},{"code":122,"indent":1,"parameters":[1,1,0,0,10]},{"code":101,"indent":1,"parameters":["",0,1,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>Oh my god! He is pushing it again!!!"]},{"code":401,"indent":1,"parameters":["I can not hold it anymore!!!! AAAAAAAA!!!!!"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>Nooooo!!!..."]},{"code":230,"indent":1,"parameters":[30]},{"code":250,"indent":1,"parameters":[{"name":"_boton","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":1,"parameters":[30]},{"code":122,"indent":1,"parameters":[1,1,0,0,14]},{"code":101,"indent":1,"parameters":["young_man",5,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>What the fuck!"]},{"code":250,"indent":1,"parameters":[{"name":"water1_1","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>Aaaahhh...."]},{"code":213,"indent":1,"parameters":[58,2,false]},{"code":101,"indent":1,"parameters":["",1,0,2]},{"code":401,"indent":1,"parameters":["\\n<Dealer>Uh, shit... here we go again..."]},{"code":213,"indent":1,"parameters":[55,2,false]},{"code":101,"indent":1,"parameters":["",1,0,2]},{"code":401,"indent":1,"parameters":["\\n<Man>Oh! Is that water broke???"]},{"code":213,"indent":1,"parameters":[56,1,false]},{"code":101,"indent":1,"parameters":["",1,0,2]},{"code":401,"indent":1,"parameters":["\\n<Woman>Help her! Her water is broke! "]},{"code":401,"indent":1,"parameters":["Baby is coming out!"]},{"code":101,"indent":1,"parameters":["young_man",3,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>You are fired!!! In this house,"]},{"code":401,"indent":1,"parameters":["only pregnant can serve!!!"]},{"code":401,"indent":1,"parameters":["Get out of my house!!!"]},{"code":101,"indent":1,"parameters":["young_man",5,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>Our deal on your baby is off!!"]},{"code":122,"indent":1,"parameters":[1,1,0,0,8]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>I'm sorry... I'm verry sorry!!!"]},{"code":401,"indent":1,"parameters":["It is not my water..."]},{"code":101,"indent":1,"parameters":["young_man",5,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>What is it!???"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\n[1]>I'm sorry... Mr.Masterson, it is pee."]},{"code":401,"indent":1,"parameters":["My baby pushes bladder too hard..."]},{"code":101,"indent":1,"parameters":["young_man",5,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>Get out dirty slut!!!"]},{"code":101,"indent":1,"parameters":["young_man",5,0,2]},{"code":401,"indent":1,"parameters":["\\n<\\v[104]>Now!"]},{"code":122,"indent":1,"parameters":[452,452,0,0,20]},{"code":122,"indent":1,"parameters":[450,450,0,0,11]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":450,"variableValid":true,"variableValue":11},"directionFix":false,"image":{"tileId":0,"characterName":"Young_man","direction":8,"pattern":2,"characterIndex":0},"list":[{"code":122,"indent":0,"parameters":[104,104,0,4,"'Masterson'"]},{"code":101,"indent":0,"parameters":["young_man",5,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>Get out of here!!!"]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":450,"variableValid":true,"variableValue":15},"directionFix":false,"image":{"tileId":0,"characterName":"Young_man","direction":8,"pattern":2,"characterIndex":0},"list":[{"code":122,"indent":0,"parameters":[104,104,0,4,"'Masterson'"]},{"code":101,"indent":0,"parameters":["young_man",1,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>You may go rest. Thank you!"]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":18,"y":6}
+{
+    "id": 57,
+    "name": "EV057-1",
+    "note": "",
+    "pages": [
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image": {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list": [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 450,
+                "variableValid": true,
+                "variableValue": 4
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "Young_man",
+                "direction": 8,
+                "pattern": 2,
+                "characterIndex": 0
+            },
+            "list": [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 450,
+                "variableValid": true,
+                "variableValue": 5
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "Young_man",
+                "direction": 8,
+                "pattern": 2,
+                "characterIndex": 0
+            },
+            "list": [
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        104,
+                        104,
+                        0,
+                        4,
+                        "'Masterson'"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>Miss?"
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 0,
+                    "parameters": [
+                        57,
+                        2,
+                        true
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\n[1]>\\n[1] Sir."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>Come here \\n[1]."
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        450,
+                        450,
+                        0,
+                        0,
+                        6
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 450,
+                "variableValid": true,
+                "variableValue": 6
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "Young_man",
+                "direction": 8,
+                "pattern": 2,
+                "characterIndex": 0
+            },
+            "list": [
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        104,
+                        104,
+                        0,
+                        4,
+                        "'Masterson'"
+                    ]
+                },
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        4,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>Can you show us your belly miss"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n[1]"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\n[1]>Ehm..."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        4,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>I want to see your pregnant "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "belly!"
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        10
+                    ]
+                },
+                {
+                    "code": 250,
+                    "indent": 0,
+                    "parameters": [
+                        {
+                            "name": "Equip2",
+                            "volume": 90,
+                            "pitch": 100,
+                            "pan": 0
+                        }
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        30
+                    ]
+                },
+                {
+                    "code": 355,
+                    "indent": 0,
+                    "parameters": [
+                        "delete $gameSystem.caffe"
+                    ]
+                },
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        2,
+                        2,
+                        0
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        4,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>Very good belly. I like it."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "Do you agree?"
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 0,
+                    "parameters": [
+                        58,
+                        6,
+                        false
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Dealer>Yes."
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 0,
+                    "parameters": [
+                        55,
+                        10,
+                        false
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Man>Maybe"
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 0,
+                    "parameters": [
+                        56,
+                        4,
+                        false
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Woman>Agree."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        4,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>You can dress up miss \\n[1]"
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        10
+                    ]
+                },
+                {
+                    "code": 250,
+                    "indent": 0,
+                    "parameters": [
+                        {
+                            "name": "Equip2",
+                            "volume": 90,
+                            "pitch": 100,
+                            "pan": 0
+                        }
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        30
+                    ]
+                },
+                {
+                    "code": 355,
+                    "indent": 0,
+                    "parameters": [
+                        "//setChip"
+                    ]
+                },
+                {
+                    "code": 655,
+                    "indent": 0,
+                    "parameters": [
+                        "let ID = 1, num, name = 'hadumi_maid'"
+                    ]
+                },
+                {
+                    "code": 655,
+                    "indent": 0,
+                    "parameters": [
+                        "s[17] ? num = 1 : num = 2"
+                    ]
+                },
+                {
+                    "code": 655,
+                    "indent": 0,
+                    "parameters": [
+                        "$gameActors.actor(ID).setCharacterImage(name,num)"
+                    ]
+                },
+                {
+                    "code": 655,
+                    "indent": 0,
+                    "parameters": [
+                        "$gamePlayer.refresh()"
+                    ]
+                },
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        2,
+                        2,
+                        1
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>This maid, is near to birth,"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "but I already have one baby in this Manson."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "You can take the baby now. But it will be"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "cost much more!!!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        4,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>Or you can wait for miss \\n[1]'s"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "baby. "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "Smaar hire her today, so I don't have a "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "buyer for this baby yet."
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 0,
+                    "parameters": [
+                        56,
+                        4,
+                        false
+                    ]
+                },
+                {
+                    "code": 111,
+                    "indent": 0,
+                    "parameters": [
+                        12,
+                        "hasMultiBaby()"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<Woman>I want that babes in her belly! Always want to"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "have more than one baby!!!"
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 1,
+                    "parameters": []
+                },
+                {
+                    "code": 411,
+                    "indent": 0,
+                    "parameters": []
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<Woman>I want that baby in her belly!"
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 1,
+                    "parameters": []
+                },
+                {
+                    "code": 412,
+                    "indent": 0,
+                    "parameters": []
+                },
+                {
+                    "code": 213,
+                    "indent": 0,
+                    "parameters": [
+                        55,
+                        9,
+                        false
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Man>Ok, we take this baby!"
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 0,
+                    "parameters": [
+                        58,
+                        3,
+                        false
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Dealer>So we have a deal! Lets drink!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        7,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>Yes. Miss \\n[1] bring here some"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "more wine, from the kitchen."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "White and red please!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\n[1]>I'm on my way Mr.Masterson"
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        450,
+                        450,
+                        0,
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 450,
+                "variableValid": true,
+                "variableValue": 7
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "Young_man",
+                "direction": 8,
+                "pattern": 2,
+                "characterIndex": 0
+            },
+            "list": [
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        104,
+                        104,
+                        0,
+                        4,
+                        "'Masterson'"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>The Wine miss \\n[1]!!! Hurry..."
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 450,
+                "variableValid": true,
+                "variableValue": 10
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "Young_man",
+                "direction": 8,
+                "pattern": 2,
+                "characterIndex": 0
+            },
+            "list": [
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        104,
+                        104,
+                        0,
+                        4,
+                        "'Masterson'"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        2,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>So show us your belly!"
+                    ]
+                },
+                {
+                    "code": 111,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        452,
+                        0,
+                        5,
+                        0
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "young_man",
+                        4,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>Isn't she cute? Do you agree to"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "share your baby to this people miss \\n[1]?"
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 1,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\n[1]>Ehm... I... Mr. Masterson..."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "young_man",
+                        4,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>I will pay you very, very well!"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "Don't be affraid of that! My guests are"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "very, very rich."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\n[1]>As a college student, I can not give to my "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "baby enought time and money to rise him..."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "So I Agree. Hope this people give a good family to "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "this child..."
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 1,
+                    "parameters": [
+                        58,
+                        8,
+                        false
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 1,
+                    "parameters": [
+                        55,
+                        9,
+                        false
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 1,
+                    "parameters": [
+                        56,
+                        4,
+                        false
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<Woman>Of course we do my dear!!!"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "I'm infertile whole my life, and I want baby more then"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "my life! Do not worry! This child will have whatever "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "he wants!!!"
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 1,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\n[1]>I agree. Take the child after it is born."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "young_man",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>So, Let's drink to this deal!"
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 1,
+                    "parameters": [
+                        58,
+                        3,
+                        false
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 1,
+                    "parameters": [
+                        55,
+                        3,
+                        false
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 1,
+                    "parameters": [
+                        56,
+                        3,
+                        false
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 1,
+                    "parameters": [
+                        57,
+                        3,
+                        false
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "young_man",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>Miss \\n[1], you have served us "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "well! You can go rest. Please, use the room "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "next to this Saloon. You deserve better"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "room then another maids. Thank you."
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 1,
+                    "parameters": [
+                        450,
+                        450,
+                        0,
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 1,
+                    "parameters": []
+                },
+                {
+                    "code": 411,
+                    "indent": 0,
+                    "parameters": []
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\n[1]>Ehm... I... Mr. Masterson..."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "young_man",
+                        4,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>Yes miss \\n[1]?"
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 1,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 1,
+                    "parameters": [
+                        30
+                    ]
+                },
+                {
+                    "code": 355,
+                    "indent": 1,
+                    "parameters": [
+                        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 1,
+                    "parameters": [
+                        60
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\n[1]>Uhhh... My bladder... Baby stop kicking in to"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "my bladder... I will pee myself..."
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 1,
+                    "parameters": [
+                        30
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 1,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        4
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "young_man",
+                        5,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>What are you waiting for!"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "Undress yourself! NOW!!!"
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 1,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        13
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\n[1]>Yes Mr.Masterson!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\n[1]>My bladder... It is going to burst, I can not"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "hold it anymore!!!"
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 1,
+                    "parameters": [
+                        30
+                    ]
+                },
+                {
+                    "code": 250,
+                    "indent": 1,
+                    "parameters": [
+                        {
+                            "name": "Equip2",
+                            "volume": 90,
+                            "pitch": 100,
+                            "pan": 0
+                        }
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 1,
+                    "parameters": [
+                        30
+                    ]
+                },
+                {
+                    "code": 121,
+                    "indent": 1,
+                    "parameters": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "code": 121,
+                    "indent": 1,
+                    "parameters": [
+                        2,
+                        2,
+                        0
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 1,
+                    "parameters": [
+                        58,
+                        10,
+                        false
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<Dealer>Hmmm..."
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 1,
+                    "parameters": [
+                        55,
+                        6,
+                        false
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<Man>Oh! Sweet belly!"
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 1,
+                    "parameters": [
+                        56,
+                        4,
+                        false
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<Woman>That outie! How cute!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "young_man",
+                        6,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>Very pretty belly!"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "What is here? Is it a head inside?"
+                    ]
+                },
+                {
+                    "code": 250,
+                    "indent": 1,
+                    "parameters": [
+                        {
+                            "name": "kill8",
+                            "volume": 90,
+                            "pitch": 100,
+                            "pan": 0
+                        }
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 1,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\n[1]>No..."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "young_man",
+                        2,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>It is not head? Intresting..."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "What is it?"
+                    ]
+                },
+                {
+                    "code": 250,
+                    "indent": 1,
+                    "parameters": [
+                        {
+                            "name": "kill8",
+                            "volume": 90,
+                            "pitch": 100,
+                            "pan": 0
+                        }
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 1,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\n[1]>It is my bladder... Please, do not push it!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "young_man",
+                        7,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>Oh... It is very hard... I thing"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "it is not healthy to holding pee so long."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "young_man",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>I check it one more time!"
+                    ]
+                },
+                {
+                    "code": 250,
+                    "indent": 1,
+                    "parameters": [
+                        {
+                            "name": "kill8",
+                            "volume": 90,
+                            "pitch": 100,
+                            "pan": 0
+                        }
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 1,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\n[1]>Oh my god! He is pushing it again!!!"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "I can not hold it anymore!!!! AAAAAAAA!!!!!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\n[1]>Nooooo!!!..."
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 1,
+                    "parameters": [
+                        30
+                    ]
+                },
+                {
+                    "code": 250,
+                    "indent": 1,
+                    "parameters": [
+                        {
+                            "name": "_boton",
+                            "volume": 90,
+                            "pitch": 100,
+                            "pan": 0
+                        }
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 1,
+                    "parameters": [
+                        30
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 1,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        14
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "young_man",
+                        5,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>What the fuck!"
+                    ]
+                },
+                {
+                    "code": 250,
+                    "indent": 1,
+                    "parameters": [
+                        {
+                            "name": "water1_1",
+                            "volume": 90,
+                            "pitch": 100,
+                            "pan": 0
+                        }
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\n[1]>Aaaahhh...."
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 1,
+                    "parameters": [
+                        58,
+                        2,
+                        false
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<Dealer>Uh, shit... here we go again..."
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 1,
+                    "parameters": [
+                        55,
+                        2,
+                        false
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<Man>Oh! Is that water broke???"
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 1,
+                    "parameters": [
+                        56,
+                        1,
+                        false
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<Woman>Help her! Her water is broke! "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "Baby is coming out!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "young_man",
+                        3,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>You are fired!!! In this house,"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "only pregnant can serve!!!"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "Get out of my house!!!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "young_man",
+                        5,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>Our deal on your baby is off!!"
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 1,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\n[1]>I'm sorry... I'm verry sorry!!!"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "It is not my water..."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "young_man",
+                        5,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>What is it!???"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\n[1]>I'm sorry... Mr.Masterson, it is pee."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "My baby pushes bladder too hard..."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "young_man",
+                        5,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>Get out dirty slut!!!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "young_man",
+                        5,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<\\v[104]>Now!"
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 1,
+                    "parameters": [
+                        452,
+                        452,
+                        0,
+                        0,
+                        20
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 1,
+                    "parameters": [
+                        450,
+                        450,
+                        0,
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 1,
+                    "parameters": []
+                },
+                {
+                    "code": 412,
+                    "indent": 0,
+                    "parameters": []
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 450,
+                "variableValid": true,
+                "variableValue": 11
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "Young_man",
+                "direction": 8,
+                "pattern": 2,
+                "characterIndex": 0
+            },
+            "list": [
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        104,
+                        104,
+                        0,
+                        4,
+                        "'Masterson'"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        5,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>Get out of here!!!"
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 450,
+                "variableValid": true,
+                "variableValue": 15
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "Young_man",
+                "direction": 8,
+                "pattern": 2,
+                "characterIndex": 0
+            },
+            "list": [
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        104,
+                        104,
+                        0,
+                        4,
+                        "'Masterson'"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>You may go rest. Thank you!"
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 18,
+    "y": 6
+}
