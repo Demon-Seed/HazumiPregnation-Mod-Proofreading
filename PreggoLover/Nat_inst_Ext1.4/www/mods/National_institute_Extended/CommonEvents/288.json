@@ -274,7 +274,7 @@
       "code": 401,
       "indent": 0,
       "parameters": [
-        "\\n<\\n[1]>It is too late! I can not hold it anymore!!!"
+        "\\n<\\n[1]>It is too late! I cannot hold it anymore!!!"
       ]
     },
     {
@@ -1247,7 +1247,7 @@
       "code": 401,
       "indent": 1,
       "parameters": [
-        "I can not! It is coming out right NOW!"
+        "I cannot! It is coming out right NOW!"
       ]
     },
     {

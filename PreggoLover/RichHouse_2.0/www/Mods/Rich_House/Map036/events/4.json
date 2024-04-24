@@ -1,1 +1,1031 @@
-{"id":4,"name":"EV004","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"office_worker_1","direction":8,"pattern":1,"characterIndex":1},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Pianist>I need to play. Sorry. Do not disturb me."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":439,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":0,"characterName":"office_worker_1","direction":8,"pattern":1,"characterIndex":1},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Pianist>I need to prepare this piano to evening!"]},{"code":401,"indent":0,"parameters":["I need large amount of water. Bring it here!"]},{"code":122,"indent":0,"parameters":[445,445,0,0,1]},{"code":122,"indent":0,"parameters":[1,1,0,0,4]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>Sorry, I'm new here. Where can I get water "]},{"code":401,"indent":0,"parameters":["for you?"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Pianist>Take a huge bottle from kitchen, and fill it"]},{"code":401,"indent":0,"parameters":["in toilets."]},{"code":401,"indent":0,"parameters":["Hurry! We have not have much time!"]},{"code":122,"indent":0,"parameters":[1,1,0,0,3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>I'm going!!!"]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":3,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":19,"indent":null},{"code":15,"parameters":[90],"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":19,"indent":null},{"code":15,"parameters":[90],"indent":null},{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":5,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":445,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":0,"characterName":"office_worker_1","direction":8,"pattern":1,"characterIndex":1},"list":[{"code":122,"indent":0,"parameters":[1,1,0,0,4]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Pianist>Did you find a water? Hurry! I need wash"]},{"code":401,"indent":0,"parameters":["the piano!!!"]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":445,"variableValid":true,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"office_worker_1","direction":8,"pattern":1,"characterIndex":1},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Pianist>Oh no no no..."]},{"code":122,"indent":0,"parameters":[445,445,0,0,4]},{"code":122,"indent":0,"parameters":[1,1,0,0,4]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>What is wrong? I'm bring the bottle, like you "]},{"code":401,"indent":0,"parameters":["ask."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Pianist>No. I need more water. I need to wash up "]},{"code":401,"indent":0,"parameters":["whole piano! Leave this bottle here, it will be for me"]},{"code":401,"indent":0,"parameters":["But I need bigger bottle! Maybe a bucket will be OK..."]},{"code":122,"indent":0,"parameters":[1,1,0,0,3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>Ok, I try to find something."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":5,"moveRoute":{"list":[{"code":3,"indent":null},{"code":3,"indent":null},{"code":3,"indent":null},{"code":19,"indent":null},{"code":15,"parameters":[90],"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":19,"indent":null},{"code":15,"parameters":[90],"indent":null},{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":5,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":445,"variableValid":true,"variableValue":7},"directionFix":false,"image":{"tileId":0,"characterName":"office_worker_1","direction":8,"pattern":1,"characterIndex":1},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Pianist>Heeeey! You bring me the bucket of water!!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Pianist>Great! Now I can wash my piano, "]},{"code":401,"indent":0,"parameters":["and rub the strings!"]},{"code":401,"indent":0,"parameters":["Great!"]},{"code":122,"indent":0,"parameters":[445,445,0,0,8]},{"code":122,"indent":0,"parameters":[1,1,0,0,3]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>Glad that I can help!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Pianist>You are nwe here yes? Here is my advice."]},{"code":401,"indent":0,"parameters":["Do not do anything, that is not ordered you. "]},{"code":401,"indent":0,"parameters":["You are on the end of 3rd trimester. You can give birth"]},{"code":401,"indent":0,"parameters":["at any moment."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>Yes..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Pianist>So, talk to Smaar, and agree with him about"]},{"code":401,"indent":0,"parameters":["your duties. Do not do anything more."]},{"code":401,"indent":0,"parameters":["If you give birth - you will be fired! "]},{"code":122,"indent":0,"parameters":[1,1,0,0,15]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>Wow... That is..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Pianist>Master is strange."]},{"code":401,"indent":0,"parameters":["But, if you start job - do it! Master is paying "]},{"code":401,"indent":0,"parameters":["wery well. If yoy start to get contraction. Talk to "]},{"code":401,"indent":0,"parameters":["Smaar. He can help you. Now go. I need to work."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>Thank you..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Pianist>Here, take it. Small gift from me."]},{"code":317,"indent":0,"parameters":[0,1,2,0,0,50]},{"code":126,"indent":0,"parameters":[267,0,0,1]},{"code":125,"indent":0,"parameters":[0,0,500]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":445,"variableValid":true,"variableValue":8},"directionFix":false,"image":{"tileId":0,"characterName":"office_worker_1","direction":8,"pattern":1,"characterIndex":1},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Pianist>You are done here. Thanks."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":26,"y":31}
+{
+    "id": 4,
+    "name": "EV004",
+    "note": "",
+    "pages": [
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "office_worker_1",
+                "direction": 8,
+                "pattern": 1,
+                "characterIndex": 1
+            },
+            "list": [
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Pianist>I need to play. Sorry. Do not disturb me."
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 439,
+                "variableValid": true,
+                "variableValue": 1
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "office_worker_1",
+                "direction": 8,
+                "pattern": 1,
+                "characterIndex": 1
+            },
+            "list": [
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Pianist>I need to prepare this piano to evening!"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "I need large amount of water. Bring it here!"
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        445,
+                        445,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        4
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\n[1]>Sorry, I'm new here. Where can I get water "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "for you?"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Pianist>Take a huge bottle from kitchen, and fill it"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "in toilets."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "Hurry! We do not have have much time!"
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        3
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\n[1]>I'm going!!!"
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 5,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 3,
+                        "indent": null
+                    },
+                    {
+                        "code": 3,
+                        "indent": null
+                    },
+                    {
+                        "code": 3,
+                        "indent": null
+                    },
+                    {
+                        "code": 19,
+                        "indent": null
+                    },
+                    {
+                        "code": 15,
+                        "parameters": [
+                            90
+                        ],
+                        "indent": null
+                    },
+                    {
+                        "code": 2,
+                        "indent": null
+                    },
+                    {
+                        "code": 2,
+                        "indent": null
+                    },
+                    {
+                        "code": 2,
+                        "indent": null
+                    },
+                    {
+                        "code": 19,
+                        "indent": null
+                    },
+                    {
+                        "code": 15,
+                        "parameters": [
+                            90
+                        ],
+                        "indent": null
+                    },
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 5,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 445,
+                "variableValid": true,
+                "variableValue": 1
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "office_worker_1",
+                "direction": 8,
+                "pattern": 1,
+                "characterIndex": 1
+            },
+            "list": [
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        4
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Pianist>Did you find a water? Hurry! I need wash"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "the piano!!!"
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 445,
+                "variableValid": true,
+                "variableValue": 3
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "office_worker_1",
+                "direction": 8,
+                "pattern": 1,
+                "characterIndex": 1
+            },
+            "list": [
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Pianist>Oh no no no..."
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        445,
+                        445,
+                        0,
+                        0,
+                        4
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        4
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\n[1]>What is wrong? I'm bring the bottle, like you "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "ask."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Pianist>No. I need more water. I need to wash up "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "whole piano! Leave this bottle here, it will be for me"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "But I need bigger bottle! Maybe a bucket will be OK..."
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        3
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\n[1]>Ok, I try to find something."
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 5,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 3,
+                        "indent": null
+                    },
+                    {
+                        "code": 3,
+                        "indent": null
+                    },
+                    {
+                        "code": 3,
+                        "indent": null
+                    },
+                    {
+                        "code": 19,
+                        "indent": null
+                    },
+                    {
+                        "code": 15,
+                        "parameters": [
+                            90
+                        ],
+                        "indent": null
+                    },
+                    {
+                        "code": 2,
+                        "indent": null
+                    },
+                    {
+                        "code": 2,
+                        "indent": null
+                    },
+                    {
+                        "code": 2,
+                        "indent": null
+                    },
+                    {
+                        "code": 19,
+                        "indent": null
+                    },
+                    {
+                        "code": 15,
+                        "parameters": [
+                            90
+                        ],
+                        "indent": null
+                    },
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 5,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 445,
+                "variableValid": true,
+                "variableValue": 7
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "office_worker_1",
+                "direction": 8,
+                "pattern": 1,
+                "characterIndex": 1
+            },
+            "list": [
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Pianist>Heeeey! You bring me the bucket of water!!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Pianist>Great! Now I can wash my piano, "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "and rub the strings!"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "Great!"
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        445,
+                        445,
+                        0,
+                        0,
+                        8
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        3
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\n[1]>Glad that I can help!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Pianist>You are nwe here yes? Here is my advice."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "Do not do anything, that is not ordered you. "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "You are on the end of 3rd trimester. You can give birth"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "at any moment."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\n[1]>Yes..."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Pianist>So, talk to Smaar, and agree with him about"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "your duties. Do not do anything more."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "If you give birth - you will be fired! "
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0,
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\n[1]>Wow... That is..."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Pianist>Master is strange."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "But, if you start job - do it! Master is paying "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "wery well. If yoy start to get contraction. Talk to "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "Smaar. He can help you. Now go. I need to work."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\n[1]>Thank you..."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Pianist>Here, take it. Small gift from me."
+                    ]
+                },
+                {
+                    "code": 317,
+                    "indent": 0,
+                    "parameters": [
+                        0,
+                        1,
+                        2,
+                        0,
+                        0,
+                        50
+                    ]
+                },
+                {
+                    "code": 126,
+                    "indent": 0,
+                    "parameters": [
+                        267,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "code": 125,
+                    "indent": 0,
+                    "parameters": [
+                        0,
+                        0,
+                        500
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 445,
+                "variableValid": true,
+                "variableValue": 8
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "office_worker_1",
+                "direction": 8,
+                "pattern": 1,
+                "characterIndex": 1
+            },
+            "list": [
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Pianist>You are done here. Thanks."
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 26,
+    "y": 31
+}

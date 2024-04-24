@@ -3350,7 +3350,7 @@
       "code": 401,
       "indent": 3,
       "parameters": [
-        "\\n<\\n[1]>I need to hold it! I can not birth right here!"
+        "\\n<\\n[1]>I need to hold it! I cannot birth right here!"
       ]
     },
     {
@@ -5230,7 +5230,7 @@
       "code": 401,
       "indent": 3,
       "parameters": [
-        "\\n<Deny>Oh crap! You can not hold it? I'm not done yet!!"
+        "\\n<Deny>Oh crap! You cannot hold it? I'm not done yet!!"
       ]
     },
     {

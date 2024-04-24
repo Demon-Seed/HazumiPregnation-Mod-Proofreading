@@ -1144,7 +1144,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "You can not hold the belly! No moaning!"
+                        "You cannot hold the belly! No moaning!"
                     ]
                 },
                 {
@@ -1850,7 +1850,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "you can not be here!!!"
+                        "you cannot be here!!!"
                     ]
                 },
                 {
@@ -2763,7 +2763,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "I can not serve the Big Hall..."
+                        "I cannot serve the Big Hall..."
                     ]
                 },
                 {
@@ -2835,7 +2835,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>Yes. But I'm affraid that I can not hold the "
+                        "\\n<\\n[1]>Yes. But I'm affraid that I cannot hold the "
                     ]
                 },
                 {
@@ -2897,7 +2897,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>I can not stop the contractions..."
+                        "\\n<\\n[1]>I cannot stop the contractions..."
                     ]
                 },
                 {
@@ -3571,7 +3571,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\v[104]>You are still fine. I can not help you now."
+                        "\\n<\\v[104]>You are still fine. I cannot help you now."
                     ]
                 },
                 {
