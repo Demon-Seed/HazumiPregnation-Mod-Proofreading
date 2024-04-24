@@ -1,0 +1,1582 @@
+{
+  "id": 22,
+  "name": "EV022",
+  "note": "",
+  "pages": [
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 56,
+        "variableValid": true,
+        "variableValue": 5
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Doctor",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 6
+      },
+      "list": [
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            104,
+            104,
+            0,
+            4,
+            "'Mad Doctor'"
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 213,
+          "indent": 0,
+          "parameters": [
+            -1,
+            1,
+            true
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            -1,
+            {
+              "list": [
+                {
+                  "code": 37,
+                  "indent": null
+                },
+                {
+                  "code": 4,
+                  "indent": null
+                },
+                {
+                  "code": 4,
+                  "indent": null
+                },
+                {
+                  "code": 4,
+                  "indent": null
+                },
+                {
+                  "code": 38,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 37,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 4,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 4,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 4,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 38,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>Muahahaha!!!\\.\\.\\. Finally the drug, I made is finished!."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>They think I'm mad, but they are wrong!! "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "I just want to help this country!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>And I'm sure that with this drug.\\.\\. "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "I'll be able to make the birth rate of this country"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "go up!!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>But first I need to find a test subj\\..\\..\\.."
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "I\\.\\.-I mean a volunteer,\\.\\. yes a volunteer."
+          ]
+        },
+        {
+          "code": 213,
+          "indent": 0,
+          "parameters": [
+            0,
+            1,
+            true
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>HEY! THE YOUNG LADY OVER THERE!!"
+          ]
+        },
+        {
+          "code": 213,
+          "indent": 0,
+          "parameters": [
+            -1,
+            2,
+            false
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]>Wha!?\\.\\.\\. Me!?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>YES YOU!"
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            0,
+            {
+              "list": [
+                {
+                  "code": 37,
+                  "indent": null
+                },
+                {
+                  "code": 1,
+                  "indent": null
+                },
+                {
+                  "code": 3,
+                  "indent": null
+                },
+                {
+                  "code": 3,
+                  "indent": null
+                },
+                {
+                  "code": 3,
+                  "indent": null
+                },
+                {
+                  "code": 3,
+                  "indent": null
+                },
+                {
+                  "code": 1,
+                  "indent": null
+                },
+                {
+                  "code": 38,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": true,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 37,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 1,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 3,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 3,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 3,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 3,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 1,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 38,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>You have arrived at the perfect time!."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>Would you like to become a test subj\\..\\..\\.."
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "I\\.\\.-I mean a volunteer for my experiment?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]>E-Eh?!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>Ah!, forgive my rudeness. Let me introduce myself. "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "But first, may I know your name?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]>It's \\n[1]."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>Ok, Miss \\n[1], I'm a doctor that had been doing"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "a lot of researches for increasing the birth rate "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "of this country."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>And after a lot of experiments\\..\\..\\..\\.. I did it!!. "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\.\\.Now I'm finally able to help this country!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>By using the DNA of various animals, I created the drug "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "that can increace the number of ovum that a woman can "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "produce."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>Now women on this country can have multiples "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "more easily!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>And so the birth rate of this country "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "will increase!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>That's why I'm asking to you. Would you like to become"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "a volunteer to test the drug I created?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]>Why me?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>You have a perfect body to begin with! \\.\\.\\."
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "And for that, I think you will be a perfect volunteer"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "for this experiment!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>So, What do you think?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]>M\\.mm\\.mm.\\.\\. Is It even safe?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>O\\.\\.-\\.\\.Of course It is!"
+          ]
+        },
+        {
+          "code": 213,
+          "indent": 0,
+          "parameters": [
+            -1,
+            8,
+            true
+          ]
+        },
+        {
+          "code": 213,
+          "indent": 0,
+          "parameters": [
+            -1,
+            6,
+            false
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]>*sigh* \\.\\.\\. Okay then..."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>MARVELOUS!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>Here, take this."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>Because you are willing to help me. "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "I will give this one for free."
+          ]
+        },
+        {
+          "code": 126,
+          "indent": 0,
+          "parameters": [
+            232,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\v[104] give an Ultra Ovulation Inducer to \\n[1]."
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            30
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>Just talk to me if you have any questions or want to "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "buy it again."
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            0,
+            {
+              "list": [
+                {
+                  "code": 37,
+                  "indent": null
+                },
+                {
+                  "code": 4,
+                  "indent": null
+                },
+                {
+                  "code": 4,
+                  "indent": null
+                },
+                {
+                  "code": 2,
+                  "indent": null
+                },
+                {
+                  "code": 2,
+                  "indent": null
+                },
+                {
+                  "code": 2,
+                  "indent": null
+                },
+                {
+                  "code": 2,
+                  "indent": null
+                },
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 38,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 37,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 4,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 4,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 2,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 2,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 2,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 2,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 38,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 123,
+          "indent": 0,
+          "parameters": [
+            "A",
+            0
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 3,
+      "walkAnime": true
+    },
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": true,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Doctor",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 6
+      },
+      "list": [
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            104,
+            104,
+            0,
+            4,
+            "'Mad Doctor'"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>Hey \\n[1] what do you want?"
+          ]
+        },
+        {
+          "code": 112,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>What should I ask her?"
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 1,
+          "parameters": [
+            [
+              "Who are you?",
+              "Why you are Here?",
+              "More about the drug.",
+              "Buy More drug.",
+              "Nevermind."
+            ],
+            4,
+            3,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            0,
+            "Who are you?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>Well, I was a doctor in the OB/GYN."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>But the Stupid Medical Society discredited my research."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>They said it was \"unethical\", BLASPHEMY!!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>ALL MY WORK WAS TO HELP THIS COUNTRY!!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>Sorry \\.\\.sorry\\.\\. I lost my composure."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            1,
+            "Why you are Here?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>well, after that humiliation."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>I'm looking for someone to sponsor my research,"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>That was when I met the Slum Lord."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>He gave me the equipment and the money to "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "make this drug."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            2,
+            "More about the drug."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>Well, I made this drug as I said before. "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "Using DNA of animals who are capable of producing big "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "litters."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>Cats, Dogs, Mouses, Rabbits for example."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>Then I isolated the hormone that makes possible"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "the release of multiple ovums, and I condensed it to"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "make the drug."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            3,
+            "Buy More drug."
+          ]
+        },
+        {
+          "code": 356,
+          "indent": 2,
+          "parameters": [
+            "OpenShops Normal i 232"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            4,
+            "Nevermind."
+          ]
+        },
+        {
+          "code": 113,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 413,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    }
+  ],
+  "x": 10,
+  "y": 15
+}

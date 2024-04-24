@@ -1,0 +1,285 @@
+{
+  "id": 223,
+  "list": [
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "delete $gameSystem.baby"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        59,
+        59,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        374,
+        374,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        358,
+        358,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        359,
+        359,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        360,
+        360,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        22,
+        22,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        36,
+        36,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        38,
+        38,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        43,
+        43,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        46,
+        46,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        47,
+        47,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        52,
+        52,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        54,
+        54,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        59,
+        59,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        60,
+        60,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        376,
+        376,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        382,
+        382,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        446,
+        446,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        449,
+        449,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        11,
+        11,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        13,
+        13,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        71,
+        71,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        443,
+        443,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        444,
+        444,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        77,
+        77,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        499,
+        499,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        517,
+        517,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "init Birth • Shared with Abortion",
+  "switchId": 1,
+  "trigger": 0
+}
