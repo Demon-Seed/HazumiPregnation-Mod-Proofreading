@@ -1,0 +1,2630 @@
+{
+  "id": 4,
+  "name": "\\n[2]\\n[3]",
+  "note": "",
+  "pages": [
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Student_girl_1",
+        "direction": 8,
+        "pattern": 0,
+        "characterIndex": 6
+      },
+      "list": [
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    },
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 63,
+        "switch1Valid": true,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Student_girl_1",
+        "direction": 8,
+        "pattern": 0,
+        "characterIndex": 6
+      },
+      "list": [
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            4,
+            1,
+            5,
+            21
+          ]
+        },
+        {
+          "code": 213,
+          "indent": 1,
+          "parameters": [
+            0,
+            2,
+            false
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n[1] uses the glasses to view the experience of the \none in front of her...!"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "v[102] = '\\\\n[2]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "if(v[343]){"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  v[102] += '\\n　　\\\\c[31]Pregnant \\\\c[2]\\\\v[343]\\\\c[0] weeks'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "} else if (v[342]){ "
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  v[102] += '\\n　　\\\\c[31]Fertilizing\\\\c[0]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "} else {"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  var cycleArr = ['Error','Luteal','Menstruating','Follicular','Ovulating','Postpartum']"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  var cycleNum = [0,351,451,651,801,1000,9999]"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  var index = cycleNum.findIndex(x => x >= v[344])"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  v[102] = '　　\\\\c[31]'+ cycleArr[index] +'\\\\c[0]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "}"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "v[102] +=  '\\nTotal Fertilizations \\\\c[2]\\\\v[348]\\\\c[0]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "v[102] += '\\nTotal Pregnancies \\\\c[2]\\\\v[349]\\\\c[0]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "if ($gameMessage._texts.length > 0){$gameMessage.add('\\f')}"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "$gameMessage.add(v[102])"
+          ]
+        },
+        {
+          "code": 115,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            343,
+            1,
+            46,
+            1
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[2]>Hey."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            6
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>Hey... \\n[2], your belly!??"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[2]>Ahaha, isn't this to be expected? I'm about \\v[343] \nweeks right now."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            7
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>Are you okay...?"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            5
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[2]>With having child number \\v[349]? I have plenty of \nexperience. What about you \\n[1]?"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            1,
+            55,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            0,
+            43,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>Yeah, I'm also pregnant..."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            5
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[2]>Seriously!? Wait, we're mom friends?!"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>(I don't think this is the same thing.) \nYeah, we're mom friends!"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[2]>Depending on our due dates, we might even give birth \ntogether, huh～."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            9
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>Ahaha, things have been interesting lately......"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 3,
+          "parameters": [
+            "一回目妊娠しているが、まだ発覚していない"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            12,
+            "$gameVariables.value(55)==1&&!$gameSwitches.value(43)"
+          ]
+        },
+        {
+          "code": 119,
+          "indent": 4,
+          "parameters": [
+            "妊娠経験なし"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 108,
+          "indent": 3,
+          "parameters": [
+            "妊娠経験あり、現在妊娠中でない"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            4
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>I'm not pregnant now, but I have been. It's been \ntough～."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            5
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[2]>Getting used to living here must be hard～. \nWell, this doesn't change things for me."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            12
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>Yeah～. I'm fine, but I haven't been able to eat much \nbecause of my morning sickness. That's been tough."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            13
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[2]>Our bodies must be different then～. I'll treat you to \nsomething then."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>Yay!"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 118,
+          "indent": 2,
+          "parameters": [
+            "妊娠経験なし"
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 2,
+          "parameters": [
+            "妊娠経験なし"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            12
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[1]>I-I'm not pregnant!"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            4
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[2]>Lol～. We're not getting any younger you now."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[1]>Hey～. You sound like an old man～."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[2]>In that case, I should just knock you up myself～."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[1]>Kya～! Help, a youkai is trying to get me pregnant～!"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            1,
+            346,
+            0,
+            800,
+            1
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 2,
+          "parameters": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 2,
+          "parameters": [
+            "AudioManager.playSe({\"name\":\"gucho\",\"volume\":250,\"pitch\":100,\"pan\":0})"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[2]>Oh no!"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            4
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            20,
+            20,
+            0,
+            0,
+            4
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[1]>What's the matter?"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            20,
+            20,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[2]>I got creampied before coming here, and now \ncum is starting to leak out."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            9
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[1]>Eeeh～. You did it before coming here..."
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            1,
+            11,
+            0,
+            40,
+            1
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            20,
+            20,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "AudioManager.playSe({\"name\":\"gucho\",\"volume\":250,\"pitch\":100,\"pan\":0})"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 3,
+          "parameters": [
+            "this.waitSe(1.2)"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>Though I say that, I'm having the same issue."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[2]>...We should go to the restroom."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<\\n[1]>Yeah, let's."
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 3,
+          "parameters": [
+            33
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 3,
+          "parameters": [
+            {
+              "name": "Move",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 223,
+          "indent": 3,
+          "parameters": [
+            [
+              -255,
+              -255,
+              -255,
+              0
+            ],
+            40,
+            true
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 3,
+          "parameters": [
+            100
+          ]
+        },
+        {
+          "code": 223,
+          "indent": 3,
+          "parameters": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            40,
+            true
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\n[2]>Hey."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    },
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 46,
+        "switch1Valid": true,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Student_girl_1",
+        "direction": 8,
+        "pattern": 0,
+        "characterIndex": 6
+      },
+      "list": [
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            4,
+            1,
+            5,
+            21
+          ]
+        },
+        {
+          "code": 213,
+          "indent": 1,
+          "parameters": [
+            0,
+            2,
+            false
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n[1] uses the glasses to view the experience of the \none in front of her...!"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "v[102] = '\\\\n[2]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "if(v[343]){"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  v[102] += '\\n　　\\\\c[31]Pregnant \\\\c[2]\\\\v[343]\\\\c[0] weeks'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "} else if (v[342]){ "
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  v[102] += '\\n　　\\\\c[31]Fertilizing\\\\c[0]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "} else {"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  var cycleArr = ['Error','Luteal','Menstruating','Follicular','Ovulating','Postpartum']"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  var cycleNum = [0,351,451,651,801,1000]"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  var index = cycleNum.findIndex(x => x >= v[344])"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  v[102] = '　　\\\\c[31]'+ cycleArr[index] +'\\\\c[0]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "}"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "v[102] +=  '\\nTotal Fertilizations \\\\c[2]\\\\v[348]\\\\c[0]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "v[102] += '\\nTotal Pregnancies \\\\c[2]\\\\v[349]\\\\c[0]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "if ($gameMessage._texts.length > 0){$gameMessage.add('\\f')}"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "$gameMessage.add(v[102])"
+          ]
+        },
+        {
+          "code": 115,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[2]>Hey, how's it going."
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            343,
+            1,
+            46,
+            1
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>\\n[2], you've gotten big too."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[2]>We've got matching baby bumps."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>This is all thanks to you."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            4
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[2]>We should treat ourselves after giving birth. A parfait \nshop just opened recently that's pretty good."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>Sure, I guess so. I'll have to do something for you in \nreturn though."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[2]>Definitely!"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    },
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 80,
+        "switch1Valid": true,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Student_girl_1",
+        "direction": 8,
+        "pattern": 0,
+        "characterIndex": 6
+      },
+      "list": [
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            4,
+            1,
+            5,
+            21
+          ]
+        },
+        {
+          "code": 213,
+          "indent": 1,
+          "parameters": [
+            0,
+            2,
+            false
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n[1] uses the glasses to view the experience of the \none in front of her...!"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "v[102] = '\\\\n[2]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "if(v[343]){"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  v[102] += '\\n　　\\\\c[31]Pregnant \\\\c[2]\\\\v[343]\\\\c[0] weeks'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "} else if (v[342]){ "
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  v[102] += '\\n　　\\\\c[31]Fertilizing\\\\c[0]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "} else {"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  var cycleArr = ['Error','Luteal','Menstruating','Follicular','Ovulating','Postpartum']"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  var cycleNum = [0,351,451,651,801,1000]"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  var index = cycleNum.findIndex(x => x >= v[344])"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  v[102] = '　　\\\\c[31]'+ cycleArr[index] +'\\\\c[0]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "}"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "v[102] +=  '\\nTotal Fertilizations \\\\c[2]\\\\v[348]\\\\c[0]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "v[102] += '\\nTotal Pregnancies \\\\c[2]\\\\v[349]\\\\c[0]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "if ($gameMessage._texts.length > 0){$gameMessage.add('\\f')}"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "$gameMessage.add(v[102])"
+          ]
+        },
+        {
+          "code": 115,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[2]>"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            343,
+            1,
+            46,
+            1
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>\\n[2], you've gotten big too."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[2]>We've got matching baby bumps."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>This is all thanks to you."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            4
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[2]>We should treat ourselves after giving birth. A parfait \nshop just opened recently that's pretty good."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>Sure, I guess so. I'll have to do something for you in \nreturn though."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[2]>Definitely!"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    },
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 43,
+        "variableValid": true,
+        "variableValue": 44
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Student_girl_1",
+        "direction": 8,
+        "pattern": 0,
+        "characterIndex": 6
+      },
+      "list": [
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            4,
+            1,
+            5,
+            21
+          ]
+        },
+        {
+          "code": 213,
+          "indent": 1,
+          "parameters": [
+            0,
+            2,
+            false
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n[1] uses the glasses to view the experience of the \none in front of her...!"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "v[102] = '\\\\n[2]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "if(v[343]){"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  v[102] += '\\n　　\\\\c[31]Pregnant \\\\c[2]\\\\v[343]\\\\c[0] weeks'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "} else if (v[342]){ "
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  v[102] += '\\n　　\\\\c[31]Fertilizing\\\\c[0]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "} else {"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  var cycleArr = ['Error','Luteal','Menstruating','Follicular','Ovulating','Postpartum']"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  var cycleNum = [0,351,451,651,801,1000]"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  var index = cycleNum.findIndex(x => x >= v[344])"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "  v[102] = '　　\\\\c[31]'+ cycleArr[index] +'\\\\c[0]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "}"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "v[102] +=  '\\nTotal Fertilizations \\\\c[2]\\\\v[348]\\\\c[0]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "v[102] += '\\nTotal Pregnancies \\\\c[2]\\\\v[349]\\\\c[0]'"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "if ($gameMessage._texts.length > 0){$gameMessage.add('\\f')}"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "$gameMessage.add(v[102])"
+          ]
+        },
+        {
+          "code": 115,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            343,
+            1,
+            46,
+            1
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            4
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[2]>Wow \\n[1] are you ok with that huge belly?"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "My pregnancy wasn't anywhere near this huge, "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "and I had problems doing everyday chores."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            9
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>I'm ok, but everything starts "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "to get a little bit rough when I'm this size, "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "I can't even button up my sweater."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            4
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[2]>Wow \\n[1] are you ok with that huge belly?"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "My last pregnancy wasn't anywhere near this huge, "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "and I had problems doing everyday chores"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1,
+            1,
+            0,
+            0,
+            9
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>yes I'm ok, but everything starts "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "to get a little bit rough when I'm this size, "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "I can't even button up my sweater."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    }
+  ],
+  "x": 4,
+  "y": 27
+}
