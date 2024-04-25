@@ -1,0 +1,33 @@
+{
+  "id": 494,
+  "animationId": 0,
+  "consumable": false,
+  "damage": {
+    "critical": false,
+    "elementId": 0,
+    "formula": "0",
+    "type": 0,
+    "variance": 20
+  },
+  "description": "A dildo with the ability to shoot semen,\nsome women prefer this.",
+  "effects": [
+    {
+      "code": 44,
+      "dataId": 370,
+      "value1": 1,
+      "value2": 0
+    }
+  ],
+  "hitType": 0,
+  "iconIndex": 213,
+  "itypeId": 1,
+  "name": "Dildo",
+  "note": "<DD価格:5000000>",
+  "occasion": 0,
+  "price": 0,
+  "repeats": 1,
+  "scope": 7,
+  "speed": 0,
+  "successRate": 100,
+  "tpGain": 0
+}

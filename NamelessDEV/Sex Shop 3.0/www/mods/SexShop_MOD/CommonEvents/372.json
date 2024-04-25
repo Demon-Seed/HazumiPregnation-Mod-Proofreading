@@ -1,0 +1,221 @@
+{
+  "id": 372,
+  "list": [
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        104,
+        104,
+        0,
+        4,
+        "'Dildo'"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        74,
+        74,
+        0,
+        4,
+        "'Dildo'"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        203
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        81,
+        0,
+        140,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        80
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        320,
+        320,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        75,
+        75,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        551,
+        551,
+        0
+      ]
+    },
+    {
+      "code": 242,
+      "indent": 0,
+      "parameters": [
+        5
+      ]
+    },
+    {
+      "code": 241,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "tw049",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        821,
+        821,
+        0,
+        2,
+        6,
+        9
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        1,
+        364,
+        0,
+        20,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        821,
+        821,
+        1,
+        2,
+        5,
+        8
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n[1] is going to play with her \\c[1]\\n[4]\\c[0]."
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        371
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        321,
+        321,
+        0,
+        0,
+        50
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        215
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        373
+      ]
+    },
+    {
+      "code": 118,
+      "indent": 0,
+      "parameters": [
+        "end"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 0
+    }
+  ],
+  "name": "Skip/Play M Mini Game",
+  "switchId": 1,
+  "trigger": 0
+}

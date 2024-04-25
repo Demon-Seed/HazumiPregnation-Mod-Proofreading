@@ -1,0 +1,426 @@
+{
+  "id": 380,
+  "list": [
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "時間や射精回数は減少でなく増える"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 0,
+      "parameters": [
+        "閾値に達したらイベント終了"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "$gameVariables.value(361)>$gameVariables.value(362)-5"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 1,
+      "parameters": [
+        "時間超過"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 1,
+      "parameters": [
+        "総時間-5分"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "Time is up."
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        306,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "do you want to masturbate a little more?"
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 2,
+      "parameters": [
+        "選択肢カラム数 0"
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 2,
+      "parameters": [
+        [
+          "No",
+          "Yes"
+        ],
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 2,
+      "parameters": [
+        0,
+        "No"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 3,
+      "parameters": [
+        "選択肢ヘルプ"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 3,
+      "parameters": [
+        "Masturbation will end."
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 3,
+      "parameters": [
+        309,
+        309,
+        0
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 2,
+      "parameters": [
+        1,
+        "Yes"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 3,
+      "parameters": [
+        "選択肢ヘルプ"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 3,
+      "parameters": [
+        "Additional AP will be consumed. \nMay result in a bonus."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[1] continues a bit more."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        361,
+        361,
+        2,
+        0,
+        30
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        1,
+        327,
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 4,
+      "parameters": [
+        327,
+        327,
+        2,
+        0,
+        30
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 3,
+      "parameters": [
+        306,
+        306,
+        0
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        309,
+        309,
+        0
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "console.log('orgasm'+v[442]+'>'+'maxOrgasm'+v[821] )"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "$gameVariables.value(442)>$gameVariables.value(821)"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 1,
+      "parameters": [
+        "射精回数超過"
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "Saint5",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n[1] was satisfied..."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        442,
+        442,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "this.waitSe()"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        301,
+        301,
+        1,
+        4,
+        "$gameVariables.value(75)*randmm(10,30)"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        87
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        309,
+        309,
+        0
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "【Active】 Masturbation Timer",
+  "switchId": 1,
+  "trigger": 0
+}

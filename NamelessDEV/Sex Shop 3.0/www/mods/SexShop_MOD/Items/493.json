@@ -1,0 +1,26 @@
+{
+  "id": 493,
+  "animationId": 0,
+  "consumable": true,
+  "damage": {
+    "critical": false,
+    "elementId": 0,
+    "formula": "0",
+    "type": 0,
+    "variance": 20
+  },
+  "description": "Cartridge that contain voluntier's semen in it.",
+  "effects": [],
+  "hitType": 0,
+  "iconIndex": 228,
+  "itypeId": 1,
+  "name": "Semen cartridge",
+  "note": "<DD価格:Math.round( Math.max(50000,($gameActors.actor(1).param(2)*190) + (Math.rand($gameActors.actor(1).param(2)*10) ) ) )>",
+  "occasion": 3,
+  "price": 0,
+  "repeats": 1,
+  "scope": 7,
+  "speed": 0,
+  "successRate": 100,
+  "tpGain": 0
+}

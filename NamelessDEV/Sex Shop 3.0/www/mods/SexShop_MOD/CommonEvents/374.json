@@ -1,0 +1,1751 @@
+{
+  "id": 374,
+  "list": [
+    {
+      "code": 356,
+      "indent": 0,
+      "parameters": [
+        "選択肢カラム数 0"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "前戯好きならキャンセル"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "勃起度による可不可判定"
+      ]
+    },
+    {
+      "code": 118,
+      "indent": 0,
+      "parameters": [
+        "濡れた分岐終わり"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "$gameVariables.value(327)&&$gameVariables.value(327)+3 > $gameVariables.value(361)"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 1,
+      "parameters": [
+        "射精インターバル存在していて&&、経過時間より多かったら"
+      ]
+    },
+    {
+      "code": 118,
+      "indent": 1,
+      "parameters": [
+        "息子復活"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        361,
+        361,
+        0,
+        1,
+        327
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        327,
+        327,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "注ぎ好きなら特殊分岐"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        85,
+        0
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 1,
+      "parameters": [
+        "ピストン"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 108,
+      "indent": 0,
+      "parameters": [
+        "コンドーム装着/はずす"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 0,
+      "parameters": [
+        "450<生理周期<=800&&中出しされていない&&妊娠自覚していない"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 0,
+      "parameters": [
+        "ゴム好きでない&&注ぎ込みたいでないなら"
+      ]
+    },
+    {
+      "code": 118,
+      "indent": 0,
+      "parameters": [
+        "ピストン"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "$gameTemp.isPulling = false"
+      ]
+    },
+    {
+      "code": 112,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        309,
+        0
+      ]
+    },
+    {
+      "code": 113,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 108,
+      "indent": 1,
+      "parameters": [
+        "勃起状態分岐"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 1,
+      "parameters": [
+        "男コンドーム付けていたら分岐"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "let stat = $H.m_ext.findIndex(x => x >= $gameVariables.value(321))"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "if($gameVariables.value(321) >= $H.m_ext[20]){ stat=20 }"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "if ( $gameSwitches.value(86) ) { "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  $gameVariables.setValue(316, 'wrapped up' )"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "} else { "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  if(stat){ $gameVariables.setValue( 316, $H.bokki_text[stat] ) }"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 1,
+      "parameters": [
+        "女性感で文章分岐"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 1,
+      "parameters": [
+        "一定以上の性感で中に出されていたら分岐"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "let stat = $H.f_ext.findIndex(x => x >= $gameVariables.value(371))"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "if($gameSwitches.value(55) && $gameVariables.value(371) < 50){ "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  $gameVariables.setValue( 315, `lotion lubricated` )"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "  stat = null"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "if($gameVariables.value(371) >= $H.f_ext[20]){ stat=20 }"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 1,
+      "parameters": [
+        "if(stat){ $gameVariables.setValue( 315, $H.f_stat[stat] ) }"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        85,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[1] turn on and thrusts his \\n[4] into her"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\v[315] pussy."
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 2,
+      "parameters": [
+        {
+          "name": "sonyuu",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        87,
+        87,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        95
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[1] penetrates her pussy with her \\n[4]."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "v[89] = v[89] || 1"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "$gameTemp.isPiston = true"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "$gameTemp.isShasei = false"
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        313,
+        313,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        378,
+        378,
+        0,
+        0,
+        500
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        379,
+        379,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 1,
+      "parameters": [
+        "callsel"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 1,
+      "parameters": [
+        "########################################"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 1,
+      "parameters": [
+        "#               本体                   #"
+      ]
+    },
+    {
+      "code": 408,
+      "indent": 1,
+      "parameters": [
+        "########################################"
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 1,
+      "parameters": [
+        "選択肢カラム数 3"
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 1,
+      "parameters": [
+        [
+          "Normal Thrusting",
+          "Hard Thrusting",
+          "Slow Thrusting",
+          "en( v[100]!==7 )Cum Outside",
+          "en( v[100]!==8 )Cum Inside",
+          "Return"
+        ],
+        -1,
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        0,
+        "Normal Thrusting"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        379,
+        379,
+        0,
+        4,
+        "$gameVariables._data[377] * 10"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 2,
+      "parameters": [
+        "実行判定"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[1] moves her hips while thrusting her "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[4] inside her pussy"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$gameVariables.value(371) >= 20 && $gameVariables.value(371) < 60"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 3,
+      "parameters": [
+        "適度に湿った<=性感<濡れそぼった"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        6,
+        9
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        371,
+        0,
+        80,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[1] feels so good.. "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "that she push the trigger of her \\n[4]."
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        8,
+        493
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 4,
+      "parameters": [
+        328,
+        328,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 4,
+      "parameters": [
+        375
+      ]
+    },
+    {
+      "code": 126,
+      "indent": 4,
+      "parameters": [
+        493,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "But her \\n[4] doesn't shoot anything."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        1,
+        "Hard Thrusting"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        379,
+        379,
+        0,
+        4,
+        "$gameVariables._data[377] * 10"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[4] thrusts hard."
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$gameVariables.value(371) >= 60"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 3,
+      "parameters": [
+        "性感>=濡れそぼった"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        6,
+        9
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        371,
+        0,
+        80,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[1] feels so good.. "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "that she push the trigger of her \\n[4]."
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        8,
+        493
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 4,
+      "parameters": [
+        328,
+        328,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 4,
+      "parameters": [
+        375
+      ]
+    },
+    {
+      "code": 126,
+      "indent": 4,
+      "parameters": [
+        493,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "But her \\n[4] doesn't shoot anything."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        2,
+        "Slow Thrusting"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        379,
+        379,
+        0,
+        4,
+        "$gameVariables._data[377] * 10"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "var num = 2"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "if(!s[86]){//ゴムをしていなかったら"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "  num+=1"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "v[24] = randmm(1,num)"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        24,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[1] moves her \\n[4] in a way to stimulate her"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\v[315] vagina."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        24,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[4] experience her \\n[] rubs along the "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "walls of her pussy."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        24,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[1] is enjoying the experience of using a \\n[4]"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        372,
+        372,
+        0,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        1,
+        371,
+        0,
+        80,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "\\n[1] feels so good.. "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "that she push the trigger of her \\n[4]."
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        8,
+        493
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 4,
+      "parameters": [
+        328,
+        328,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 4,
+      "parameters": [
+        375
+      ]
+    },
+    {
+      "code": 126,
+      "indent": 4,
+      "parameters": [
+        493,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "But her \\n[4] doesn't shoot anything."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        3,
+        "en( v[100]!==7 )Cum Outside"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        379,
+        379,
+        0,
+        4,
+        "$gameVariables._data[377] * 10"
+      ]
+    },
+    {
+      "code": 118,
+      "indent": 2,
+      "parameters": [
+        "Cum Outside"
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 2,
+      "parameters": [
+        "選択肢カラム数 0"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[1] pull out her \\n[4] and push the trigger."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        328,
+        328,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        85,
+        85,
+        1
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 2,
+      "parameters": [
+        "callsel"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        8,
+        493
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        24,
+        24,
+        0,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        1,
+        24,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "Her \\n[4] shoots on her body."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        1,
+        24,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 4,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 4,
+      "parameters": [
+        "Her \\n[4] shoots on her face."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        375
+      ]
+    },
+    {
+      "code": 126,
+      "indent": 3,
+      "parameters": [
+        493,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "But her \\n[4] doesn't shoot anything."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 115,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        4,
+        "en( v[100]!==8 )Cum Inside"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        379,
+        379,
+        0,
+        4,
+        "$gameVariables._data[377] * 10"
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 2,
+      "parameters": [
+        "選択肢カラム数 0"
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 2,
+      "parameters": [
+        "危険日真っ只中&&ゴムなし&&膣内精液<=5"
+      ]
+    },
+    {
+      "code": 118,
+      "indent": 2,
+      "parameters": [
+        "外出し分岐スキップ"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        226
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n[1] puts her \\n[4] in her "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "deepest spot and push its trigger."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        328,
+        328,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 2,
+      "parameters": [
+        "callsel"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        8,
+        493
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 3,
+      "parameters": [
+        375
+      ]
+    },
+    {
+      "code": 126,
+      "indent": 3,
+      "parameters": [
+        493,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "But \\n[4] doesn't shoot anything."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 115,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 1,
+      "parameters": [
+        5,
+        "Return"
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 356,
+      "indent": 1,
+      "parameters": [
+        "callsel"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        216
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        361,
+        361,
+        1,
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        380
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 413,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0
+    }
+  ],
+  "name": "【Active】M Insertion/Thrusting",
+  "switchId": 1,
+  "trigger": 0
+}
