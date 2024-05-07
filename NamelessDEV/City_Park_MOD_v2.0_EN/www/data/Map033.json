@@ -11538,7 +11538,7 @@
                                 104,
                                 0,
                                 4,
-                                "'Young Man Looking at the Lake'"
+                                "'Observing Young Man'"
                             ]
                         },
                         {
@@ -15244,7 +15244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(Door being Repaired)"
+                                "(Door being repaired.)"
                             ]
                         },
                         {
@@ -30351,7 +30351,7 @@
                                 104,
                                 0,
                                 4,
-                                "'Girl Playing on a Swing'"
+                                "'Swinging Girl'"
                             ]
                         },
                         {
@@ -38887,7 +38887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Fire is warm."
+                                "\\n<\\n[1]>The fire is warm."
                             ]
                         },
                         {

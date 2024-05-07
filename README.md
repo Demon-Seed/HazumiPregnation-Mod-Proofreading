@@ -5,8 +5,7 @@
 
 # Mod Credits
  - Exhibitionism Mod: XYZone
- - Rich House Mod: PreggoLover
- - The Rest of the Mods: NamelessDEV
+ - The Rest of the Mods: Parent Folder Name
    
 
 # Example Changes 

@@ -806,7 +806,7 @@
             104,
             0,
             4,
-            "'Men around'"
+            "'Surrounding Men'"
           ]
         },
         {
@@ -893,7 +893,7 @@
             104,
             0,
             4,
-            "'Men around'"
+            "'Surrounding Men'"
           ]
         },
         {
@@ -1350,7 +1350,7 @@
           "code": 401,
           "indent": 4,
           "parameters": [
-            "\\n<\\v[104]>The guys are thrilled to have enjoyed such a pleasant day."
+            "\\n<\\v[104]>The guys are thrilled to have enjoyed\nsuch a pleasant day."
           ]
         },
         {
@@ -1378,7 +1378,7 @@
           "code": 401,
           "indent": 4,
           "parameters": [
-            "\\n<\\n[1]>That's really great; I feel their happiness as well."
+            "\\n<\\n[1]>That's really great. I feel their happiness as well."
           ]
         },
         {
@@ -2509,7 +2509,7 @@
           "code": 401,
           "indent": 4,
           "parameters": [
-            "\\n<\\v[104]>I needed something refreshing to help me concentrate on my work."
+            "\\n<\\v[104]>I needed something refreshing to help me\nconcentrate on my work."
           ]
         },
         {
@@ -2597,7 +2597,7 @@
           "code": 401,
           "indent": 4,
           "parameters": [
-            "\\n<\\v[104]>You are a treasure maybe around the globe."
+            "\\n<\\v[104]>You are a treasure, maybe even globally."
           ]
         },
         {
@@ -2685,7 +2685,7 @@
           "code": 401,
           "indent": 4,
           "parameters": [
-            "\\n<\\v[104]>Looks like you are unique from those village girls."
+            "\\n<\\v[104]>Looks like you are unique compared\nto those village girls."
           ]
         },
         {
