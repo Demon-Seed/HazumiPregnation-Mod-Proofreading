@@ -1,0 +1,1521 @@
+{
+  "id": 392,
+  "list": [
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        10
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        13
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        381,
+        381,
+        0,
+        4,
+        "`出産`"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        391
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        150
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Ahhhh～┻!!\\. M-My\\..\\..\\.. baby\\..\\..\\..is going to\\..\\..\\.. born!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>\\.\\.ahhhh～┻!\\..\\..\\..\\..ahhhh～┻!\\..\\..\\.. Don't!\\..\\..\\..\\.."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>There isn't time!\\.\\."
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>I'm going to deliver...\\.\\.right\\.\\.\\. heeeeeeere!!～┻"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        214
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        12
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>\\.\\.Oooohhh～┻! Ohh～┻!! \\.\\.M-My womb is burning up～～┻"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        214
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>\\.\\.Ahhhh\\..\\..\\..\\..\\..Ahhhh～┻!!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>\\.\\.M-My～┻\\.\\. mind\\.\\. is going～┻!\\.\\.\\.\\.\\."
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\.is going blank～┻!"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        214
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>\\.\\.Ahhhhh～┻\\..\\..\\..\\..baby～┻\\..\\.. you're pounding my womb"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\.\\.\\.so hard～～┻!"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>\\.\\.If\\..\\..\\..\\.. you～┻\\..\\.. don't stop～┻\\.\\."
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "I'm gonna \\.\\.lose\\.\\. myseeeelllf～┻!!"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        214
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Ohh～┻!!\\.\\. Ohh～┻\\.\\. I'm\\.\\.\\.\\. almost\\.\\.\\.\\. there～┻!!!"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        214
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>\\.\\.Ahh～┻\\.\\. Aaaahhh～┻\\.\\. Aaahhhhhh～┻!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        71,
+        71,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        12
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>\\.\\.Oh god\\.\\.\\.\\.Oh god～┻!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>\\.\\.Ahh～┻\\.\\. Aaaahhh～┻\\.\\. Aaahhhhhh～┻!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>\\.\\.(My baby～┻\\.\\.\\. is stuck～┻)"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        12
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Haaaaah～┻!\\.\\.\\.\\.\\. haaaah～┻!\\.\\.\\.\\.hooo～┻!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>\\.\\.(I'm feeling dizzy～┻)"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Haaaah～┻!\\.\\.\\.\\.\\. hooo～┻!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        11
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        214
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        15
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>\\.\\.Nnnnnnnngggggggghhhhhh～┻!!!"
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>\\.\\.(My panties～┻\\.\\.\\. don't allow my baby to be born～┻)"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        6
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Aaaaaaahhh!～┻\\.\\.\\.\\. aaaaahh!～┻\\.\\.\\.\\. aaah～┻"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        13
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Ohhh gosh～┻!!\\.\\.\\.\\. The baby\\.\\.\\.\\. is\\.\\.\\.\\. returning\\.\\."
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "to\\.\\.\\.\\. my\\.\\.\\.\\. womb～┻!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        15
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Ahhhhh～┻\\.\\.\\. Uhhhhh～┻"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        71,
+        71,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Ughh～┻ \\.\\.Ohhhh God～┻\\.\\.\\. I need to push\\.\\.\\.\\."
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "harder～┻!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Ohhhhh～┻\\.\\.\\. Ohhhhh～┻"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Ughh～┻\\.\\. It's coming～┻!!\\.\\.\\. It's coming out again～┻!!! "
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Ahhh～┻!! \\.\\.\\.It's coming out\\.\\.\\.\\. of\\.\\.\\.\\. my\\.\\. womb～┻!!"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        214
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        71,
+        71,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        10
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>AAhh～┻\\.\\.\\. AAhhh～┻!!\\.\\. almost\\.\\.\\. there～┻!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        6
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        71,
+        71,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>I-\\.\\.I\\.\\.\\. need to\\.\\.\\. P-\\.\\.\\.Push～┻!! "
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        12
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>Ohhhh!\\.\\. The\\. baby is\\. returning to my womb～┻!!!."
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 0,
+      "parameters": [
+        214
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>OHH I'M SO SENSITIVE RIGHT NOW!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        10
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        71,
+        71,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>I'M\\..\\..\\.."
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "CUUUUUUUMMIIIIIIIING～～～┻!!!!!!!!."
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        71,
+        71,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        170
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        71,
+        71,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "_bochan",
+          "volume": 100,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        200
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "_baby_cry",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        55
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        45
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>BIRTHING\\..\\..\\..FEELSSS\\..\\..\\..AMAZING!～～～┻"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "hasMultiBaby()"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "namingMultiBaby()"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        376,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        214
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        15
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>\\.\\.Nnnnnnnngggggggghhhhhh～┻!!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        12
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>MY BABY ROOM ISN'T EMPTY YET～～～┻!!!"
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "THERE ARE \\v[59] BABY INSIDE～┻!!!"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 117,
+      "indent": 2,
+      "parameters": [
+        214
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        15
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>\\.\\.Nnnnnnnngggggggghhhhhh～┻!!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        12
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>I-I...\\.\\.just～┻, \\.\\.felt another contraction～┻."
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "I-I...\\.\\.think there's another baby inside～┻."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>UUHH～～┻, ANOTHER BABY IS COMING OUT～～┻!!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        10
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        443,
+        443,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        14
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>Aaaaaaahhh!～┻\\.\\.\\.\\. aaaaahh!～┻\\.\\.\\.\\. aaah～┻"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        443,
+        443,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>\\.\\.Ahhhh...\\.\\.Ahhhh～┻!!!"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        443,
+        443,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        71,
+        71,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "_bochan",
+          "volume": 100,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        160
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 1,
+      "parameters": [
+        243
+      ]
+    },
+    {
+      "code": 250,
+      "indent": 1,
+      "parameters": [
+        {
+          "name": "_baby_cry",
+          "volume": 90,
+          "pitch": 100,
+          "pan": 0
+        }
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>I-I\\..\\..\\..\\..COULD\\..\\..\\..\\..BECOME\\..\\..\\..\\..ADDICTED\\..\\..\\..\\.."
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "TO\\..\\..\\..\\..THIS～～～┻."
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "Public Birth Aphro",
+  "switchId": 1,
+  "trigger": 0
+}

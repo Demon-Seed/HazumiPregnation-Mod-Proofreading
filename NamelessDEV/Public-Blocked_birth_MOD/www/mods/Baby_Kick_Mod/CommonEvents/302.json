@@ -1,0 +1,600 @@
+{
+  "id": 302,
+  "list": [
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        528,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        43,
+        0,
+        30,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        7,
+        7,
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "if ( v[43] >= 44 && v[43]<=49 ) { v[7] = 7 "
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "if ( v[43] >= 50 && v[43]<=54 ) { v[7] = 9"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "if ( v[43] >= 55 && v[43]<=59 ) { v[7] = 11"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "if ( v[43] >= 60) { v[7] = 15"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 2,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$cheat.WalkSpeedRedu"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        8,
+        8,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 3,
+      "parameters": [
+        "if ( v[43] >= 30 && v[43]<=49 ) {"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        " v[8] = 1"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 3,
+      "parameters": [
+        "if ( v[43] >= 50 && v[43]<=59 ) {"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "v[8] = 2"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 3,
+      "parameters": [
+        "if ( v[43] >= 60) {"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "v[8] = 3"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 3,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        1,
+        8,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 4,
+      "parameters": [
+        -1,
+        {
+          "list": [
+            {
+              "code": 29,
+              "parameters": [
+                3
+              ],
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 4,
+      "parameters": [
+        {
+          "code": 29,
+          "parameters": [
+            3
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        1,
+        8,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 4,
+      "parameters": [
+        -1,
+        {
+          "list": [
+            {
+              "code": 29,
+              "parameters": [
+                2
+              ],
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 4,
+      "parameters": [
+        {
+          "code": 29,
+          "parameters": [
+            2
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        1,
+        8,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "indent": 4,
+      "parameters": [
+        -1,
+        {
+          "list": [
+            {
+              "code": 29,
+              "parameters": [
+                1
+              ],
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 4,
+      "parameters": [
+        {
+          "code": 29,
+          "parameters": [
+            1
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "$gamePlayer.moveByInput()"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$gamePlayer.isMoving()"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 3,
+      "parameters": [
+        240
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        12,
+        "randper($gameVariables.value(7))"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 4,
+      "parameters": [
+        0,
+        374,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 5,
+      "parameters": [
+        301
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 5,
+      "parameters": [
+        374,
+        374,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 5,
+      "parameters": [
+        301
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 5,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 5,
+      "parameters": [
+        374,
+        374,
+        1
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 5,
+      "parameters": [
+        "SceneManager._scene._standSprite.removeChildren()"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$gamePlayer.moveSpeed() === 4"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 205,
+      "indent": 3,
+      "parameters": [
+        -1,
+        {
+          "list": [
+            {
+              "code": 29,
+              "parameters": [
+                4
+              ],
+              "indent": null
+            },
+            {
+              "code": 0
+            }
+          ],
+          "repeat": false,
+          "skippable": false,
+          "wait": true
+        }
+      ]
+    },
+    {
+      "code": 505,
+      "indent": 3,
+      "parameters": [
+        {
+          "code": 29,
+          "parameters": [
+            4
+          ],
+          "indent": null
+        }
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "bellykick",
+  "switchId": 65,
+  "trigger": 2
+}

@@ -1,0 +1,444 @@
+{
+  "id": 389,
+  "list": [
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        24,
+        24,
+        0,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>(The pain is rissing....)"
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        80,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>(I\\.\\.\\. I need to resist until the end of my job)"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 1,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 1,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 1,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 1,
+      "parameters": [
+        "\\n<\\n[1]>(Ouchhhhh...)"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        16
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        24,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>(It feels like my insides are being wrung out "
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "like a mop!)"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        24,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>(I-\\.I need to reach OBGYN!)"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>(Before it's to late!)"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        24,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>(Geeez!\\.\\.\\. I need to hurry)"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        60
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 2,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 2,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 2,
+      "parameters": [
+        "\\n<\\n[1]>(Ouchhhhh...)"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "this.waitSe(1.65)"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "Labor quotes",
+  "switchId": 1,
+  "trigger": 0
+}

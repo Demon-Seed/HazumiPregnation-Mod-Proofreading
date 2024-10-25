@@ -1,0 +1,82 @@
+{
+  "id": 391,
+  "list": [
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        24,
+        24,
+        1
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "$gameTemp.posture = prostitute.cgPosition();"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "if(s[75]){"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "  $gameTemp.isTime = true"
+      ]
+    },
+    {
+      "code": 655,
+      "indent": 0,
+      "parameters": [
+        "}"
+      ]
+    },
+    {
+      "code": 118,
+      "indent": 0,
+      "parameters": [
+        "roop"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "!SceneManager._scene._cgSprite.children[0]"
+      ]
+    },
+    {
+      "code": 119,
+      "indent": 1,
+      "parameters": [
+        "roop"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "Display Birth CG",
+  "switchId": 530,
+  "trigger": 2
+}

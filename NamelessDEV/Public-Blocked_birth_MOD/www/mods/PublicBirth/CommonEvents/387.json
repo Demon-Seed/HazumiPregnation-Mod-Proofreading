@@ -1,0 +1,830 @@
+{
+  "id": 387,
+  "list": [
+    {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        12,
+        "$cheat.PublicBirth"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        1,
+        43,
+        0,
+        42,
+        1
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        0,
+        529,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        0,
+        374,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 4,
+      "parameters": [
+        390
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 4,
+      "parameters": [
+        374,
+        374,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 4,
+      "parameters": [
+        390
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 4,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 4,
+      "parameters": [
+        374,
+        374,
+        1
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 4,
+      "parameters": [
+        "SceneManager._scene._standSprite.removeChildren()"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 355,
+      "indent": 2,
+      "parameters": [
+        "$gamePlayer.moveByInput()"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$gamePlayer.isMoving()"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 3,
+      "parameters": [
+        0,
+        528,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 4,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 4,
+      "parameters": [
+        722,
+        722,
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 4,
+      "parameters": [
+        1,
+        722,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 5,
+      "parameters": [
+        12,
+        "randper(7)"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 6,
+      "parameters": [
+        0,
+        80,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 7,
+      "parameters": [
+        0,
+        374,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 8,
+      "parameters": [
+        389
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 8,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 7,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 8,
+      "parameters": [
+        374,
+        374,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 8,
+      "parameters": [
+        389
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 8,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 8,
+      "parameters": [
+        374,
+        374,
+        1
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 8,
+      "parameters": [
+        "SceneManager._scene._standSprite.removeChildren()"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 8,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 7,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 7,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 7,
+      "parameters": [
+        529,
+        529,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 7,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 4,
+      "parameters": [
+        1,
+        722,
+        0,
+        15,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 5,
+      "parameters": [
+        0,
+        374,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 6,
+      "parameters": [
+        389
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 6,
+      "parameters": [
+        374,
+        374,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 6,
+      "parameters": [
+        389
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 6,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 6,
+      "parameters": [
+        374,
+        374,
+        1
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 6,
+      "parameters": [
+        "SceneManager._scene._standSprite.removeChildren()"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 4,
+      "parameters": [
+        1,
+        722,
+        0,
+        30,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 5,
+      "parameters": [
+        0,
+        374,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 6,
+      "parameters": [
+        389
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 6,
+      "parameters": [
+        374,
+        374,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 6,
+      "parameters": [
+        389
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 6,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 6,
+      "parameters": [
+        374,
+        374,
+        1
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 6,
+      "parameters": [
+        "SceneManager._scene._standSprite.removeChildren()"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 111,
+      "indent": 4,
+      "parameters": [
+        1,
+        722,
+        0,
+        45,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 5,
+      "parameters": [
+        0,
+        374,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 6,
+      "parameters": [
+        389
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 6,
+      "parameters": [
+        374,
+        374,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 6,
+      "parameters": [
+        389
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 6,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 6,
+      "parameters": [
+        374,
+        374,
+        1
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 6,
+      "parameters": [
+        "SceneManager._scene._standSprite.removeChildren()"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 230,
+      "indent": 4,
+      "parameters": [
+        240
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 4,
+      "parameters": [
+        12,
+        "randper(7)"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 5,
+      "parameters": [
+        722,
+        722,
+        0,
+        0,
+        50
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 5,
+      "parameters": [
+        528,
+        528,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 5,
+      "parameters": [
+        0,
+        374,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 6,
+      "parameters": [
+        388
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 6,
+      "parameters": [
+        374,
+        374,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "indent": 6,
+      "parameters": [
+        388
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 6,
+      "parameters": [
+        20,
+        20,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 6,
+      "parameters": [
+        374,
+        374,
+        1
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 6,
+      "parameters": [
+        "SceneManager._scene._standSprite.removeChildren()"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 6,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 5,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 4,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        528,
+        528,
+        1
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 2,
+      "parameters": [
+        529,
+        529,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "Labor",
+  "switchId": 65,
+  "trigger": 2
+}

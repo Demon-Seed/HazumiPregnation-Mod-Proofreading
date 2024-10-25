@@ -1,0 +1,120 @@
+{
+  "id": 388,
+  "list": [
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>(My womb feels weird....)"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        15
+      ]
+    },
+    {
+      "code": 355,
+      "indent": 0,
+      "parameters": [
+        "AudioManager.playSe({\"name\":\"_taidou\",\"volume\":1000,\"pitch\":100,\"pan\":0})"
+      ]
+    },
+    {
+      "code": 230,
+      "indent": 0,
+      "parameters": [
+        120
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>(Ow ow ow.)"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1,
+        1,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "\\n<\\n[1]>(Dont tell me\\..\\..\\..labor pain?!)"
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  ],
+  "name": "start labor",
+  "switchId": 1,
+  "trigger": 0
+}
