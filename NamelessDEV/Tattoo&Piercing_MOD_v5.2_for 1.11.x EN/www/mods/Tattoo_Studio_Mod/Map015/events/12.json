@@ -1,0 +1,1932 @@
+{
+  "id": 12,
+  "name": "EV012",
+  "note": "",
+  "pages": [
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 4
+      },
+      "list": [
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            3,
+            {
+              "list": [
+                {
+                  "code": 16,
+                  "indent": null
+                },
+                {
+                  "code": 14,
+                  "parameters": [
+                    0,
+                    0
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 16,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 14,
+              "parameters": [
+                0,
+                0
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<Tattoo Artist>Hey! don't you see I'm busy right now."
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            3,
+            {
+              "list": [
+                {
+                  "code": 18,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 18,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            -1,
+            {
+              "list": [
+                {
+                  "code": 1,
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 1,
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\n[1]>Better don't disturb the Artist while he's "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "working"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 0,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 1,
+      "walkAnime": true
+    },
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": true,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "man_a",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 4
+      },
+      "list": [
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            104,
+            104,
+            0,
+            4,
+            "'Tattoo Artist'"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            8,
+            495
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\v[104]>Welcome young lady, what do you want?"
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 1,
+          "parameters": [
+            [
+              "Tattoo",
+              "Clean up",
+              "Nevermind"
+            ],
+            2,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            0,
+            "Tattoo"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>Ok, young lady lets move to my workplace."
+          ]
+        },
+        {
+          "code": 201,
+          "indent": 2,
+          "parameters": [
+            0,
+            15,
+            8,
+            7,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 203,
+          "indent": 2,
+          "parameters": [
+            0,
+            0,
+            7,
+            7,
+            6
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>Relax and leave it all to me."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>Here are the designs I can make for you right now."
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 2,
+          "parameters": [
+            [
+              "Womb-Heart Tattoo",
+              "Demon-Mark Tattoo",
+              "Cum-Dump Tattoo",
+              "Fertility-Mark Tattoo"
+            ],
+            -1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 2,
+          "parameters": [
+            0,
+            "Womb-Heart Tattoo"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            24,
+            24,
+            0,
+            2,
+            2,
+            4
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            0,
+            550,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Ohh, You already have a tattoo. "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "I'm going to clean it before i do the new one."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            1,
+            24,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>So, how is your life?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>I usually want to know my clients better."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>You never know if they will be regulars at some point."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            1,
+            24,
+            0,
+            3,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Tell me if it starts hurting at some point."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>I don’t want to ruin the tattoo or your skin "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "because you made a sudden movement due to pain."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            1,
+            24,
+            0,
+            4,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>So a friend of yours recommended this studio to you?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\n[1]>Yes"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>God that kind of things really help me out."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>If you see her, tell her i say hi and that "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "I have new designs for her pleace."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 121,
+          "indent": 3,
+          "parameters": [
+            550,
+            550,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            699,
+            699,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 2,
+          "parameters": [
+            1,
+            "Demon-Mark Tattoo"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            24,
+            24,
+            0,
+            2,
+            2,
+            4
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            0,
+            550,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Ohh, You already have a tattoo. "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "I'm going to clean it before i do the new one."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            1,
+            24,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>So, how is your life?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>I usually want to know my clients better."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>You never know if they will be regulars at some point."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            1,
+            24,
+            0,
+            3,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Tell me if it starts hurting at some point."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>I don’t want to ruin the tattoo or your skin "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "because you made a sudden movement due to pain."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            1,
+            24,
+            0,
+            4,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>So a friend of yours recommended this studio to you?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\n[1]>Yes"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>God that kind of things really help me out."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>If you see her, tell her i say hi and that "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "I have new designs for her pleace."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 121,
+          "indent": 3,
+          "parameters": [
+            550,
+            550,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            699,
+            699,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 2,
+          "parameters": [
+            2,
+            "Cum-Dump Tattoo"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            24,
+            24,
+            0,
+            2,
+            2,
+            4
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            0,
+            550,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Ohh, You already have a tattoo. "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "I'm going to clean it before i do the new one."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            1,
+            24,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>So, how is your life?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>I usually want to know my clients better."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>You never know if they will be regulars at some point."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            1,
+            24,
+            0,
+            3,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Tell me if it starts hurting at some point."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>I don’t want to ruin the tattoo or your skin "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "because you made a sudden movement due to pain."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            1,
+            24,
+            0,
+            4,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>So a friend of yours recommended this studio to you?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\n[1]>Yes"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>God that kind of things really help me out."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>If you see her, tell her i say hi and that "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "I have new designs for her pleace."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 121,
+          "indent": 3,
+          "parameters": [
+            550,
+            550,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            699,
+            699,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 2,
+          "parameters": [
+            3,
+            "Fertility-Mark Tattoo"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            24,
+            24,
+            0,
+            2,
+            2,
+            4
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            0,
+            550,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Ohh, You already have a tattoo. "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "I'm going to clean it before i do the new one."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            1,
+            24,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>So, how is your life?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>I usually want to know my clients better."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>You never know if they will be regulars at some point."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            1,
+            24,
+            0,
+            3,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Tell me if it starts hurting at some point."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>I don’t want to ruin the tattoo or your skin "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "because you made a sudden movement due to pain."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            1,
+            24,
+            0,
+            4,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>So a friend of yours recommended this studio to you?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\n[1]>Yes"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>God that kind of things really help me out."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>If you see her, tell her i say hi and that "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "I have new designs for her pleace."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 121,
+          "indent": 3,
+          "parameters": [
+            550,
+            550,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 3,
+          "parameters": [
+            699,
+            699,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>And it's done."
+          ]
+        },
+        {
+          "code": 201,
+          "indent": 2,
+          "parameters": [
+            0,
+            15,
+            5,
+            11,
+            8,
+            0
+          ]
+        },
+        {
+          "code": 203,
+          "indent": 2,
+          "parameters": [
+            0,
+            0,
+            5,
+            10,
+            2
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            1,
+            "Clean up"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>Ok, young lady lets move to my workplace."
+          ]
+        },
+        {
+          "code": 201,
+          "indent": 2,
+          "parameters": [
+            0,
+            15,
+            8,
+            7,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 203,
+          "indent": 2,
+          "parameters": [
+            0,
+            0,
+            7,
+            7,
+            6
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>I’ll put this special cream that will clean "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "your skin and remove the Tattoo without pain and scars"
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 2,
+          "parameters": [
+            550,
+            550,
+            1
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            699,
+            699,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 201,
+          "indent": 2,
+          "parameters": [
+            0,
+            15,
+            5,
+            11,
+            8,
+            0
+          ]
+        },
+        {
+          "code": 203,
+          "indent": 2,
+          "parameters": [
+            0,
+            0,
+            5,
+            10,
+            2
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            2,
+            "Nevermind"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\v[104]>Sorry miss I don't attend people without a membership,"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "I can't give my work for free, need to pay my rent and "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "stuff like that."
+          ]
+        },
+        {
+          "code": 115,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    }
+  ],
+  "x": 5,
+  "y": 10
+}

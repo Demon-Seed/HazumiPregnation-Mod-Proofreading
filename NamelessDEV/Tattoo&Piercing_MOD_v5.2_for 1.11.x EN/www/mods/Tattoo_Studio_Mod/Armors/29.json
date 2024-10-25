@@ -1,0 +1,21 @@
+{
+  "id": 29,
+  "atypeId": 1,
+  "description": "A cute navel piercing with the form of a ring with a \nred heart jewel (improves appeal when worn).",
+  "etypeId": 5,
+  "traits": [],
+  "iconIndex": 145,
+  "name": "Heart Ring Piercing",
+  "note": "<Custom On Equip Eval>\n$gameSwitches.setValue(549, true);\n$gameVariables.setValue(698, 1);\n</Custom On Equip Eval>\n\n<Custom On Remove Equip Eval>\n$gameSwitches.setValue(549, false);\n$gameVariables.setValue(698, 0);\n</Custom On Remove Equip Eval>",
+  "params": [
+    0,
+    0,
+    75,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "price": 50000
+}

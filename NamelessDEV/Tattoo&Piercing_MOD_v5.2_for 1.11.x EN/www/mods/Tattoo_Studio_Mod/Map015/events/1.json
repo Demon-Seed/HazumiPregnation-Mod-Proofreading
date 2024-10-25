@@ -1,0 +1,1100 @@
+{
+  "id": 1,
+  "name": "Piercing Seller",
+  "note": "",
+  "pages": [
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Actor1",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 4
+      },
+      "list": [
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            104,
+            104,
+            0,
+            4,
+            "'Piercing Seller'"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>Hello miss, what piercing would you like to buy?."
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 0,
+          "parameters": [
+            [
+              "Ring Piercing",
+              "Heart Ring Piercing",
+              "Horizontal Piercing",
+              "Slutty Piercing",
+              "nevermind"
+            ],
+            4,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 0,
+          "parameters": [
+            0,
+            "Ring Piercing"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            10,
+            30,
+            true
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>Sorry Miss I'm out stock of this item."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>This piercing has a cost of 50000 yen"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "wold you like to buy it?"
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 2,
+          "parameters": [
+            [
+              "Yes",
+              "No"
+            ],
+            1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 2,
+          "parameters": [
+            0,
+            "Yes"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            7,
+            50000,
+            2
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>You do not have enough money."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "Coin",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 125,
+          "indent": 4,
+          "parameters": [
+            1,
+            0,
+            50000
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 4,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Great here is your Piercing"
+          ]
+        },
+        {
+          "code": 128,
+          "indent": 4,
+          "parameters": [
+            30,
+            0,
+            0,
+            1,
+            false
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 2,
+          "parameters": [
+            1,
+            "No"
+          ]
+        },
+        {
+          "code": 119,
+          "indent": 3,
+          "parameters": [
+            "end"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 0,
+          "parameters": [
+            1,
+            "Heart Ring Piercing"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            10,
+            29,
+            true
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>Sorry Miss I'm out stock of this item."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>This piercing has a cost of 70000 yen"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "wold you like to buy it?"
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 2,
+          "parameters": [
+            [
+              "Yes",
+              "No"
+            ],
+            1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 2,
+          "parameters": [
+            0,
+            "Yes"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            7,
+            70000,
+            2
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>You do not have enough money."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "Coin",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 125,
+          "indent": 4,
+          "parameters": [
+            1,
+            0,
+            70000
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 4,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Great here is your Piercing"
+          ]
+        },
+        {
+          "code": 128,
+          "indent": 4,
+          "parameters": [
+            29,
+            0,
+            0,
+            1,
+            false
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 2,
+          "parameters": [
+            1,
+            "No"
+          ]
+        },
+        {
+          "code": 119,
+          "indent": 3,
+          "parameters": [
+            "end"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 0,
+          "parameters": [
+            2,
+            "Horizontal Piercing"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            10,
+            28,
+            true
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>Sorry Miss I'm out stock of this item."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>This piercing has a cost of 90000 yen"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "wold you like to buy it?"
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 2,
+          "parameters": [
+            [
+              "Yes",
+              "No"
+            ],
+            1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 2,
+          "parameters": [
+            0,
+            "Yes"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            7,
+            90000,
+            2
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>You do not have enough money."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "Coin",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 125,
+          "indent": 4,
+          "parameters": [
+            1,
+            0,
+            90000
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 4,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Great here is your Piercing"
+          ]
+        },
+        {
+          "code": 128,
+          "indent": 4,
+          "parameters": [
+            28,
+            0,
+            0,
+            1,
+            false
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 2,
+          "parameters": [
+            1,
+            "No"
+          ]
+        },
+        {
+          "code": 119,
+          "indent": 3,
+          "parameters": [
+            "end"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 0,
+          "parameters": [
+            3,
+            "Slutty Piercing"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            10,
+            27,
+            true
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>Sorry Miss I'm out stock of this item."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<\\v[104]>This piercing has a cost of 120000 yen"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "wold you like to buy it?"
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 2,
+          "parameters": [
+            [
+              "Yes",
+              "No"
+            ],
+            1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 2,
+          "parameters": [
+            0,
+            "Yes"
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 3,
+          "parameters": [
+            7,
+            120000,
+            2
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>You do not have enough money."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 411,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 250,
+          "indent": 4,
+          "parameters": [
+            {
+              "name": "Coin",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 125,
+          "indent": 4,
+          "parameters": [
+            1,
+            0,
+            120000
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 4,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 4,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 4,
+          "parameters": [
+            "\\n<\\v[104]>Great here is your Piercing"
+          ]
+        },
+        {
+          "code": 128,
+          "indent": 4,
+          "parameters": [
+            27,
+            0,
+            0,
+            1,
+            false
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 4,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 2,
+          "parameters": [
+            1,
+            "No"
+          ]
+        },
+        {
+          "code": 119,
+          "indent": 3,
+          "parameters": [
+            "end"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 0,
+          "parameters": [
+            4,
+            "nevermind"
+          ]
+        },
+        {
+          "code": 118,
+          "indent": 1,
+          "parameters": [
+            "end"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\v[104]>Come back soon."
+          ]
+        },
+        {
+          "code": 115,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    }
+  ],
+  "x": 15,
+  "y": 9
+}

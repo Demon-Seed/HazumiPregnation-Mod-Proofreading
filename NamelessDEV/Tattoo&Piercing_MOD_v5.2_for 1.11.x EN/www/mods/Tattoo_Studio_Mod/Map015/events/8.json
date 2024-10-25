@@ -1,0 +1,548 @@
+{
+  "id": 8,
+  "name": "supervisor",
+  "note": "",
+  "pages": [
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "People1",
+        "direction": 2,
+        "pattern": 1,
+        "characterIndex": 2
+      },
+      "list": [
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "I am the supervisor."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "Is there an issue?"
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 0,
+          "parameters": [
+            [
+              "No, I'm fine.",
+              "I want a part-time job."
+            ],
+            0,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 0,
+          "parameters": [
+            0,
+            "No, I'm fine."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<Supervisor>Take your time."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 0,
+          "parameters": [
+            1,
+            "I want a part-time job."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<Supervisor>All you need to do is help our tattoo artist "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "with all things they need."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<Supervisor>Is that okay?"
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 1,
+          "parameters": [
+            1
+          ]
+        },
+        {
+          "code": 102,
+          "indent": 1,
+          "parameters": [
+            [
+              "That's kind of...",
+              "I'm still Interested."
+            ],
+            0,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            0,
+            "That's kind of..."
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 2,
+          "parameters": [
+            "選択肢ヘルプ"
+          ]
+        },
+        {
+          "code": 408,
+          "indent": 2,
+          "parameters": [
+            "Jobs are for squares."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<Supervisor>Of course."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 402,
+          "indent": 1,
+          "parameters": [
+            1,
+            "I'm still Interested."
+          ]
+        },
+        {
+          "code": 108,
+          "indent": 2,
+          "parameters": [
+            "選択肢ヘルプ"
+          ]
+        },
+        {
+          "code": 408,
+          "indent": 2,
+          "parameters": [
+            "All remaining AP will be consumed at a rate of "
+          ]
+        },
+        {
+          "code": 408,
+          "indent": 2,
+          "parameters": [
+            "5000 yen per AP."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<Supervisor>Please lend me some assistance then."
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            1,
+            34,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "\\n<Supervisor>I think it's getting late, so please come back again."
+          ]
+        },
+        {
+          "code": 115,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            107,
+            107,
+            0,
+            1,
+            34
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            32,
+            32,
+            2,
+            1,
+            107
+          ]
+        },
+        {
+          "code": 223,
+          "indent": 2,
+          "parameters": [
+            [
+              -255,
+              -255,
+              -255,
+              0
+            ],
+            20,
+            false
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 2,
+          "parameters": [
+            {
+              "name": "Raise2",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "Worked \\V[107] hours at the Tattoo Studio!"
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            21,
+            21,
+            0,
+            0,
+            5000
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 2,
+          "parameters": [
+            21,
+            21,
+            3,
+            1,
+            107
+          ]
+        },
+        {
+          "code": 125,
+          "indent": 2,
+          "parameters": [
+            0,
+            1,
+            21
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 2,
+          "parameters": [
+            {
+              "name": "Bell3",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\V[21] yen was received!"
+          ]
+        },
+        {
+          "code": 223,
+          "indent": 2,
+          "parameters": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            20,
+            true
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 2,
+          "parameters": [
+            22
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<Supervisor>I appreciate your work."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 2,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "\\n<Supervisor>While there won't be much to do, you're welcome to "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 2,
+          "parameters": [
+            "come back again."
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 404,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    }
+  ],
+  "x": 18,
+  "y": 9
+}

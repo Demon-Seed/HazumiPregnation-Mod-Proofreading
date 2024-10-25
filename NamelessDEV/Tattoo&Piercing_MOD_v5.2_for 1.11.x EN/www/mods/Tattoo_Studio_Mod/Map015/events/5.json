@@ -1,0 +1,980 @@
+{
+  "id": 5,
+  "name": "EV005",
+  "note": "",
+  "pages": [
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": false,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Student_girl_1",
+        "direction": 4,
+        "pattern": 1,
+        "characterIndex": 0
+      },
+      "list": [
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            104,
+            104,
+            0,
+            4,
+            "'Scaredy Girl'"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>I'm so nervous, what if it hurts a lot, "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "no, I gotta calm down, just breath in breath out."
+          ]
+        },
+        {
+          "code": 213,
+          "indent": 0,
+          "parameters": [
+            7,
+            1,
+            false
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            7,
+            {
+              "list": [
+                {
+                  "code": 14,
+                  "parameters": [
+                    0,
+                    0
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 14,
+              "parameters": [
+                0,
+                0
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<Scaredy Girl's Friend>\\{AUCH, THAT HURTED!!!!"
+          ]
+        },
+        {
+          "code": 213,
+          "indent": 0,
+          "parameters": [
+            5,
+            1,
+            false
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>NOOOOOOO."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>I wanna go home now, but i can't leave her alone."
+          ]
+        },
+        {
+          "code": 213,
+          "indent": 0,
+          "parameters": [
+            7,
+            1,
+            false
+          ]
+        },
+        {
+          "code": 205,
+          "indent": 0,
+          "parameters": [
+            7,
+            {
+              "list": [
+                {
+                  "code": 14,
+                  "parameters": [
+                    0,
+                    0
+                  ],
+                  "indent": null
+                },
+                {
+                  "code": 0
+                }
+              ],
+              "repeat": false,
+              "skippable": false,
+              "wait": true
+            }
+          ]
+        },
+        {
+          "code": 505,
+          "indent": 0,
+          "parameters": [
+            {
+              "code": 14,
+              "parameters": [
+                0,
+                0
+              ],
+              "indent": null
+            }
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<Scaredy Girl's Friend>\\{AUCH!!!!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>I'm not sure anymore, but I already payed that "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "huge membership"
+          ]
+        },
+        {
+          "code": 123,
+          "indent": 0,
+          "parameters": [
+            "A",
+            0
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 2,
+            "indent": null
+          },
+          {
+            "code": 2,
+            "indent": null
+          },
+          {
+            "code": 2,
+            "indent": null
+          },
+          {
+            "code": 18,
+            "indent": null
+          },
+          {
+            "code": 3,
+            "indent": null
+          },
+          {
+            "code": 3,
+            "indent": null
+          },
+          {
+            "code": 3,
+            "indent": null
+          },
+          {
+            "code": 17,
+            "indent": null
+          },
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 3,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    },
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "A",
+        "selfSwitchValid": true,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Student_girl_1",
+        "direction": 8,
+        "pattern": 1,
+        "characterIndex": 0
+      },
+      "list": [
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            104,
+            104,
+            0,
+            4,
+            "'Scaredy Girl'"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>L-looks like the artist is almost done,"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "B-but, i-i'm not ready."
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<Tattoo Artist>Ok young lady, we're done here."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<Scaredy Girl's Friend>Really, Thanks a lot."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<Tattoo Artist>Next please!!"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>It's my turn I hope doesn't hurt to much."
+          ]
+        },
+        {
+          "code": 223,
+          "indent": 0,
+          "parameters": [
+            [
+              -255,
+              -255,
+              -255,
+              0
+            ],
+            30,
+            true
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 0,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 0,
+          "parameters": [
+            {
+              "name": "Move",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 123,
+          "indent": 0,
+          "parameters": [
+            "B",
+            0
+          ]
+        },
+        {
+          "code": 123,
+          "indent": 0,
+          "parameters": [
+            "A",
+            1
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 0,
+          "parameters": [
+            "var key = [15, 7, 'A']"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 0,
+          "parameters": [
+            "$gameSelfSwitches.setValue(key, true)"
+          ]
+        },
+        {
+          "code": 223,
+          "indent": 0,
+          "parameters": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            60,
+            false
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    },
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "B",
+        "selfSwitchValid": true,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Student_girl_2",
+        "direction": 8,
+        "pattern": 1,
+        "characterIndex": 0
+      },
+      "list": [
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            104,
+            104,
+            0,
+            4,
+            "'Tattooed Girl'"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>my body hurts a little but I really like how "
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "the tattoos looks on me"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>I wonder how many time the tattoos of my friend"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "take."
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            371,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\v[104]>Looks like my friend is almost ready to go."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<Tattoo Artist>Ok young lady, it wasn't that bad right?."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<Scaredy Girl>yeah you're right, thank you."
+          ]
+        },
+        {
+          "code": 223,
+          "indent": 1,
+          "parameters": [
+            [
+              -255,
+              -255,
+              -255,
+              0
+            ],
+            30,
+            true
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 1,
+          "parameters": [
+            60
+          ]
+        },
+        {
+          "code": 123,
+          "indent": 1,
+          "parameters": [
+            "B",
+            1
+          ]
+        },
+        {
+          "code": 123,
+          "indent": 1,
+          "parameters": [
+            "C",
+            0
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "var key = [15, 7, 'A']"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "$gameSelfSwitches.setValue(key, false)"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "var key = [15, 7, 'B']"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "$gameSelfSwitches.setValue(key, true)"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "var key = [15, 12, 'A']"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "$gameSelfSwitches.setValue(key, true)"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "var key = [15, 3, 'A']"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "$gameSelfSwitches.setValue(key, true)"
+          ]
+        },
+        {
+          "code": 355,
+          "indent": 1,
+          "parameters": [
+            "var key = [15, 10, 'A']"
+          ]
+        },
+        {
+          "code": 655,
+          "indent": 1,
+          "parameters": [
+            "$gameSelfSwitches.setValue(key, true)"
+          ]
+        },
+        {
+          "code": 203,
+          "indent": 1,
+          "parameters": [
+            0,
+            0,
+            11,
+            13,
+            0
+          ]
+        },
+        {
+          "code": 250,
+          "indent": 1,
+          "parameters": [
+            {
+              "name": "Move",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 223,
+          "indent": 1,
+          "parameters": [
+            [
+              0,
+              0,
+              0,
+              0
+            ],
+            60,
+            false
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    },
+    {
+      "conditions": {
+        "actorId": 1,
+        "actorValid": false,
+        "itemId": 1,
+        "itemValid": false,
+        "selfSwitchCh": "C",
+        "selfSwitchValid": true,
+        "switch1Id": 1,
+        "switch1Valid": false,
+        "switch2Id": 1,
+        "switch2Valid": false,
+        "variableId": 1,
+        "variableValid": false,
+        "variableValue": 0
+      },
+      "directionFix": false,
+      "image": {
+        "tileId": 0,
+        "characterName": "Student_girl_1",
+        "direction": 4,
+        "pattern": 1,
+        "characterIndex": 0
+      },
+      "list": [
+        {
+          "code": 122,
+          "indent": 0,
+          "parameters": [
+            104,
+            104,
+            0,
+            4,
+            "'Scaredy Girl'"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "\\n<\\v[104]>i-it wasn't that bad, it hurted only a little"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "and here i was scared by that"
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "moveFrequency": 3,
+      "moveRoute": {
+        "list": [
+          {
+            "code": 0,
+            "parameters": []
+          }
+        ],
+        "repeat": true,
+        "skippable": false,
+        "wait": false
+      },
+      "moveSpeed": 3,
+      "moveType": 0,
+      "priorityType": 1,
+      "stepAnime": false,
+      "through": false,
+      "trigger": 0,
+      "walkAnime": true
+    }
+  ],
+  "x": 11,
+  "y": 13
+}

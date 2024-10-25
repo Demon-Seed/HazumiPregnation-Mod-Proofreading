@@ -1,0 +1,1362 @@
+{
+  "id": 20,
+  "list": [
+    {
+      "code": 356,
+      "indent": 0,
+      "parameters": [
+        "Notification Enable true"
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        33,
+        33,
+        1
+      ]
+    },
+    {
+      "code": 356,
+      "indent": 0,
+      "parameters": [
+        "選択肢カラム数 0"
+      ]
+    },
+    {
+      "code": 102,
+      "indent": 0,
+      "parameters": [
+        [
+          "if(v[242]==2)Return Home",
+          "if(v[249]==2)Hotel",
+          "if(v[244]==2)Convenience Store",
+          "if(v[245]==2)Pharmacy",
+          "if(v[246]==2)Furniture Store"
+        ],
+        -1,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        0,
+        "if(v[242]==2)Return Home"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        242,
+        242,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        303,
+        303,
+        0,
+        0,
+        6
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        1,
+        "if(v[249]==2)Hotel"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        45,
+        0
+      ]
+    },
+    {
+      "code": 108,
+      "indent": 2,
+      "parameters": [
+        "ついでおじさん宅"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "[141,142,143].contains( $gameVariables.value(81) )"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        17
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        10
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 3,
+      "parameters": [
+        303,
+        303,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 115,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        14
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2
+    },
+    {
+      "code": 411,
+      "indent": 1
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        10
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        10
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2
+    },
+    {
+      "code": 412,
+      "indent": 1
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        249,
+        249,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        2,
+        "if(v[244]==2)Convenience Store"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        17
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        15
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        244,
+        244,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        3,
+        "if(v[245]==2)Pharmacy"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        15
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        245,
+        245,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        4,
+        "if(v[246]==2)Furniture Store"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        11
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        18
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        34
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        246,
+        246,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1
+    },
+    {
+      "code": 404,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 102,
+      "indent": 0,
+      "parameters": [
+        [
+          "if(v[253]==2)Cafe"
+        ],
+        -1,
+        -1,
+        2,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        0,
+        "if(v[253]==2)Cafe"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        22
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        17
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        16
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        253,
+        253,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 102,
+      "indent": 0,
+      "parameters": [
+        [
+          "if(v[243]==2)National Institute",
+          "if(v[248]==2)OB/GYN",
+          "if(v[247]==2)Hot Spring",
+          "if(v[251]==2)Slum",
+          "if(v[252]==2)Nudist Beach"
+        ],
+        -1,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        0,
+        "if(v[243]==2)National Institute"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        31,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        7
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        13
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        34
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        243,
+        243,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2
+    },
+    {
+      "code": 411,
+      "indent": 1
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        21
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        243,
+        243,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2
+    },
+    {
+      "code": 412,
+      "indent": 1
+    },
+    {
+      "code": 0,
+      "indent": 1
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        1,
+        "if(v[248]==2)OB/GYN"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        16
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        22
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        248,
+        248,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        303,
+        303,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        2,
+        "if(v[247]==2)Hot Spring"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        13
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        11
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        13
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        247,
+        247,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        3,
+        "if(v[251]==2)Slum"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        18
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        14
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        21
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        303,
+        303,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        251,
+        251,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        4,
+        "if(v[252]==2)Nudist Beach"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        21
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        252,
+        252,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 102,
+      "indent": 0,
+      "parameters": [
+        [
+          "if(v[250]==2)Hair Salon",
+          "if(v[254]==2)Tattoo Studio"
+        ],
+        -1,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        0,
+        "if(v[250]==2)Hair Salon"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        6
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        14
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        10
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        250,
+        250,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        1,
+        "if(v[254]==2)Tattoo Studio"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        15
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        15
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        13
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        254,
+        254,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 102,
+      "indent": 0,
+      "parameters": [
+        [
+          "if(v[255]==2)City Park",
+          "if(v[256]==2)Sex Shop"
+        ],
+        -1,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        0,
+        "if(v[255]==2)City Park"
+      ]
+    },
+    {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        999,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        33
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        33
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        40
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        255,
+        255,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        303,
+        303,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 411,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        32
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        33
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        40
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        255,
+        255,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 2,
+      "parameters": [
+        303,
+        303,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    },
+    {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        1,
+        "if(v[256]==2)Sex Shop"
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        28,
+        28,
+        0,
+        0,
+        40
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        29,
+        29,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        30,
+        30,
+        0,
+        0,
+        13
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        256,
+        256,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "code": 122,
+      "indent": 1,
+      "parameters": [
+        303,
+        303,
+        0,
+        0,
+        8
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 102,
+      "indent": 0,
+      "parameters": [
+        [
+          "Stay Here"
+        ],
+        0,
+        -1,
+        0,
+        0
+      ]
+    },
+    {
+      "code": 402,
+      "indent": 0,
+      "parameters": [
+        0,
+        "Stay Here"
+      ]
+    },
+    {
+      "code": 121,
+      "indent": 1,
+      "parameters": [
+        33,
+        33,
+        0
+      ]
+    },
+    {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    },
+    {
+      "code": 404,
+      "indent": 0,
+      "parameters": []
+    },
+    {
+      "code": 0,
+      "indent": 0
+    }
+  ],
+  "name": "Transporter Destinations",
+  "switchId": 1,
+  "trigger": 0
+}
