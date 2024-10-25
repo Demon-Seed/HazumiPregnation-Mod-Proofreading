@@ -12176,7 +12176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(Door on repairs)"
+                                "(Door being repaired.)"
                             ]
                         },
                         {
@@ -12329,7 +12329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>So was written."
+                                "\\n<\\n[1]>So it's written."
                             ]
                         },
                         {
@@ -12465,7 +12465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>So was written."
+                                "\\n<\\n[1]>So it's written."
                             ]
                         },
                         {
@@ -14554,14 +14554,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n[1] sent her to the hospital. Thanks to sending to "
+                                "\\n[1] sent her to the hospital. Thanks to your "
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "hospital early, there is not yet any grave damage to her."
+                                "quick action, she'd not yet been in any grave danger."
                             ]
                         },
                         {
@@ -14596,7 +14596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Did a good thing!"
+                                "\\n<\\n[1]>I did a good thing!"
                             ]
                         },
                         {

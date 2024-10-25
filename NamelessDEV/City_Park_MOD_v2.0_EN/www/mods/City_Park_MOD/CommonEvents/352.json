@@ -15,7 +15,7 @@
       "code": 401,
       "indent": 0,
       "parameters": [
-        "Do you want to store you clone on it?"
+        "Do you want to store you're clothes?"
       ]
     },
     {
@@ -24,7 +24,7 @@
       "parameters": [
         [
           "if(s[2]==0)Store all my clothes",
-          "if(s[3]==0)Store Just my bra",
+          "if(s[3]==0)Store just my bra",
           "if(s[2]==1||s[3]==1)Put my clothes on",
           "Leave"
         ],
@@ -134,7 +134,7 @@
       "code": 401,
       "indent": 1,
       "parameters": [
-        "\\n<\\n[1]>I don't care what other people would think of "
+        "\\n<\\n[1]>I don't care what other people think of "
       ]
     },
     {
@@ -165,7 +165,7 @@
       "indent": 0,
       "parameters": [
         1,
-        "if(s[3]==0)Store Just my bra"
+        "if(s[3]==0)Store just my bra"
       ]
     },
     {
