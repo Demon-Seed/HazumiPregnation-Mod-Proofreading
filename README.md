@@ -1,5 +1,5 @@
 # How to Apply Patch
-# Disclaimer: None of these mods function as is, the original mod needs to be installed first, then these patches can be applied. 
+## Disclaimer: None of these mods function as is, the original mod needs to be installed first, then these patches can be applied. 
 1. Hit the green code button.
 2. Download as Zip.
 3. Merge the www folders contained within the mod folders into the www folder in your game files. The order doesn't matter.
