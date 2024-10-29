@@ -1,6 +1,6 @@
 {
   "id": 53,
-  "name": "Teatcher_new",
+  "name": "Teacher_new",
   "note": "",
   "pages": [
     {
@@ -36,7 +36,7 @@
             104,
             0,
             4,
-            "'Teatcher'"
+            "'Teacher'"
           ]
         },
         {
@@ -90,7 +90,7 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\n[1]> Yes. Misis Teatcher, i'm close to my due "
+            "\\n<\\n[1]> Yes. Misis Teacher, i'm close to my due "
           ]
         },
         {
@@ -176,7 +176,7 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\n[1]>I Agree Misis Teatcher."
+            "\\n<\\n[1]>I Agree Misis Teacher."
           ]
         },
         {
@@ -2968,7 +2968,7 @@
           "code": 401,
           "indent": 2,
           "parameters": [
-            "\\n<\\n[1]>Misis teatcher, i'm done all test. "
+            "\\n<\\n[1]>Misis teacher, i'm done all test. "
           ]
         },
         {
@@ -3804,7 +3804,7 @@
           "code": 401,
           "indent": 2,
           "parameters": [
-            "\\n<Teatcher> Ambulance will arrive in few minutes! "
+            "\\n<Teacher> Ambulance will arrive in few minutes! "
           ]
         },
         {
@@ -3864,7 +3864,7 @@
           "code": 401,
           "indent": 2,
           "parameters": [
-            "\\n<Teatcher> You are do your Exam miss \\n[1]! "
+            "\\n<Teacher> You are do your Exam miss \\n[1]! "
           ]
         },
         {
@@ -4731,7 +4731,7 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\v[104]>Please, sit down, and listen the lesson!"
+            "\\n<\\v[104]>Please sit down and pay attention!"
           ]
         },
         {
@@ -4803,7 +4803,7 @@
             104,
             0,
             4,
-            "'Teatcher'"
+            "'Teacher'"
           ]
         },
         {

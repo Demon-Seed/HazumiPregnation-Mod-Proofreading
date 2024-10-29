@@ -131,8 +131,8 @@
           "indent": 0,
           "parameters": [
             [
-              "Be in the lesson ",
-              "Don't Do It Now"
+              "Participate ",
+              "Not Now"
             ],
             1,
             0,
@@ -145,7 +145,7 @@
           "indent": 0,
           "parameters": [
             0,
-            "Be in the lesson "
+            "Participate "
           ]
         },
         {
@@ -542,7 +542,7 @@
           "indent": 0,
           "parameters": [
             1,
-            "Don't Do It Now"
+            "Not Now"
           ]
         },
         {

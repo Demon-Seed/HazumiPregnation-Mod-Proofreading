@@ -95,7 +95,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<Tattoo Artist>Hey! don't you see I'm busy right now."
+            "\\n<Tattoo Artist>Hey! Don't you see I'm busy right now!"
           ]
         },
         {
@@ -174,14 +174,14 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<\\n[1]>Better don't disturb the Artist while he's "
+            "\\n<\\n[1]>Better not disturb the artist while he's "
           ]
         },
         {
           "code": 401,
           "indent": 0,
           "parameters": [
-            "working"
+            "working."
           ]
         },
         {

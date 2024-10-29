@@ -9,7 +9,7 @@
     "type": 0,
     "variance": 20
   },
-  "description": "Increases the chance to get pregnant with multiples.\nHighly dangerous, can be stack with Ovulation Inducer.",
+  "description": "Increases the chance to get pregnant with multiples.\nHighly dangerous, can stack with Ovulation Inducer.",
   "effects": [
     {
       "code": 44,

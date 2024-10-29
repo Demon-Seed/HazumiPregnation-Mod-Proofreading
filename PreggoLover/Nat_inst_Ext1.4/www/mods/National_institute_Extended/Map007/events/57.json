@@ -1,6 +1,6 @@
 {
   "id": 57,
-  "name": "Ashley the Masagist",
+  "name": "Ashley the Masseur",
   "note": "",
   "pages": [
     {
@@ -36,7 +36,7 @@
             104,
             0,
             4,
-            "'Ashley the Masagist'"
+            "'Ashley the Masseur'"
           ]
         },
         {
@@ -363,7 +363,7 @@
           "code": 401,
           "indent": 2,
           "parameters": [
-            "I will go to my place and listen teatcher."
+            "I will go to my place and listen teacher."
           ]
         },
         {
@@ -1213,7 +1213,7 @@
           "code": 401,
           "indent": 2,
           "parameters": [
-            "Teatcher is speeking."
+            "Teacher is speeking."
           ]
         },
         {
@@ -1250,7 +1250,7 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\v[104]>Psst, teatcher speeking!"
+            "\\n<\\v[104]>Psst, the teacher is speaking!"
           ]
         },
         {
@@ -1322,7 +1322,7 @@
             104,
             0,
             4,
-            "'Ashley the Masagist'"
+            "'Ashley the Masseur'"
           ]
         },
         {
@@ -1697,7 +1697,7 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "Teatcher is abaut to start the another lesson."
+            "Teacher is abaut to start the another lesson."
           ]
         },
         {
