@@ -1246,7 +1246,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\v[104]>I'm sorry miss \\n[1]. For this job we need "
+                        "\\n<\\v[104]>I'm sorry Miss \\n[1]. For this job we need "
                     ]
                 },
                 {
@@ -2780,7 +2780,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>Ah, miss \\n[1] my dear. You WILL serve "
+                        "\\n<\\v[104]>Ah, Miss \\n[1] my dear. You WILL serve "
                     ]
                 },
                 {
@@ -2818,7 +2818,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>You need money and reputation miss \\n[1]?"
+                        "\\n<\\v[104]>You need money and reputation Miss \\n[1]?"
                     ]
                 },
                 {
@@ -2914,7 +2914,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>I will help you miss \\n[1]. I will help you "
+                        "\\n<\\v[104]>I will help you Miss \\n[1]. I will help you "
                     ]
                 },
                 {
@@ -3544,7 +3544,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\v[104]>Now you can proceed your work, miss \\n[1]"
+                        "\\n<\\v[104]>Now you can proceed your work, Miss \\n[1]"
                     ]
                 },
                 {

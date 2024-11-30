@@ -82,7 +82,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<\\n[1]>It's a kitty sleeping in the sofa."
+            "\\n<\\n[1]>There's a kitty sleeping on the sofa."
           ]
         },
         {
@@ -176,7 +176,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "it's name is \"Manager\"."
+            "its name is \"Manager\"."
           ]
         },
         {
@@ -193,7 +193,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<Supervisor>It just showed up one day in the studio, "
+            "\\n<Supervisor>It just showed up in the studio one day "
           ]
         },
         {
@@ -234,7 +234,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<Supervisor>Some day the Receptionist called to me"
+            "\\n<Supervisor>Some day the receptionist called to me"
           ]
         },
         {
@@ -320,14 +320,14 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<Receptionist>Supervisor!! you promised never to tell this "
+            "\\n<Receptionist>Supervisor!! You promised never to tell"
           ]
         },
         {
           "code": 401,
           "indent": 0,
           "parameters": [
-            "to anyone!"
+            "anyone!!"
           ]
         },
         {
@@ -344,7 +344,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<Supervisor>Hahaha, I'm sorry "
+            "\\n<Supervisor>Hahaha, I'm sorry. "
           ]
         },
         {
@@ -449,7 +449,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<\\n[1]>Then it's name is \"Manager\" what a curious name."
+            "\\n<\\n[1]>Then its name is \"Manager\" what a curious name."
           ]
         },
         {
@@ -630,7 +630,7 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\n[1]>Hello Manager, How are you?"
+            "\\n<\\n[1]>Hello Manager, how are you?"
           ]
         },
         {
@@ -668,14 +668,14 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\n[1]>Hello Manager, here is my Membership. with a"
+            "\\n<\\n[1]>Hello Manager, here is my Membership"
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "print of you on it."
+            "with a print of you on it."
           ]
         },
         {

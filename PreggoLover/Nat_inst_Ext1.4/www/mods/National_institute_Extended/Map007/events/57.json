@@ -1359,14 +1359,14 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<\\v[104]>Hey! Are you ok? Your belly is so massive! "
+            "\\n<\\v[104]>Hey, are you ok? Your belly is so massive!"
           ]
         },
         {
           "code": 401,
           "indent": 0,
           "parameters": [
-            "It isn't normal."
+            "That isn't normal."
           ]
         },
         {
@@ -1394,7 +1394,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<\\n[1]>My Baby, doesn't want to be born."
+            "\\n<\\n[1]>My baby seems reluctant to be born."
           ]
         },
         {
@@ -1411,7 +1411,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<\\v[104]>Maybe i will help you?"
+            "\\n<\\v[104]>Maybe I can help you?"
           ]
         },
         {
@@ -1450,28 +1450,28 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\v[104]>I know a technique, with is start a labor "
+            "\\n<\\v[104]>I know a technique that can help start your labor."
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "pain. I will do a massage to your lower abdomen."
+            "I will massage to your lower abdomen."
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "In can be a bit pain, so hold up. It will help you to "
+            "It might be a bit painful, so try to hold on."
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "birth soon."
+            "It'll help you progress toward giving birth."
           ]
         },
         {
@@ -1624,14 +1624,14 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\n[1]>Ouch! You are pounching my belly! Careful! "
+            "\\n<\\n[1]>Ouch! You are hitting my belly!"
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "There is a baby inside!"
+            "Be careful, there's a baby in there!"
           ]
         },
         {
@@ -1648,21 +1648,21 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\v[104]>Sorry, that technique isn't very careful "
+            "\\n<\\v[104]>Sorry, this technique is uncomfortable,"
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "to mother. But it can save the baby. With that huge "
+            "but it could save the baby. With that size,"
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "size, you may won't be able to give birth on your own. "
+            "you may not be able to give birth naturally."
           ]
         },
         {
@@ -1690,14 +1690,14 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\n[1]>I hope, you don't hurt the baby. Now I go study"
+            "\\n<\\n[1]>I just hope you didn't hurt the baby."
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "Teacher is abaut to start the another lesson."
+            "I gotta go, the teacher's starting the next lesson."
           ]
         },
         {
@@ -1714,14 +1714,14 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\v[104]>Hope that you and your baby will be fine, "
+            "\\n<\\v[104]>I hope that you and your baby stay safe"
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "and you birth soon."
+            "and that you give birth soon."
           ]
         },
         {
@@ -1758,14 +1758,14 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\v[104]>Do not waste time! Go to your Gynecologist! "
+            "\\n<\\v[104]>Do not waste any time, go to your gynecologist!"
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "It is wery risky for your health!"
+            "This could be very risky to your health!"
           ]
         },
         {

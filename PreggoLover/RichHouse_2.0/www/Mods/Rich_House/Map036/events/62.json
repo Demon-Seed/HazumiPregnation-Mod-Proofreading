@@ -1250,7 +1250,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Smaar>Well miss \\n[1], do you have a problem?"
+                        "\\n<Smaar>Well Miss \\n[1], do you have a problem?"
                     ]
                 },
                 {
@@ -1291,7 +1291,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Smaar>Are you sure miss \\n[1]? You are loking bad..."
+                        "\\n<Smaar>Are you sure Miss \\n[1]? You are loking bad..."
                     ]
                 },
                 {

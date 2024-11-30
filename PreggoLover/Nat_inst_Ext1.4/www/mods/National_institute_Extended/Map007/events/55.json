@@ -1,6 +1,6 @@
 {
   "id": 55,
-  "name": "Fuba's Friend",
+  "name": "Fuba Friend",
   "note": "",
   "pages": [
     {
@@ -36,7 +36,7 @@
             104,
             0,
             4,
-            "'Fuba's Friend'"
+            "'Fuba friend'"
           ]
         },
         {
@@ -88,14 +88,14 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\v[104]>Hey! My friend \"Fuba\" is looking for someone"
+            "\\n<\\v[104]>Hey! My frend \"Fuba\" is looking for someone"
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "who can help him... You can find him in mens restroom."
+            " who can help him... You can Find him in male restroom"
           ]
         },
         {
@@ -119,7 +119,7 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\n[1]>Get lost!"
+            "\\n<\\n[1]> Get lost!"
           ]
         },
         {
@@ -191,7 +191,7 @@
             104,
             0,
             4,
-            "'Fuba's Friend'"
+            "'Fuba friend'"
           ]
         },
         {

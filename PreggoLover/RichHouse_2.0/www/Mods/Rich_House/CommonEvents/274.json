@@ -661,7 +661,7 @@
       "code": 401,
       "indent": 1,
       "parameters": [
-        "\\n<Smaar>Push miss \\n[1], just push! It is coming out!"
+        "\\n<Smaar>Push Miss \\n[1], just push! It is coming out!"
       ]
     },
     {
@@ -712,7 +712,7 @@
       "code": 401,
       "indent": 1,
       "parameters": [
-        "\\n<Smaar>Just concentrate miss \\n[1], "
+        "\\n<Smaar>Just concentrate Miss \\n[1], "
       ]
     },
     {
@@ -947,21 +947,21 @@
       "code": 655,
       "indent": 1,
       "parameters": [
-        "if (v[359]){ v[102] += 'and \\x1bc[2]\\x1bv[359]\\x1bc[0] boy、\\n' }"
+        "if (v[359]){ v[102] += 'and \\x1bc[2]\\x1bv[359]\\x1bc[0] boy\\n' }"
       ]
     },
     {
       "code": 655,
       "indent": 1,
       "parameters": [
-        "if (v[360]){ v[102] += 'and \\x1bc[2]\\x1bv[360]\\x1bc[0] girl、\\n' }"
+        "if (v[360]){ v[102] += 'and \\x1bc[2]\\x1bv[360]\\x1bc[0] girl\\n' }"
       ]
     },
     {
       "code": 655,
       "indent": 1,
       "parameters": [
-        "v[102] += 'was born！'"
+        "v[102] += 'were born！'"
       ]
     },
     {
