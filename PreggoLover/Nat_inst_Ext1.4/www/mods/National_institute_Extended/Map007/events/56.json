@@ -132,14 +132,14 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<\\v[104]>You are full term? I have a special deal "
+            "\\n<\\v[104]>Are you full term? If you're interested"
           ]
         },
         {
           "code": 401,
           "indent": 0,
           "parameters": [
-            "for you. Do you interest? I will pay good!"
+            "I have a special deal for you.\nI'll pay good!"
           ]
         },
         {
@@ -178,7 +178,7 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\n[1]>And what do you want to do with me?"
+            "\\n<\\n[1]>What did you want from me?"
           ]
         },
         {
@@ -195,69 +195,21 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\v[104]>I want to take some pictures of you. For my"
+            "\\n<\\v[104]>I'd be taking pictures of you for my website."
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "website. I need take big amount of pictures. So if you"
+            "I'd like to take plenty of pictures. So we'll start"
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "wait for me, we will start after i finish lessons today."
-          ]
-        },
-        {
-          "code": 101,
-          "indent": 1,
-          "parameters": [
-            "",
-            7,
-            0,
-            2
-          ]
-        },
-        {
-          "code": 401,
-          "indent": 1,
-          "parameters": [
-            "\\n<\\n[1]>It's seems to be a quite easy! Ok!. "
-          ]
-        },
-        {
-          "code": 401,
-          "indent": 1,
-          "parameters": [
-            "How many you will pay me?"
-          ]
-        },
-        {
-          "code": 101,
-          "indent": 1,
-          "parameters": [
-            "",
-            0,
-            0,
-            2
-          ]
-        },
-        {
-          "code": 401,
-          "indent": 1,
-          "parameters": [
-            "\\n<\\v[104]>500 Yen for a picture. How many we take - "
-          ]
-        },
-        {
-          "code": 401,
-          "indent": 1,
-          "parameters": [
-            "that many you will get payed."
+            "after my lessons today if you'll wait for me."
           ]
         },
         {
@@ -274,7 +226,55 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\n[1]>Okay, i will wait you here, on last desk."
+            "\\n<\\n[1]>Seems easy enough! I'll do it!"
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "How much will I be paid?"
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\v[104]>500 Yen a picture."
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "However many we take determines your pay."
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            7,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "\\n<\\n[1]>Okay, I'll wait here on the last desk."
           ]
         },
         {
@@ -311,7 +311,7 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\n[1]>No sorry. Not interest."
+            "\\n<\\n[1]>No sorry, not interested."
           ]
         },
         {
@@ -400,21 +400,21 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<\\v[104]>Your belly is too big, you are definitely "
+            "\\n<\\v[104]>Your belly is too big! You're no doubt overdue,"
           ]
         },
         {
           "code": 401,
           "indent": 0,
           "parameters": [
-            "overdue! I dont like it! Go and give birth! It is"
+            "and I don't like it! Go and give birth already!"
           ]
         },
         {
           "code": 401,
           "indent": 0,
           "parameters": [
-            "unsafe to hold the baby inside you that long time."
+            "Holding the baby inside of you for that long\nis dangerous!"
           ]
         },
         {
@@ -431,14 +431,14 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<\\v[104]>Come back if you will be pregnant and full"
+            "\\n<\\v[104]>Come back when you are pregnant and full term."
           ]
         },
         {
           "code": 401,
           "indent": 0,
           "parameters": [
-            "term. I will deal with you."
+            "I'll have a deal for you then."
           ]
         },
         {

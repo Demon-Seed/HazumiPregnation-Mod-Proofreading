@@ -716,7 +716,7 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\n[1]>Umm, yeah. The baby doesn't want to be born"
+            "\\n<\\n[1]>Umm, yeah. The baby doesn't want to be born."
           ]
         },
         {
@@ -743,7 +743,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<Electrical Appliance Geek>\\n[1] You need to see a doctor!!!"
+            "\\n<Electrical Appliance Geek>\\n[1] you need to see a doctor!!!"
           ]
         },
         {
