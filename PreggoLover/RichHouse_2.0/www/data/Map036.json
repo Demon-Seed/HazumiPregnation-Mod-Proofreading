@@ -43965,7 +43965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Maid>It's too late... Ambulance cannot "
+                                "\\n<Maid>It's too late... ambulance cannot "
                             ]
                         },
                         {
@@ -46402,7 +46402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>I'm going to call ambulance. They take you to"
+                                "\\n<\\n[1]>I'm going to call an ambulance. They take you to"
                             ]
                         },
                         {
@@ -56023,7 +56023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>I need to call Ambulance for her. I cannot "
+                                "\\n<\\n[1]>I need to call an ambulance for her. I cannot "
                             ]
                         },
                         {

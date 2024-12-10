@@ -1404,7 +1404,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<\\v[104]>Maybe I can help you?"
+            "\\n<\\v[104]>Maybe I can help you out?\nThough I must to warn you...\nIf you've taken aphrodisiacs,\nthis may be... stimulating."
           ]
         },
         {
@@ -1450,14 +1450,14 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "It might be a bit painful, but try to hold on."
+            "It may be a little painful, but try to hold on."
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "It'll consist of a massage to your lower abdomen"
+            "It will consist of a massage to your lower abdomen"
           ]
         },
         {
@@ -1617,14 +1617,14 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\n[1]>Ouch! You are hitting my belly!"
+            "\\n<\\n[1]>Ow! You're just hitting my belly!"
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "Be careful, there's a baby in there!"
+            "Be careful! There's a baby in there!"
           ]
         },
         {
@@ -1641,21 +1641,21 @@
           "code": 401,
           "indent": 1,
           "parameters": [
-            "\\n<\\v[104]>Sorry, this technique is uncomfortable,"
+            "\\n<\\v[104]>Sorry, this technique can be uncomfortable,"
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "but it could save the baby. With that size,"
+            "but it could save the baby."
           ]
         },
         {
           "code": 401,
           "indent": 1,
           "parameters": [
-            "you may not be able to give birth naturally."
+            "With that size, you may not be able\nto give birth naturally."
           ]
         },
         {
