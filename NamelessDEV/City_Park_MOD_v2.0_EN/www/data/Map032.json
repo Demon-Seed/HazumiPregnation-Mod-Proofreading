@@ -10680,7 +10680,7 @@
                                 104,
                                 0,
                                 4,
-                                "'thinking artist'"
+                                "'Artist in Thought'"
                             ]
                         },
                         {
@@ -12719,7 +12719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Almost nobody came here in winter."
+                                "\\n<\\n[1]>Almost nobody comes here in the winter."
                             ]
                         },
                         {
@@ -12991,14 +12991,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Door is sealed by ice,"
+                                "\\n<\\n[1]>The door is sealed by ice."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "it's solidly frozen and I can't open it."
+                                "It's frozen solid, I can't open it."
                             ]
                         },
                         {

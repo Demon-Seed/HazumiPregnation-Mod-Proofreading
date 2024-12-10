@@ -79,7 +79,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<\\n[1]> Hi \\n[2]! Wow, your belly is quite big already!"
+            "\\n<\\n[1]>Hey \\n[2]! Wow, your belly is quite big already!"
           ]
         },
         {
@@ -127,7 +127,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<\\n[1]> How many babies have you already had?"
+            "\\n<\\n[1]>How many babies have you already had?"
           ]
         },
         {

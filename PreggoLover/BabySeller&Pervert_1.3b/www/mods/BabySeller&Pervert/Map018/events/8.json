@@ -259,28 +259,21 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "My frend is looking for Full term pregnant ladyes!"
+            "My friend is looking for full term pregnant ladies!"
           ]
         },
         {
           "code": 401,
           "indent": 0,
           "parameters": [
-            "He is offen in Gynecologist departament. Find him there..."
+            "He is usually in the OB/GYN, you can find him there..."
           ]
         },
         {
           "code": 401,
           "indent": 0,
           "parameters": [
-            "He will give you a offer."
-          ]
-        },
-        {
-          "code": 401,
-          "indent": 0,
-          "parameters": [
-            "I'm not tell you anything if he ask!"
+            "Talk to him and he will give you an offer."
           ]
         },
         {
@@ -308,7 +301,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<\\n[1]>ok..."
+            "\\n<\\n[1]>Okay..."
           ]
         },
         {
