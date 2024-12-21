@@ -2593,7 +2593,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "The party's ongoing; your co-worker needs help."
+                        "The party's ongoing your co-worker needs help."
                     ]
                 },
                 {
@@ -3333,14 +3333,14 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\v[104]>It is not yet time for this child to be "
+                        "\\n<\\v[104]>It is not yet time for this child to be born."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "born. The party is in full swing!"
+                        "The party is in full swing!"
                     ]
                 },
                 {
@@ -3544,7 +3544,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\v[104]>Now you can proceed your work, Miss \\n[1]"
+                        "\\n<\\v[104]>Now you can proceed your work Miss \\n[1]."
                     ]
                 },
                 {
@@ -3571,7 +3571,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\v[104]>You are still fine. I cannot help you now."
+                        "\\n<\\v[104]>You are still fine, I cannot help you now."
                     ]
                 },
                 {
@@ -3618,7 +3618,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\v[104]>Let me check. Just in case Miss \\n[1]."
+                        "\\n<\\v[104]>Let me check, just in case Miss \\n[1]."
                     ]
                 },
                 {
@@ -3646,14 +3646,14 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\v[104]>You are OK. Head is not in birth canal yet."
+                        "\\n<\\v[104]>You are ok, the head is not in the birth canal yet."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "You may proceed your work."
+                        "You may proceed with your work."
                     ]
                 },
                 {
@@ -3725,14 +3725,14 @@
                     "code": 401,
                     "indent": 5,
                     "parameters": [
-                        "The head has almost crawled out and is sticking out "
+                        "The head has almost slipped out "
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 5,
                     "parameters": [
-                        "of the birth canal! "
+                        "and is spreading you apart! "
                     ]
                 },
                 {
@@ -3829,7 +3829,7 @@
                     "code": 401,
                     "indent": 3,
                     "parameters": [
-                        "\\n<\\v[104]>You are still OK. Head is in birth canal "
+                        "\\n<\\v[104]>You are still ok. Head is in birth canal "
                     ]
                 },
                 {

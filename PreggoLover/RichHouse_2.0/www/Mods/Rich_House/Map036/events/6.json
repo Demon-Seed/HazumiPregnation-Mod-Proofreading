@@ -1,1 +1,400 @@
-{"id":6,"name":"EV006","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":438,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":122,"indent":0,"parameters":[104,104,0,4,"'Smaar'"]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":18,"indent":null},{"code":14,"parameters":[0,0],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":14,"parameters":[0,0],"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>Miss \\n[1]!!! Please come back. We need to "]},{"code":401,"indent":0,"parameters":["talk. "]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":438,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":458,"variableValid":true,"variableValue":5},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":122,"indent":0,"parameters":[104,104,0,4,"'Smaar'"]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":18,"indent":null},{"code":14,"parameters":[0,0],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":14,"parameters":[0,0],"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>Miss \\n[1]!!! Immediatly come back!"]},{"code":401,"indent":0,"parameters":["I demand an explanation!!! "]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":14,"y":45}
+{
+    "id": 6,
+    "name": "EV006",
+    "note": "",
+    "pages": [
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 438,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image": {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list": [
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        104,
+                        104,
+                        0,
+                        4,
+                        "'Smaar'"
+                    ]
+                },
+                {
+                    "code": 205,
+                    "indent": 0,
+                    "parameters": [
+                        5,
+                        {
+                            "list": [
+                                {
+                                    "code": 18,
+                                    "indent": null
+                                },
+                                {
+                                    "code": 14,
+                                    "parameters": [
+                                        0,
+                                        0
+                                    ],
+                                    "indent": null
+                                },
+                                {
+                                    "code": 0
+                                }
+                            ],
+                            "repeat": false,
+                            "skippable": false,
+                            "wait": true
+                        }
+                    ]
+                },
+                {
+                    "code": 505,
+                    "indent": 0,
+                    "parameters": [
+                        {
+                            "code": 18,
+                            "indent": null
+                        }
+                    ]
+                },
+                {
+                    "code": 505,
+                    "indent": 0,
+                    "parameters": [
+                        {
+                            "code": 14,
+                            "parameters": [
+                                0,
+                                0
+                            ],
+                            "indent": null
+                        }
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>Miss \\n[1]!!! Please come back. We need to "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "talk. "
+                    ]
+                },
+                {
+                    "code": 205,
+                    "indent": 0,
+                    "parameters": [
+                        -1,
+                        {
+                            "list": [
+                                {
+                                    "code": 2,
+                                    "indent": null
+                                },
+                                {
+                                    "code": 0
+                                }
+                            ],
+                            "repeat": false,
+                            "skippable": false,
+                            "wait": true
+                        }
+                    ]
+                },
+                {
+                    "code": 505,
+                    "indent": 0,
+                    "parameters": [
+                        {
+                            "code": 2,
+                            "indent": null
+                        }
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 1,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 438,
+                "variableValid": true,
+                "variableValue": 1
+            },
+            "directionFix": false,
+            "image": {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list": [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 458,
+                "variableValid": true,
+                "variableValue": 5
+            },
+            "directionFix": false,
+            "image": {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list": [
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        104,
+                        104,
+                        0,
+                        4,
+                        "'Smaar'"
+                    ]
+                },
+                {
+                    "code": 205,
+                    "indent": 0,
+                    "parameters": [
+                        5,
+                        {
+                            "list": [
+                                {
+                                    "code": 18,
+                                    "indent": null
+                                },
+                                {
+                                    "code": 14,
+                                    "parameters": [
+                                        0,
+                                        0
+                                    ],
+                                    "indent": null
+                                },
+                                {
+                                    "code": 0
+                                }
+                            ],
+                            "repeat": false,
+                            "skippable": false,
+                            "wait": true
+                        }
+                    ]
+                },
+                {
+                    "code": 505,
+                    "indent": 0,
+                    "parameters": [
+                        {
+                            "code": 18,
+                            "indent": null
+                        }
+                    ]
+                },
+                {
+                    "code": 505,
+                    "indent": 0,
+                    "parameters": [
+                        {
+                            "code": 14,
+                            "parameters": [
+                                0,
+                                0
+                            ],
+                            "indent": null
+                        }
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>Miss \\n[1]!!! Immediatly come back!"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "I demand an explanation!!! "
+                    ]
+                },
+                {
+                    "code": 205,
+                    "indent": 0,
+                    "parameters": [
+                        -1,
+                        {
+                            "list": [
+                                {
+                                    "code": 2,
+                                    "indent": null
+                                },
+                                {
+                                    "code": 0
+                                }
+                            ],
+                            "repeat": false,
+                            "skippable": false,
+                            "wait": true
+                        }
+                    ]
+                },
+                {
+                    "code": 505,
+                    "indent": 0,
+                    "parameters": [
+                        {
+                            "code": 2,
+                            "indent": null
+                        }
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 1,
+            "walkAnime": true
+        }
+    ],
+    "x": 14,
+    "y": 45
+}
