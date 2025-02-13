@@ -17884,7 +17884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>No, no, no!!! It is't time yet! "
+                                "\\n<\\n[1]>No, no, no!!! It isn't time yet! "
                             ]
                         },
                         {
@@ -17971,7 +17971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You cannot go out now!"
+                                "You cannot come out now!"
                             ]
                         },
                         {
@@ -18063,7 +18063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>I need, to hold it... Hoooooo... hoooooo..."
+                                "\\n<\\n[1]>I need... to hold it... Hoooo... Hoooo..."
                             ]
                         },
                         {
@@ -18178,17 +18178,17 @@
                         },
                         {
                             "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<Smaar>Miss \\n[1], I'm loking you all around the "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "house. You need go to work..."
-                            ]
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Smaar>Miss \\n[1], I've been looking for you all over."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "You need get back to work..."
+                    ]
                         },
                         {
                             "code": 250,
@@ -18255,7 +18255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Smaar>HOLY CRAP!!!! Are you birthing???"
+                                "\\n<Smaar>Bloody Hell!!!!\nAre you giving birth???"
                             ]
                         },
                         {
@@ -18283,7 +18283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>No, no. It is ok. I'm just..."
+                                "\\n<\\n[1]>No-no, it's ok... I'm just..."
                             ]
                         },
                         {
@@ -18403,7 +18403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Smaar>Miss \\n[1] can you get up, and leave?? "
+                                "\\n<Smaar>Miss \\n[1] can you get up and move??"
                             ]
                         },
                         {
@@ -23672,7 +23672,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to go out right now?"
+                                "\\n<\\n[1]>You trying to come out right now?"
                             ]
                         },
                         {
@@ -24437,7 +24437,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to go out right now?"
+                                "\\n<\\n[1]>You trying to come out right now?"
                             ]
                         },
                         {
@@ -25202,7 +25202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to go out right now?"
+                                "\\n<\\n[1]>You trying to come out right now?"
                             ]
                         },
                         {
@@ -25967,7 +25967,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to go out right now?"
+                                "\\n<\\n[1]>You trying to come out right now?"
                             ]
                         },
                         {
@@ -26732,7 +26732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to go out right now?"
+                                "\\n<\\n[1]>You trying to come out right now?"
                             ]
                         },
                         {
@@ -27497,7 +27497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to go out right now?"
+                                "\\n<\\n[1]>You trying to come out right now?"
                             ]
                         },
                         {
@@ -28262,7 +28262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to go out right now?"
+                                "\\n<\\n[1]>You trying to come out right now?"
                             ]
                         },
                         {
@@ -29027,7 +29027,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to go out right now?"
+                                "\\n<\\n[1]>You trying to come out right now?"
                             ]
                         },
                         {
@@ -29977,7 +29977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to go out right now?"
+                                "\\n<\\n[1]>You trying to come out right now?"
                             ]
                         },
                         {
@@ -30742,7 +30742,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to go out right now?"
+                                "\\n<\\n[1]>You trying to come out right now?"
                             ]
                         },
                         {
@@ -31507,7 +31507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to go out right now?"
+                                "\\n<\\n[1]>You trying to come out right now?"
                             ]
                         },
                         {
@@ -32272,7 +32272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to go out right now?"
+                                "\\n<\\n[1]>You trying to come out right now?"
                             ]
                         },
                         {
@@ -33037,7 +33037,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to go out right now?"
+                                "\\n<\\n[1]>You trying to come out right now?"
                             ]
                         },
                         {
@@ -36924,7 +36924,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to go out right now?"
+                                "\\n<\\n[1]>You trying to come out right now?"
                             ]
                         },
                         {
@@ -41122,7 +41122,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to go out right now?"
+                                "\\n<\\n[1]>You trying to come out right now?"
                             ]
                         },
                         {
@@ -41887,7 +41887,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to go out right now?"
+                                "\\n<\\n[1]>You trying to come out right now?"
                             ]
                         },
                         {
