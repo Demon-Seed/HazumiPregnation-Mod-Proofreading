@@ -42,14 +42,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>Here are Oil bottles. I take them all."
+                        "\\n<\\n[1]>Here are some oil bottles."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "For sure..."
+                        "I'll take them all for sure..."
                     ]
                 },
                 {
@@ -77,7 +77,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>Oh... they are very heavy..."
+                        "\\n<\\n[1]>Oof... they are very heavy..."
                     ]
                 },
                 {

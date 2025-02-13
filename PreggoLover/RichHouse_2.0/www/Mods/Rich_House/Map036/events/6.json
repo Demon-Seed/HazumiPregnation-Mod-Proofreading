@@ -106,14 +106,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>Miss \\n[1]!!! Please come back. We need to "
+                        "\\n<\\v[104]>Miss \\n[1]!!! Please come back."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "talk. "
+                        "We need to talk."
                     ]
                 },
                 {
@@ -327,14 +327,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>Miss \\n[1]!!! Immediatly come back!"
+                        "\\n<\\v[104]>Miss \\n[1]!!! Come back immediately!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "I demand an explanation!!! "
+                        "I demand an explanation!!!"
                     ]
                 },
                 {
