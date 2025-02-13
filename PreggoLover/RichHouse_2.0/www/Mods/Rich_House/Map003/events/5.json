@@ -626,7 +626,7 @@
                     "indent": 0,
                     "parameters": [
                         [
-                            "No, All is Ok.",
+                            "No, I'm fine.",
                             "I want a part-time job."
                         ],
                         0,
@@ -640,7 +640,7 @@
                     "indent": 0,
                     "parameters": [
                         0,
-                        "No, All is Ok."
+                        "No, I'm fine."
                     ]
                 },
                 {
@@ -687,21 +687,21 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Manager>I can have you do re-stocking and patrolling "
+                        "\\n<Manager>I could have you do re-stocking"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "isles, but with that belly... You can't do all the "
+                        "and facing isles, but with that belly..."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "jobs, that I need you to do."
+                        "You can't do all the jobs that I need you to do."
                     ]
                 },
                 {
@@ -764,21 +764,21 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<Manager>Yes, a bit. But you need to be fast with"
+                        "\\n<Manager>Yes, a bit. But you need to be quick"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "restocking or the goods will be bought out."
+                        "with restocking, or the goods will sell out."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "And with that belly you can't be fast enough. Sorry..."
+                        "And with that belly, you won't be fast enough. Sorry..."
                     ]
                 },
                 {
@@ -808,14 +808,14 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<Manager>My friend is working as Service Manager in"
+                        "\\n<Manager>My friend is working as Service Manager"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "a very rich family. Go and talk to him."
+                        "for a very rich family. Go and talk to him."
                     ]
                 },
                 {
@@ -922,7 +922,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "I am the manager."
+                        "Hello, I'm the manager."
                     ]
                 },
                 {
@@ -939,7 +939,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Is there an issue?"
+                        "Is there a problem?"
                     ]
                 },
                 {
@@ -947,7 +947,7 @@
                     "indent": 0,
                     "parameters": [
                         [
-                            "No, All is Ok.",
+                            "No, all is Ok.",
                             "I want a part-time job."
                         ],
                         0,
@@ -1008,21 +1008,21 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Manager>I can have you do re-stocking and patrolling "
+                        "\\n<Manager>I could have you do re-stocking"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "isles, but with that belly... You can't do all the  "
+                        "and facing isles, but with that belly..."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "jobs, that I need you to do."
+                        "You can't do all the jobs that I need you to do."
                     ]
                 },
                 {
@@ -1046,14 +1046,14 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\n[1]>That's a bit unfair! I can work as good as"
+                        "\\n<\\n[1]>That's a bit unfair!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "before!"
+                        "I can work just as good as before!"
                     ]
                 },
                 {
@@ -1070,21 +1070,21 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Manager>Yes, a bit. But you need to be fast with"
+                        "\\n<Manager>Yes, a bit. But you need to be quick"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "restocking or the goods will be bought out."
+                        "with restocking, or the goods will sell out."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "And with that belly you can't be fast enough. Sorry..."
+                        "And with that belly, you won't be fast enough. Sorry..."
                     ]
                 },
                 {

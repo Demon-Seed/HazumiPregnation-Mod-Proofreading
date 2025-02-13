@@ -322,14 +322,14 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\n[1]>I would like be part of Master celebration"
+                        "\\n<\\n[1]>I would like to be part of Master's celebration"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "in Big Hall. Can I serve there?"
+                        "in the Big Hall, can I serve there?"
                     ]
                 },
                 {
@@ -346,14 +346,14 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\v[104]>Yes, of course. Please, talk to the chef in "
+                        "\\n<\\v[104]>Yes, of course."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Kitchen."
+                        "Please, talk to the chef in the Kitchen."
                     ]
                 },
                 {
@@ -449,7 +449,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "only after Mr. Masterson's approval. "
+                        "only after Mr.Masterson's approval."
                     ]
                 },
                 {
@@ -500,14 +500,14 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Be prepare, this is a long term job! You will stay "
+                        "Be prepare, this is a long term job!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "here for a couple of days."
+                        "You will stay here for a couple of days."
                     ]
                 },
                 {
@@ -553,28 +553,28 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\v[104]>Miss \\n[1], you will work for a couple of "
+                        "\\n<\\v[104]>Miss \\n[1], you will work for a"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "days here. Your job is to prepare, and clean rooms on "
+                        "couple of days here. Your job is to prepare"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "the second floor."
+                        "and clean rooms on the second floor."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "After you done your duty, use maid room. You may go."
+                        "After you've finished, use maid room. You may go."
                     ]
                 },
                 {
@@ -624,7 +624,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\n[1]>I'm on the way!"
+                        "\\n<\\n[1]>I'll be on my way!"
                     ]
                 },
                 {
@@ -695,28 +695,28 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\v[104]>Ok. You can walk around the house. "
+                        "\\n<\\v[104]>Ok, you may walk around the house."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "But it is't job, so you will not earn money for it. You"
+                        "But it's not a job, so you will not earn money for it."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "need to keep your maid uniform all time."
+                        "Still, you must keep your uniform on at all times."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Come Back after you see all that you want."
+                        "Come Back after you've seen all that you want."
                     ]
                 },
                 {
@@ -842,14 +842,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>Have you see the house? Choose the work, "
+                        "\\n<\\v[104]>Are you done exploring the house?"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "you can handle"
+                        "Choose work you can handle."
                     ]
                 },
                 {
@@ -896,14 +896,14 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\n[1]>I would like be part of Master celebration"
+                        "\\n<\\n[1]>I would like to be part of Master's celebration"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "in Big Hall. Can I serve there?"
+                        "in the Big Hall, can I serve there?"
                     ]
                 },
                 {
@@ -927,7 +927,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Kitchen."
+                        "the kitchen."
                     ]
                 },
                 {
@@ -1036,7 +1036,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "after Mr. Masterson's approval."
+                        "after Mr.Masterson's approval."
                     ]
                 },
                 {
@@ -1088,28 +1088,28 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\v[104]>I see... So, here is some rules."
+                        "\\n<\\v[104]>I see... So, here are some rules."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "You need to always smile there."
+                        "You need to always be smiling."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "Do anything, that guest want."
+                        "Do anything the guests want."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "And the most important!!!"
+                        "And most importantly!!!"
                     ]
                 },
                 {
@@ -1137,21 +1137,21 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\v[104]>If you will feel contraction."
+                        "\\n<\\v[104]>If you feel a contraction you cannot let it show."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "You cannot hold the belly! No moaning!"
+                        "No moaning or belly holding! Just come to me."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "Just come here. I will take care abaut it."
+                        "I will take care of it."
                     ]
                 },
                 {
@@ -1168,7 +1168,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\v[104]>Now go! You have no time!"
+                        "\\n<\\v[104]>Now go, you little time!"
                     ]
                 },
                 {
@@ -1300,21 +1300,21 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\v[104]>So you need to clean rooms on second floor."
+                        "\\n<\\v[104]>So you want to clean rooms on the second floor."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Be prepare, this is a long term job! You will stay "
+                        "Be prepared, this is a long term job!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "here for a couple of days."
+                        "You'll stay here for a couple of days."
                     ]
                 },
                 {
@@ -1647,7 +1647,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>Aaa Miss \\n[1]!!!"
+                        "\\n<\\v[104]>Aah! Miss \\n[1]!!!"
                     ]
                 },
                 {
@@ -1675,21 +1675,21 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\v[104]>What the Hell??? You aren't pregnant "
+                        "\\n<\\v[104]>What the hell??? Where's your belly???"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "anymore!!!! You give BIRTH during your duty???"
+                        "You've given birth during your duty???"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Unbelievable!!!!"
+                        "Unbelievable!!!"
                     ]
                 },
                 {
@@ -1706,7 +1706,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\v[104]>You are violated all rules of this house!!!"
+                        "\\n<\\v[104]>You've violated all the rules of this house!!!"
                     ]
                 },
                 {
@@ -1723,14 +1723,14 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\v[104]>More of it, you try to HIDE that you give "
+                        "\\n<\\v[104]>Even more, you tried to"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "birth!!!"
+                        "hide that you give birth!!!"
                     ]
                 },
                 {
@@ -1747,14 +1747,14 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\v[104]>Someone have pump your uterus with semen!!!"
+                        "\\n<\\v[104]>Have someone pump your uterus with semen!!!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "It is unbelievable!!!"
+                        "This is unbelievable!!!"
                     ]
                 },
                 {
@@ -1788,14 +1788,14 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\n[1]>I'm Incredabile sorry! My water breaks in the"
+                        "\\n<\\n[1]>I'm so sorry!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "middle of my work!"
+                        "My water broke in the middle of working!"
                     ]
                 },
                 {
@@ -1812,7 +1812,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\n[1]>That birth, it was so fast!"
+                        "\\n<\\n[1]>I couldn't hold it!"
                     ]
                 },
                 {
@@ -1829,21 +1829,21 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\v[104]>Unbelievable!!! You are cheater!!!"
+                        "\\n<\\v[104]>Unbelievable, you've cheated me!!!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Get out fo this house!!!"
+                        "Get out of this house!!!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Until you will be enought pregnant, "
+                        "Until that belly is big enough"
                     ]
                 },
                 {
@@ -1867,7 +1867,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\v[104]>I have take a huge penalty!!!"
+                        "\\n<\\v[104]>I have to face a huge penalty!"
                     ]
                 },
                 {
@@ -1920,7 +1920,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\v[104]>And you reputation is very disturb!!!"
+                        "\\n<\\v[104]>And your reputation is badly damaged!!!"
                     ]
                 },
                 {
@@ -2116,14 +2116,14 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "It seems that mr.Masterson is satisfied. "
+                        "It seems that Mr.Masterson is satisfied. "
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "You can come later to work. Now you can leave."
+                        "You can come later to work, you may leave."
                     ]
                 },
                 {
@@ -2214,7 +2214,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\n[1]>It is sloshing inside... "
+                        "\\n<\\n[1]>It is sloshing around inside... "
                     ]
                 },
                 {
@@ -2600,14 +2600,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Hurry up, you need to start serving "
+                        "Hurry up, you need to start serving"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "The Big Hall immediately!!!"
+                        "the Big Hall immediately!!!"
                     ]
                 },
                 {
@@ -2749,7 +2749,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>My water is broken, I'm feeling contractions!"
+                        "\\n<\\n[1]>My water broke, I'm feeling contractions!"
                     ]
                 },
                 {
@@ -2787,7 +2787,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "The birth of a child is no reason to slack off."
+                        "Your labor is no reason to slack off."
                     ]
                 },
                 {
@@ -2842,7 +2842,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "baby inside. I can barely walk now..."
+                        "baby inside, I can barely walk now..."
                     ]
                 },
                 {
@@ -2983,14 +2983,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "And... If someone ask you for sex, do not refuse."
+                        "Also... If someone asks you for sex, don't refuse."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "... Get"
+                        "It is in your contract, and it can help you"
                     ]
                 },
                 {
@@ -3072,35 +3072,35 @@
                 },
                 {
                     "code": 401,
-                    "indent": 0,
-                    "parameters": [
-                        "\\n<\\v[104]>No, it'll just cause pleasure from "
-                    ]
-                },
-                {
-                    "code": 401,
-                    "indent": 0,
-                    "parameters": [
-                        "the contractions, rather than pain."
-                    ]
-                },
-                {
-                    "code": 401,
-                    "indent": 0,
-                    "parameters": [
-                        "If the head pops out, come here immediatly."
-                    ]
-                },
-                {
-                    "code": 401,
-                    "indent": 0,
-                    "parameters": [
-                        "We'll solve that together if it happens. Now go!"
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<\\v[104]>No, it'll just cause the contractions"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "to bring you pleasure rather than pain."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "If the head pops out, come here immediatly."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "We'll solve that together if it happens. Now go!"
                     ]
                 },
                 {
                     "code": 101,
-                    "indent": 0,
+                    "indent": 0,   
                     "parameters": [
                         "",
                         0,
@@ -3112,7 +3112,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>Talk to second maid. "
+                        "\\n<\\v[104]>Talk to second maid."
                     ]
                 },
                 {
@@ -3252,7 +3252,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>Miss \\n[1], you need Help?"
+                        "\\n<\\v[104]>Miss \\n[1], you need help?"
                     ]
                 },
                 {
@@ -3544,7 +3544,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\v[104]>Now you can proceed your work Miss \\n[1]."
+                        "\\n<\\v[104]>Now you can proceed with your work Miss \\n[1]."
                     ]
                 },
                 {
@@ -3578,7 +3578,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "The head didn't come out enough."
+                        "The head hasn't come out enough."
                     ]
                 },
                 {
@@ -3601,7 +3601,7 @@
                     "indent": 0,
                     "parameters": [
                         1,
-                        "I'm Still fine..."
+                        "I'm still fine..."
                     ]
                 },
                 {
@@ -3732,7 +3732,7 @@
                     "code": 401,
                     "indent": 5,
                     "parameters": [
-                        "and is spreading you apart! "
+                        "and is spreading you apart!"
                     ]
                 },
                 {
@@ -3773,21 +3773,21 @@
                     "code": 401,
                     "indent": 4,
                     "parameters": [
-                        "\\n<\\v[104]>You need to be very careful. Head is nearly "
+                        "\\n<\\v[104]>The head is nearly crowning!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 4,
                     "parameters": [
-                        "popped out. You may proceed your work, but be very "
+                        "You may get back work, but be very careful!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 4,
                     "parameters": [
-                        "careful! You're about to need my help!"
+                        "You're about to need my help!"
                     ]
                 },
                 {
@@ -3829,14 +3829,14 @@
                     "code": 401,
                     "indent": 3,
                     "parameters": [
-                        "\\n<\\v[104]>You are still ok. Head is in birth canal "
+                        "\\n<\\v[104]>You are still ok, the head has slipped back."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 3,
                     "parameters": [
-                        "already. You may proceed your work, but be careful."
+                        "You may get back to work, but be careful."
                     ]
                 },
                 {
@@ -3967,7 +3967,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>Miss \\n[1], you do it wery well!"
+                        "\\n<\\v[104]>Miss \\n[1], you've done very well!"
                     ]
                 },
                 {
@@ -3984,14 +3984,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>I'm impressed, how you done with your"
+                        "\\n<\\v[104]>I'm impressed with how you handled your labor,"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "labor, and how proffesionaly you serve our clients!"
+                        "and how professionally you serve our clients!"
                     ]
                 },
                 {
@@ -4008,14 +4008,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>Thank you for your great work. I will take "
+                        "\\n<\\v[104]>Thank you for your great work."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "your uniform please."
+                        " I will take your uniform please."
                     ]
                 },
                 {
@@ -4120,21 +4120,21 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>Here is your reward. Also your reputation"
+                        "\\n<\\v[104]>Here is your reward."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "is now very hight!"
+                        "Your reputation has improved greatly!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "I also take care about you and call you an ambulance."
+                        "I also take care of you and call an ambulance."
                     ]
                 },
                 {

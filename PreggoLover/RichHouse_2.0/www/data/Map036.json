@@ -12796,14 +12796,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>I would like be part of Master's celebration"
+                                "\\n<\\n[1]>I would like to be part of Master's celebration"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "in the Big Hall. Can I serve there?"
+                                "in the Big Hall, can I serve there?"
                             ]
                         },
                         {
@@ -12923,7 +12923,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "only after Mr. Masterson's approval."
+                                "only after Mr.Masterson's approval."
                             ]
                         },
                         {
@@ -13048,7 +13048,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "After you've finished use the maid room. You may go."
+                                "After you've finished, use the maid room. You may go."
                             ]
                         },
                         {
@@ -13370,14 +13370,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>I would like be part of Master celebration"
+                                "\\n<\\n[1]>I would like to be part of Master's celebration"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "in Big Hall. Can I serve there?"
+                                "in the Big Hall, can I serve there?"
                             ]
                         },
                         {
@@ -13510,7 +13510,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "after Mr. Masterson's approval."
+                                "after Mr.Masterson's approval."
                             ]
                         },
                         {
@@ -13538,7 +13538,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\n[1]>Yes, I know. Mr. Masterson sent me here to"
+                                "\\n<\\n[1]>Yes, I know. Mr.Masterson sent me here to"
                             ]
                         },
                         {
@@ -14590,7 +14590,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It seems that Mr. Masterson is satisfied."
+                                "It seems that Mr.Masterson is satisfied."
                             ]
                         },
                         {
@@ -14688,7 +14688,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\n[1]>It is sloshing inside... "
+                                "\\n<\\n[1]>It is sloshing around inside... "
                             ]
                         },
                         {
@@ -15081,7 +15081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Big Hall immediately!!!"
+                                "the Big Hall immediately!!!"
                             ]
                         },
                         {
@@ -15223,7 +15223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>My water is broken, I'm feeling contractions!"
+                                "\\n<\\n[1]>My water broke, I'm feeling contractions!"
                             ]
                         },
                         {
@@ -15261,7 +15261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The birth of a child is no reason to slack off."
+                                "Your labor is no reason to slack off."
                             ]
                         },
                         {
@@ -15316,7 +15316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "baby inside. I can barely walk now..."
+                                "baby inside, I can barely walk now..."
                             ]
                         },
                         {
@@ -15457,7 +15457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And... If someone ask you for sex, do not refuse."
+                                "Also... If someone asks you for sex, don't refuse."
                             ]
                         },
                         {
@@ -15548,14 +15548,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\v[104]>No, it'll just cause pleasure from"
+                                "\\n<\\v[104]>No, it'll just cause the contractions"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "the contractions, rather than pain."
+                                "to bring you pleasure rather than pain."
                             ]
                         },
                         {
@@ -15726,7 +15726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\v[104]>Miss \\n[1], you need Help?"
+                                "\\n<\\v[104]>Miss \\n[1], you need help?"
                             ]
                         },
                         {
@@ -16018,7 +16018,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\v[104]>Now you can proceed your work Miss \\n[1]."
+                                "\\n<\\v[104]>Now you can proceed with your work Miss \\n[1]."
                             ]
                         },
                         {
@@ -16052,7 +16052,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The head didn't come out enough."
+                                "The head hasn't come out enough."
                             ]
                         },
                         {
@@ -16075,7 +16075,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "I'm Still fine..."
+                                "I'm still fine..."
                             ]
                         },
                         {
@@ -16247,21 +16247,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n<\\v[104]>You need to be very careful. Head is nearly"
+                                "\\n<\\v[104]>The head is nearly crowning!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "popped out. You may proceed your work, but be very "
+                                "You may proceed your work, but be very careful!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "careful! You're about to need my help!"
+                                "You're about to need my help!"
                             ]
                         },
                         {
@@ -16303,14 +16303,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<\\v[104]>You are still ok. Head is in birth canal "
+                                "\\n<\\v[104]>You are still ok, the head has slipped back."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "already. You may proceed your work, but be careful."
+                                "You may get back to work, but be careful."
                             ]
                         },
                         {
@@ -16441,7 +16441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\v[104]>Miss \\n[1], you do it wery well!"
+                                "\\n<\\v[104]>Miss \\n[1], you've done very well!"
                             ]
                         },
                         {
@@ -16458,14 +16458,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\v[104]>I'm impressed, how you done with your"
+                                "\\n<\\v[104]>I'm impressed with how you handled your labor,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "labor, and how proffesionaly you serve our clients!"
+                                "and how professionally you serve our clients!"
                             ]
                         },
                         {
@@ -16482,14 +16482,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\v[104]>Thank you for your great work. I will take "
+                                "\\n<\\v[104]>Thank you for your great work."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "your uniform please."
+                                "I will take your uniform please."
                             ]
                         },
                         {
@@ -16594,21 +16594,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\v[104]>Here is your reward. Also your reputation"
+                                "\\n<\\v[104]>Here is your reward."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "is now very hight!"
+                                "Your reputation has improved greatly!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I also take care about you and call you an ambulance."
+                                "I also take care of you and call an ambulance."
                             ]
                         },
                         {
@@ -44844,7 +44844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Maid>I'm sorry Mr. Masterson!! I'm going"
+                                "\\n<Maid>I'm sorry Mr.Masterson!! I'm going"
                             ]
                         },
                         {
@@ -47255,7 +47255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Mr. Masterson's mansion"
+                                "\\n<\\n[1]>Mr.Masterson's mansion"
                             ]
                         },
                         {
@@ -49574,7 +49574,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>Ehm... I... Mr. Masterson..."
+                                "\\n<\\n[1]>Ehm... I... Mr.Masterson..."
                             ]
                         },
                         {
@@ -49865,7 +49865,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>Ehm... I... Mr. Masterson..."
+                                "\\n<\\n[1]>Ehm... I... Mr.Masterson..."
                             ]
                         },
                         {
