@@ -10279,7 +10279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guard_1>No one can go outside! Owner order."
+                                "\\n<Guard_1>No one can go outside! Master's orders."
                             ]
                         },
                         {
@@ -10479,14 +10479,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Chef>Hey, want to help? Go to storage, and bring "
+                                "\\n<Chef>Hey, want to help? Go to storage"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "some oil bottles! Hurry!"
+                                "and bring some oil bottles! Hurry!"
                             ]
                         },
                         {
@@ -10542,14 +10542,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Chef>From the kitchen, on the right. Hurry! Meals "
+                                "\\n<Chef>From the kitchen, on the right. Hurry!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "are burning whitout oil!!!"
+                                "The food is burning whitout oil!!!"
                             ]
                         },
                         {
@@ -10691,7 +10691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Hello, Smaar sent me here. I will help "
+                                "\\n<\\n[1]>Hello, Smaar sent me here. I will help"
                             ]
                         },
                         {
@@ -12233,7 +12233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "your duties. Do not do anything more."
+                                "your duties and do nothing more."
                             ]
                         },
                         {
@@ -12292,7 +12292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But, if you start a job do it he is paying very well."
+                                "But, if you start a job do it, he is paying very well."
                             ]
                         },
                         {
@@ -12582,14 +12582,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\v[104]>So Miss \\n[1], Welcome to my master's house!"
+                                "\\n<\\v[104]>So Miss \\n[1], Welcome to my Master's house!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please, dress into to your uniform."
+                                "Please, dress into your uniform."
                             ]
                         },
                         {
@@ -12765,7 +12765,7 @@
                                 [
                                     "Serve the lower Big Hall",
                                     "Serve the upper Saloon",
-                                    "Room cleaning",
+                                    "Serve in housekeeping",
                                     "I want to see the house"
                                 ],
                                 1,
@@ -12923,7 +12923,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "only after Mr.Masterson's approval."
+                                "only after Mr.Mastersons approval."
                             ]
                         },
                         {
@@ -12950,7 +12950,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "Room cleaning"
+                                "Serve in housekeeping"
                             ]
                         },
                         {
@@ -12981,7 +12981,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You'll stay here for a couple of days."
+                                "You'll stay here for a couple days."
                             ]
                         },
                         {
@@ -13176,7 +13176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "But it's not a job, so you will not earn money for it."
+                                "But it's not a job so you won't be paid."
                             ]
                         },
                         {
@@ -13190,7 +13190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Come Back after you've seen all that you want."
+                                "Come back after you've seen all that you want."
                             ]
                         },
                         {
@@ -13340,7 +13340,7 @@
                                 [
                                     "Serve the lower Big Hall",
                                     "Serve the upper Saloon",
-                                    "Room cleaning"
+                                    "Serve in housekeeping"
                                 ],
                                 1,
                                 0,
@@ -13583,7 +13583,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "And most importantly!!!"
+                                "Last but not least!!!"
                             ]
                         },
                         {
@@ -13618,14 +13618,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "No moaning or belly holding! Just come to me."
+                                "No moaning or belly holding!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I will take care of it."
+                                "Just come to me, I'll take care of it."
                             ]
                         },
                         {
@@ -13720,14 +13720,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\v[104]>I'm sorry Miss \\n[1]. For this job we need"
+                                "\\n<\\v[104]>I'm sorry Miss \\n[1]."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "experienced and proven employees. "
+                                "For this job we need experienced employees."
                             ]
                         },
                         {
@@ -13757,7 +13757,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "Room cleaning"
+                                "Serve in housekeeping"
                             ]
                         },
                         {
@@ -16861,14 +16861,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\v[104]>Miss \\n[1]!!! Please come back."
+                                "\\n<\\v[104]>Miss \\n[1]!!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We need to talk. "
+                                "Please come back, we need to talk."
                             ]
                         },
                         {
@@ -18664,7 +18664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "it is coming out!!!"
+                                "It's coming out!!!"
                             ]
                         },
                         {
@@ -19694,14 +19694,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>You cannot go downstears. Go and hide Maid, "
+                                "\\n<\\n[1]>You cannot go downstairs."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "before she give birth..."
+                                "Go and hide maid, before she gives birth..."
                             ]
                         },
                         {
@@ -19875,7 +19875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>You are not done your work yet."
+                                "\\n<\\n[1]>You are not done with your work yet."
                             ]
                         },
                         {
@@ -19974,14 +19974,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Going downstair will compromise you."
+                                "\\n<\\n[1]>Going downstairs will compromise you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Go to Maid Room"
+                                "Go to the maid room"
                             ]
                         },
                         {
@@ -20239,14 +20239,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>You cannot go downstears. Go and hide Maid, "
+                                "\\n<\\n[1]>You cannot go downstairs. "
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "before she give birth..."
+                                "Go and hide maid, before she gives birth..."
                             ]
                         },
                         {
@@ -20420,7 +20420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>You are not done your work yet."
+                                "\\n<\\n[1]>You are not done with your work yet."
                             ]
                         },
                         {
@@ -20519,14 +20519,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Going downstair will compromise you."
+                                "\\n<\\n[1]>Going downstairs will compromise you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Go to Maid Room"
+                                "Go to the maid room."
                             ]
                         },
                         {
@@ -20784,14 +20784,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>You cannot go downstears. Go and hide Maid, "
+                                "\\n<\\n[1]>You cannot go downstairs. "
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "before she give birth..."
+                                "Go and hide maid, before she gives birth..."
                             ]
                         },
                         {
@@ -20965,7 +20965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>You are not done your work yet."
+                                "\\n<\\n[1]>You are not done with your work yet."
                             ]
                         },
                         {
@@ -21064,14 +21064,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Going downstair will compromise you."
+                                "\\n<\\n[1]>Going downstairs will compromise you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Go to Maid Room"
+                                "Go to the maid room."
                             ]
                         },
                         {
@@ -21329,14 +21329,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>You cannot go downstears. Go and hide Maid, "
+                                "\\n<\\n[1]>You cannot go downstairs. "
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "before she give birth..."
+                                "Go and hide maid, before she gives birth..."
                             ]
                         },
                         {
@@ -21510,7 +21510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>You are not done your work yet."
+                                "\\n<\\n[1]>You are not done with your work yet."
                             ]
                         },
                         {
@@ -21609,14 +21609,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Going downstair will compromise you."
+                                "\\n<\\n[1]>Going downstairs will compromise you."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Go to Maid Room"
+                                "Go to the maid room."
                             ]
                         },
                         {
@@ -22002,7 +22002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>White Wine! Need to get it upstairs."
+                                "\\n<\\n[1]>White Wine! I need to get it upstairs."
                             ]
                         },
                         {
@@ -22056,7 +22056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Uuuummmmmm, my belly is hurt. It is so heavy."
+                                "\\n<\\n[1]>Uuuuuuu, my belly hurts, it feels so heavy."
                             ]
                         },
                         {
@@ -22084,14 +22084,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>As I walk up the stairs, "
+                                "\\n<\\n[1]>Nghh, and it keeps getting,"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "my belly gets heavier."
+                                "...worse as I continue."
                             ]
                         },
                         {
@@ -22281,14 +22281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Now I can fill the bottle. And bring it to"
+                                "\\n<\\n[1]>Now I can fill the bottle"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pianist."
+                                "and bring it to the Pianist."
                             ]
                         },
                         {
@@ -22947,7 +22947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Maybe Here, from shower? Or downstair in sink?"
+                                "Maybe Here, from shower? Or downstairs in sink?"
                             ]
                         },
                         {
@@ -34628,7 +34628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "it is coming out!!!"
+                                "It's coming out!!!"
                             ]
                         },
                         {
@@ -36017,7 +36017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "it is coming out!!!"
+                                "It's coming out!!!"
                             ]
                         },
                         {
@@ -38515,7 +38515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "it is coming out!!!"
+                                "It's coming out!!!"
                             ]
                         },
                         {
@@ -39904,7 +39904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "it is coming out!!!"
+                                "It's coming out!!!"
                             ]
                         },
                         {
@@ -48140,7 +48140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Wine is served master."
+                                "\\n<\\n[1]>Wine is served Master."
                             ]
                         },
                         {

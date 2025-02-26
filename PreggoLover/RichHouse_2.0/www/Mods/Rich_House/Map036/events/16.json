@@ -117,14 +117,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>You cannot go downstears. Go and hide Maid, "
+                        "\\n<\\n[1]>You cannot go downstairs. "
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "before she give birth..."
+                        "Go and hide maid, before she gives birth..."
                     ]
                 },
                 {
@@ -298,7 +298,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>You are not done your work yet."
+                        "\\n<\\n[1]>You are not done with your work yet."
                     ]
                 },
                 {
@@ -397,14 +397,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>Going downstair will compromise you."
+                        "\\n<\\n[1]>Going downstairs will compromise you."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Go to Maid Room"
+                        "Go to the maid room."
                     ]
                 },
                 {

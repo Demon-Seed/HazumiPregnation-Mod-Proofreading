@@ -148,14 +148,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Chef>Hey, want to help? go to storagee, and bring "
+                        "\\n<Chef>Hey, want to help? Go to storage"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "oil bottles! Hurry!"
+                        "and bring some oil bottles! Hurry!"
                     ]
                 },
                 {
@@ -194,7 +194,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>Sorry, I'm new here. Where is storage?"
+                        "\\n<\\n[1]>Sorry, I'm new here. Where is the storage?"
                     ]
                 },
                 {
@@ -211,14 +211,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Chef>From the kitchen, on the right. Hurry! Meals "
+                        "\\n<Chef>From the kitchen, on the right. Hurry!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "are burning whitout oil!!!"
+                        "The food is burning whitout oil!!!"
                     ]
                 },
                 {
@@ -564,7 +564,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "I have work to do right."
+                        "I have work to do right now."
                     ]
                 },
                 {
@@ -678,21 +678,21 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Chef>I do a many great meals! Hurry up my dear!"
+                        "\\n<Chef>I've made many great meals, hurry up my dear!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "I want to get those in Big Hall. Guest must taste my"
+                        "I need to get those into the Big Hall."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "incrdible work!"
+                        "The guests must taste my incredible work!"
                     ]
                 },
                 {

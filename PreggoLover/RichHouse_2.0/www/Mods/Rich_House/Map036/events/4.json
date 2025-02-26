@@ -42,7 +42,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Pianist>I need to play. Sorry. Do not disturb me."
+                        "\\n<Pianist>Sorry, do not disturb men I must to focus."
                     ]
                 },
                 {
@@ -110,14 +110,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Pianist>I need to prepare this piano to evening!"
+                        "\\n<Pianist>I need to prepare the piano for the evening!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "I need large amount of water. Bring it here!"
+                        "I need large amount of water, bring some here!"
                     ]
                 },
                 {
@@ -156,14 +156,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>Sorry, I'm new here. Where can I get water "
+                        "\\n<\\n[1]>Sorry, I'm new here."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "for you?"
+                        "Where can I get water for you?"
                     ]
                 },
                 {
@@ -180,14 +180,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Pianist>Take a huge bottle from kitchen, and fill it"
+                        "\\n<PianistGrab a bottle from the kitchen,"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "in toilets."
+                        "and fill it in the toilets."
                     ]
                 },
                 {
@@ -347,14 +347,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Pianist>Did you find a water? Hurry! I need wash"
+                        "\\n<Pianist>Did you find some water?"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "the piano!!!"
+                        "Hurry! I need to wash the piano!!!"
                     ]
                 },
                 {
@@ -461,14 +461,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>What is wrong? I'm bring the bottle, like you "
+                        "\\n<\\n[1]>What's the matter?"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "ask."
+                        "I brought the bottle like you asked."
                     ]
                 },
                 {
@@ -485,21 +485,21 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Pianist>No. I need more water. I need to wash up "
+                        "\\n<Pianist>This isn't enough, I need to wash the entire piano!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "whole piano! Leave this bottle here, it will be for me"
+                        "Leave the bottle here, It'll do for now."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "But I need bigger bottle! Maybe a bucket will be ok..."
+                        "But I need more water, maybe a bucket will work..."
                     ]
                 },
                 {
@@ -527,7 +527,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>Ok, I try to find something."
+                        "\\n<\\n[1]>Ok, I will try to find something."
                     ]
                 },
                 {
@@ -641,7 +641,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Pianist>Heeeey! You bring me the bucket of water!!"
+                        "\\n<Pianist>Heeeey! You brought me the bucket of water!!"
                     ]
                 },
                 {
@@ -658,7 +658,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Pianist>Great! Now I can wash my piano, "
+                        "\\n<Pianist>Great! Now I can wash my piano,"
                     ]
                 },
                 {
@@ -711,7 +711,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>Glad that I can help!"
+                        "\\n<\\n[1]>Glad that I could help!"
                     ]
                 },
                 {
@@ -728,28 +728,28 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Pianist>You are nwe here yes? Here is my advice."
+                        "\\n<Pianist>You are new here yes? Here's some advice."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Do not do anything, that is not ordered you. "
+                        "Do not do anything that you were not ordered to do."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "You are on the end of 3rd trimester. You can give birth"
+                        "You are nearing the end of the 3rd trimester."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "at any moment."
+                        "You could give birth at any moment."
                     ]
                 },
                 {
@@ -790,14 +790,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "your duties. Do not do anything more."
+                        "your duties and do nothing more."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "If you give birth - you will be fired! "
+                        "If you give birth you will be fired! "
                     ]
                 },
                 {
@@ -842,28 +842,28 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Pianist>Master is strange."
+                        "\\n<Pianist>The Master is strange."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "But, if you start job - do it! Master is paying "
+                        "But, if you start a job do it, he is paying very well."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "very well. If yoy start to get contraction. Talk to "
+                        "If you start to have contractions talk to Smaar,"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Smaar. He can help you. Now go. I need to work."
+                        "he can help you. Now go, I need to work."
                     ]
                 },
                 {
@@ -897,7 +897,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Pianist>Here, take it. Small gift from me."
+                        "\\n<PianistHere take it, a small gift from me."
                     ]
                 },
                 {
@@ -996,7 +996,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Pianist>You are done here. Thanks."
+                        "\\n<Pianist>You are done here, thanks."
                     ]
                 },
                 {

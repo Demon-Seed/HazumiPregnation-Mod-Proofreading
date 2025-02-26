@@ -108,14 +108,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>So Miss \\n[1], Welcome to my master house!"
+                        "\\n<\\v[104]>So Miss \\n[1], Welcome to my Master's house!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Please, dress up to your uniform."
+                        "Please, dress into your uniform."
                     ]
                 },
                 {
@@ -260,7 +260,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>Thank you. Now, you can choose from "
+                        "\\n<\\v[104]>Thank you. Now, you can choose from"
                     ]
                 },
                 {
@@ -291,7 +291,7 @@
                         [
                             "Serve the lower Big Hall",
                             "Serve the upper Saloon",
-                            "Room cleaning",
+                            "Serve in housekeeping",
                             "I want to see the house"
                         ],
                         1,
@@ -449,7 +449,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "only after Mr.Masterson's approval."
+                        "only after Mr.Mastersons approval."
                     ]
                 },
                 {
@@ -476,7 +476,7 @@
                     "indent": 0,
                     "parameters": [
                         2,
-                        "Room cleaning"
+                        "Serve in housekeeping"
                     ]
                 },
                 {
@@ -493,21 +493,21 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\v[104]>So you need to clean rooms on second floor."
+                        "\\n<\\v[104]>So you want to clean rooms on second floor."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Be prepare, this is a long term job!"
+                        "Be prepared, this is a long term job!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "You will stay here for a couple of days."
+                        "You'll stay here for a couple days."
                     ]
                 },
                 {
@@ -702,7 +702,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "But it's not a job, so you will not earn money for it."
+                        "But it's not a job so you won't be paid."
                     ]
                 },
                 {
@@ -716,7 +716,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Come Back after you've seen all that you want."
+                        "Come back after you've seen all that you want."
                     ]
                 },
                 {
@@ -866,7 +866,7 @@
                         [
                             "Serve the lower Big Hall",
                             "Serve the upper Saloon",
-                            "Room cleaning"
+                            "Serve in housekeeping"
                         ],
                         1,
                         0,
@@ -1109,7 +1109,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "And most importantly!!!"
+                        "Last but not least!!!"
                     ]
                 },
                 {
@@ -1144,14 +1144,14 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "No moaning or belly holding! Just come to me."
+                        "No moaning or belly holding!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "I will take care of it."
+                        "Just come to me, I'll take care of it."
                     ]
                 },
                 {
@@ -1168,7 +1168,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\v[104]>Now go, you little time!"
+                        "\\n<\\v[104]>Now go, you have little time!"
                     ]
                 },
                 {
@@ -1246,14 +1246,14 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\v[104]>I'm sorry Miss \\n[1]. For this job we need "
+                        "\\n<\\v[104]>I'm sorry Miss \\n[1]. "
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "experienced and proven employees. "
+                        "For this job we need experienced employees."
                     ]
                 },
                 {
@@ -1283,7 +1283,7 @@
                     "indent": 0,
                     "parameters": [
                         2,
-                        "Room cleaning"
+                        "Serve in housekeeping"
                     ]
                 },
                 {
