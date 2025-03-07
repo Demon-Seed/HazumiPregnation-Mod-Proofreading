@@ -445,7 +445,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "You need get back to work..."
+                        "You need to get back to work..."
                     ]
                 },
                 {
@@ -661,21 +661,21 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Smaar>Miss \\n[1] can you get up and move?? "
+                        "\\n<Smaar>Miss \\n[1] can you get up and move??"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "I think you will need a medical attention..."
+                        "I think you will need medical attention..."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "I will help you to get up..."
+                        "I will help you get up..."
                     ]
                 },
                 {

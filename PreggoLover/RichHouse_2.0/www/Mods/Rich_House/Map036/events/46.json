@@ -1,1 +1,654 @@
-{"id":46,"name":"EV046","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":439,"variableValid":false,"variableValue":1},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,1,1]},{"code":401,"indent":0,"parameters":["Miss \\n[1] have not permission to enter this room"]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":1,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":439,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":122,"indent":0,"parameters":[104,104,0,4,"'Masterson'"]},{"code":101,"indent":0,"parameters":["young_man",5,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>What is it???!!!"]},{"code":205,"indent":0,"parameters":[43,{"list":[{"code":14,"parameters":[0,0],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":14,"parameters":[0,0],"indent":null}]},{"code":101,"indent":0,"parameters":["young_maid",4,0,2]},{"code":401,"indent":0,"parameters":["\\n<Maid>Mister Masterson!!! "]},{"code":401,"indent":0,"parameters":["I'm incredabile sorry!!!!"]},{"code":101,"indent":0,"parameters":["young_man",5,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>You wet the whole sheet!!!"]},{"code":101,"indent":0,"parameters":["young_maid",2,0,2]},{"code":401,"indent":0,"parameters":["\\n<Maid>I'm sorry Mr.Masterson!! I'm going"]},{"code":401,"indent":0,"parameters":["to change the sheet immediately..."]},{"code":230,"indent":0,"parameters":[30]},{"code":101,"indent":0,"parameters":["young_maid",2,0,2]},{"code":401,"indent":0,"parameters":["\\n<Maid>Ouch... My belly..."]},{"code":101,"indent":0,"parameters":["young_man",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>What? You need help?"]},{"code":101,"indent":0,"parameters":["young_maid",6,0,2]},{"code":401,"indent":0,"parameters":["\\n<Maid>Nnnn.... no... I can handle it."]},{"code":101,"indent":0,"parameters":["young_man",5,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>I do not pay you, for holding "]},{"code":401,"indent":0,"parameters":["belly, and screaming! Get back to work!!!"]},{"code":101,"indent":0,"parameters":["young_maid",6,0,2]},{"code":401,"indent":0,"parameters":["\\n<Maid>I'm... I'm returning to work!!!"]},{"code":401,"indent":0,"parameters":["I need this job..."]},{"code":101,"indent":0,"parameters":["young_man",6,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>Hope so..."]},{"code":122,"indent":0,"parameters":[447,447,0,0,1]},{"code":122,"indent":0,"parameters":[439,439,0,0,2]},{"code":101,"indent":0,"parameters":["young_man",1,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\v[104]>Hey you! Come in!"]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":439,"variableValid":true,"variableValue":2},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":449,"variableValid":true,"variableValue":4},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,1,1]},{"code":401,"indent":0,"parameters":["Miss \\n[1] have not permission to enter this room"]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":1,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":1,"indent":null}]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":453,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":1,"y":8}
+{
+    "id": 46,
+    "name": "EV046",
+    "note": "",
+    "pages": [
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 439,
+                "variableValid": false,
+                "variableValue": 1
+            },
+            "directionFix": false,
+            "image": {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list": [
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "Miss \\n[1] have not permission to enter this room"
+                    ]
+                },
+                {
+                    "code": 205,
+                    "indent": 0,
+                    "parameters": [
+                        -1,
+                        {
+                            "list": [
+                                {
+                                    "code": 1,
+                                    "indent": null
+                                },
+                                {
+                                    "code": 0
+                                }
+                            ],
+                            "repeat": false,
+                            "skippable": false,
+                            "wait": true
+                        }
+                    ]
+                },
+                {
+                    "code": 505,
+                    "indent": 0,
+                    "parameters": [
+                        {
+                            "code": 1,
+                            "indent": null
+                        }
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 1,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 439,
+                "variableValid": true,
+                "variableValue": 1
+            },
+            "directionFix": false,
+            "image": {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list": [
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        104,
+                        104,
+                        0,
+                        4,
+                        "'Masterson'"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        5,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>What is it???!!!"
+                    ]
+                },
+                {
+                    "code": 205,
+                    "indent": 0,
+                    "parameters": [
+                        43,
+                        {
+                            "list": [
+                                {
+                                    "code": 14,
+                                    "parameters": [
+                                        0,
+                                        0
+                                    ],
+                                    "indent": null
+                                },
+                                {
+                                    "code": 0
+                                }
+                            ],
+                            "repeat": false,
+                            "skippable": false,
+                            "wait": true
+                        }
+                    ]
+                },
+                {
+                    "code": 505,
+                    "indent": 0,
+                    "parameters": [
+                        {
+                            "code": 14,
+                            "parameters": [
+                                0,
+                                0
+                            ],
+                            "indent": null
+                        }
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_maid",
+                        4,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Maid>Mister Masterson!!! "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "I'm incredabile sorry!!!!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        5,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>You wet the whole sheet!!!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_maid",
+                        2,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Maid>I'm sorry Mr.Masterson!! I'm going"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "to change the sheet immediately..."
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        30
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_maid",
+                        2,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Maid>Ouch... My belly..."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>What? You need help?"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_maid",
+                        6,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Maid>Nnnn.... no... I can handle it."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        5,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>I do not pay you, for holding "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "belly, and screaming! Get back to work!!!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_maid",
+                        6,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Maid>I'm... I'm returning to work!!!"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "I need this job..."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        6,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>Hope so..."
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        447,
+                        447,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        439,
+                        439,
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "young_man",
+                        1,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\v[104]>Hey you! Come in!"
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 1,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 439,
+                "variableValid": true,
+                "variableValue": 2
+            },
+            "directionFix": false,
+            "image": {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list": [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 449,
+                "variableValid": true,
+                "variableValue": 4
+            },
+            "directionFix": false,
+            "image": {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list": [
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "Miss \\n[1] have not permission to enter this room"
+                    ]
+                },
+                {
+                    "code": 205,
+                    "indent": 0,
+                    "parameters": [
+                        -1,
+                        {
+                            "list": [
+                                {
+                                    "code": 1,
+                                    "indent": null
+                                },
+                                {
+                                    "code": 0
+                                }
+                            ],
+                            "repeat": false,
+                            "skippable": false,
+                            "wait": true
+                        }
+                    ]
+                },
+                {
+                    "code": 505,
+                    "indent": 0,
+                    "parameters": [
+                        {
+                            "code": 1,
+                            "indent": null
+                        }
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 1,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 453,
+                "variableValid": true,
+                "variableValue": 1
+            },
+            "directionFix": false,
+            "image": {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list": [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 1,
+            "walkAnime": true
+        }
+    ],
+    "x": 1,
+    "y": 8
+}
