@@ -1,1 +1,299 @@
-{"id":158,"name":"EV158","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":472,"variableValid":false,"variableValue":1},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":8,"pattern":0,"characterIndex":6},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":475,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":0,"characterName":"!Flame","direction":8,"pattern":0,"characterIndex":6},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>Finaly... Dont know, how I do all that work,"]},{"code":401,"indent":0,"parameters":["and keep Baby inside..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>My belly will burst! This plate is so heavy!"]},{"code":122,"indent":0,"parameters":[475,475,0,0,2]},{"code":122,"indent":0,"parameters":[454,454,0,0,7]},{"code":230,"indent":0,"parameters":[30]},{"code":250,"indent":0,"parameters":[{"name":"Paralyze1","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[30]},{"code":250,"indent":0,"parameters":[{"name":"kill8","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[30]},{"code":122,"indent":0,"parameters":[32,32,2,0,1]},{"code":117,"indent":0,"parameters":[22]},{"code":122,"indent":0,"parameters":[480,480,1,0,1]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":475,"variableValid":true,"variableValue":2},"directionFix":false,"image":{"tileId":291,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":20,"y":32}
+{
+    "id": 158,
+    "name": "EV158",
+    "note": "",
+    "pages": [
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 472,
+                "variableValid": false,
+                "variableValue": 1
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "",
+                "direction": 8,
+                "pattern": 0,
+                "characterIndex": 6
+            },
+            "list": [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 475,
+                "variableValid": true,
+                "variableValue": 1
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "!Flame",
+                "direction": 8,
+                "pattern": 0,
+                "characterIndex": 6
+            },
+            "list": [
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\n[1]>Finaly... Dont know, how I do all that work,"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "and keep Baby inside..."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\n[1]>My belly will burst! This plate is so heavy!"
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        475,
+                        475,
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        454,
+                        454,
+                        0,
+                        0,
+                        7
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        30
+                    ]
+                },
+                {
+                    "code": 250,
+                    "indent": 0,
+                    "parameters": [
+                        {
+                            "name": "Paralyze1",
+                            "volume": 90,
+                            "pitch": 100,
+                            "pan": 0
+                        }
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        30
+                    ]
+                },
+                {
+                    "code": 250,
+                    "indent": 0,
+                    "parameters": [
+                        {
+                            "name": "kill8",
+                            "volume": 90,
+                            "pitch": 100,
+                            "pan": 0
+                        }
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        30
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        32,
+                        32,
+                        2,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "code": 117,
+                    "indent": 0,
+                    "parameters": [
+                        22
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        480,
+                        480,
+                        1,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": true,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 475,
+                "variableValid": true,
+                "variableValue": 2
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 291,
+                "characterName": "",
+                "characterIndex": 0,
+                "direction": 2,
+                "pattern": 0
+            },
+            "list": [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 20,
+    "y": 32
+}

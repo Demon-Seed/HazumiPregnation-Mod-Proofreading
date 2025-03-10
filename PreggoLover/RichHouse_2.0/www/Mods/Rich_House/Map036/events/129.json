@@ -1,1 +1,200 @@
-{"id":129,"name":"EV129","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":723,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":722,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":468,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":0,"characterName":"!Flame","direction":8,"pattern":0,"characterIndex":6},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>One Complex Dinner. Let's bring it to Guest!"]},{"code":126,"indent":0,"parameters":[400,0,0,1]},{"code":122,"indent":0,"parameters":[468,468,0,0,2]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":722,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":468,"variableValid":true,"variableValue":2},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":8,"pattern":0,"characterIndex":6},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":4,"y":33}
+{
+    "id": 129,
+    "name": "EV129",
+    "note": "",
+    "pages": [
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 723,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image": {
+                "characterIndex": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 0,
+                "tileId": 0
+            },
+            "list": [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 722,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 468,
+                "variableValid": true,
+                "variableValue": 1
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "!Flame",
+                "direction": 8,
+                "pattern": 0,
+                "characterIndex": 6
+            },
+            "list": [
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\n[1]>One Complex Dinner. Let's bring it to Guest!"
+                    ]
+                },
+                {
+                    "code": 126,
+                    "indent": 0,
+                    "parameters": [
+                        400,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        468,
+                        468,
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": true,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 722,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 468,
+                "variableValid": true,
+                "variableValue": 2
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "",
+                "direction": 8,
+                "pattern": 0,
+                "characterIndex": 6
+            },
+            "list": [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 4,
+    "y": 33
+}

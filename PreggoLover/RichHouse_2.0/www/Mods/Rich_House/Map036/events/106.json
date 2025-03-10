@@ -1,1 +1,859 @@
-{"id":106,"name":"EV106","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":454,"variableValid":false,"variableValue":4},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":454,"variableValid":true,"variableValue":4},"directionFix":false,"image":{"tileId":0,"characterName":"hadumi_maidB","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":121,"indent":0,"parameters":[1,1,0]},{"code":231,"indent":0,"parameters":[1,"RH_maid_hair_2",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[2,"RH_maid_bote_huge",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"RH_maid_face_1",0,0,0,0,100,100,255,0]},{"code":121,"indent":0,"parameters":[1,1,0]},{"code":101,"indent":0,"parameters":["",2,0,2]},{"code":401,"indent":0,"parameters":["\\n<Maid>Hurry up! Talk to Smaar. "]},{"code":401,"indent":0,"parameters":["He will give you instructions!"]},{"code":230,"indent":0,"parameters":[120]},{"code":235,"indent":0,"parameters":[1]},{"code":235,"indent":0,"parameters":[2]},{"code":235,"indent":0,"parameters":[3]},{"code":121,"indent":0,"parameters":[1,1,1]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":454,"variableValid":true,"variableValue":5},"directionFix":false,"image":{"tileId":0,"characterName":"hadumi_maidB","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":121,"indent":0,"parameters":[1,1,0]},{"code":231,"indent":0,"parameters":[1,"RH_maid_hair_2",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[2,"RH_maid_bote_huge",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"RH_maid_face_1",0,0,0,0,100,100,255,0]},{"code":121,"indent":0,"parameters":[1,1,0]},{"code":101,"indent":0,"parameters":["",2,0,2]},{"code":401,"indent":0,"parameters":["\\n<Maid>Oh you are here! Good!"]},{"code":121,"indent":0,"parameters":[1,1,0]},{"code":101,"indent":0,"parameters":["",2,0,2]},{"code":401,"indent":0,"parameters":["\\n<Maid>I'm serving drinks. "]},{"code":401,"indent":0,"parameters":["So take a food services please!"]},{"code":101,"indent":0,"parameters":["",2,0,2]},{"code":401,"indent":0,"parameters":["\\n<Maid>Chef in kitchen is waiting for you!"]},{"code":121,"indent":0,"parameters":[1,1,0]},{"code":101,"indent":0,"parameters":["",2,0,2]},{"code":401,"indent":0,"parameters":["\\n<Maid>I see you in labor too! Be careful! "]},{"code":401,"indent":0,"parameters":["Do not Give birth in front of our guests! It will ruine "]},{"code":401,"indent":0,"parameters":["your reputation."]},{"code":401,"indent":0,"parameters":["Serve only one gust at once. And talk to Mr.Masterson."]},{"code":101,"indent":0,"parameters":["",2,0,2]},{"code":401,"indent":0,"parameters":["\\n<Maid>If you want, i give to you small mirror."]},{"code":401,"indent":0,"parameters":["To help you check how much is head poped out."]},{"code":401,"indent":0,"parameters":["If guest invite you go upstairs... Just leave the "]},{"code":401,"indent":0,"parameters":["mirror here. I will keep it for you."]},{"code":121,"indent":0,"parameters":[1,1,0]},{"code":102,"indent":0,"parameters":[["Yes, thank you!","No, thank you!"],1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"Yes, thank you!"]},{"code":101,"indent":1,"parameters":["",2,0,2]},{"code":401,"indent":1,"parameters":["\\n<Maid>You are welcome!"]},{"code":122,"indent":1,"parameters":[464,464,0,0,1]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"No, thank you!"]},{"code":101,"indent":1,"parameters":["",2,0,2]},{"code":401,"indent":1,"parameters":["\\n<Maid>As you wish."]},{"code":122,"indent":1,"parameters":[464,464,0,0,0]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[120]},{"code":235,"indent":0,"parameters":[1]},{"code":235,"indent":0,"parameters":[2]},{"code":235,"indent":0,"parameters":[3]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":480,"variableValid":true,"variableValue":21},"directionFix":false,"image":{"tileId":0,"characterName":"hadumi_maidB","direction":2,"pattern":1,"characterIndex":1},"list":[{"code":121,"indent":0,"parameters":[1,1,0]},{"code":231,"indent":0,"parameters":[1,"RH_maid_hair_2",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[2,"RH_maid_bote_huge",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[3,"RH_maid_face_1",0,0,0,0,100,100,255,0]},{"code":121,"indent":0,"parameters":[1,1,0]},{"code":101,"indent":0,"parameters":["",2,0,2]},{"code":401,"indent":0,"parameters":["\\n<Maid>We are done here!"]},{"code":121,"indent":0,"parameters":[1,1,0]},{"code":101,"indent":0,"parameters":["",2,0,2]},{"code":401,"indent":0,"parameters":["\\n<Maid>Hurry up! Go to Smaar! And go to hospital!!"]},{"code":101,"indent":0,"parameters":["",2,0,2]},{"code":401,"indent":0,"parameters":["\\n<Maid>I will do the same in few minutes!"]},{"code":121,"indent":0,"parameters":[1,1,0]},{"code":230,"indent":0,"parameters":[120]},{"code":235,"indent":0,"parameters":[1]},{"code":235,"indent":0,"parameters":[2]},{"code":235,"indent":0,"parameters":[3]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}],"x":29,"y":31}
+{
+    "id": 106,
+    "name": "EV106",
+    "note": "",
+    "pages": [
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 454,
+                "variableValid": false,
+                "variableValue": 4
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 1
+            },
+            "list": [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": true,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 454,
+                "variableValid": true,
+                "variableValue": 4
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "hadumi_maidB",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 1
+            },
+            "list": [
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "code": 231,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        "RH_maid_hair_2",
+                        0,
+                        0,
+                        0,
+                        0,
+                        100,
+                        100,
+                        255,
+                        0
+                    ]
+                },
+                {
+                    "code": 231,
+                    "indent": 0,
+                    "parameters": [
+                        2,
+                        "RH_maid_bote_huge",
+                        0,
+                        0,
+                        0,
+                        0,
+                        100,
+                        100,
+                        255,
+                        0
+                    ]
+                },
+                {
+                    "code": 231,
+                    "indent": 0,
+                    "parameters": [
+                        3,
+                        "RH_maid_face_1",
+                        0,
+                        0,
+                        0,
+                        0,
+                        100,
+                        100,
+                        255,
+                        0
+                    ]
+                },
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        2,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Maid>Hurry up! Talk to Smaar. "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "He will give you instructions!"
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        120
+                    ]
+                },
+                {
+                    "code": 235,
+                    "indent": 0,
+                    "parameters": [
+                        1
+                    ]
+                },
+                {
+                    "code": 235,
+                    "indent": 0,
+                    "parameters": [
+                        2
+                    ]
+                },
+                {
+                    "code": 235,
+                    "indent": 0,
+                    "parameters": [
+                        3
+                    ]
+                },
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 1,
+            "priorityType": 1,
+            "stepAnime": true,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 454,
+                "variableValid": true,
+                "variableValue": 5
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "hadumi_maidB",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 1
+            },
+            "list": [
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "code": 231,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        "RH_maid_hair_2",
+                        0,
+                        0,
+                        0,
+                        0,
+                        100,
+                        100,
+                        255,
+                        0
+                    ]
+                },
+                {
+                    "code": 231,
+                    "indent": 0,
+                    "parameters": [
+                        2,
+                        "RH_maid_bote_huge",
+                        0,
+                        0,
+                        0,
+                        0,
+                        100,
+                        100,
+                        255,
+                        0
+                    ]
+                },
+                {
+                    "code": 231,
+                    "indent": 0,
+                    "parameters": [
+                        3,
+                        "RH_maid_face_1",
+                        0,
+                        0,
+                        0,
+                        0,
+                        100,
+                        100,
+                        255,
+                        0
+                    ]
+                },
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        2,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Maid>Oh you are here! Good!"
+                    ]
+                },
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        2,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Maid>I'm serving drinks. "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "So take a food services please!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        2,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Maid>Chef in kitchen is waiting for you!"
+                    ]
+                },
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        2,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Maid>I see you in labor too! Be careful! "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "Do not Give birth in front of our guests! It will ruine "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "your reputation."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "Serve only one gust at once. And talk to Mr.Masterson."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        2,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Maid>If you want, i give to you small mirror."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "To help you check how much is head poped out."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "If guest invite you go upstairs... Just leave the "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "mirror here. I will keep it for you."
+                    ]
+                },
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "code": 102,
+                    "indent": 0,
+                    "parameters": [
+                        [
+                            "Yes, thank you!",
+                            "No, thank you!"
+                        ],
+                        1,
+                        0,
+                        2,
+                        0
+                    ]
+                },
+                {
+                    "code": 402,
+                    "indent": 0,
+                    "parameters": [
+                        0,
+                        "Yes, thank you!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        2,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<Maid>You are welcome!"
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 1,
+                    "parameters": [
+                        464,
+                        464,
+                        0,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 1,
+                    "parameters": []
+                },
+                {
+                    "code": 402,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        "No, thank you!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 1,
+                    "parameters": [
+                        "",
+                        2,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 1,
+                    "parameters": [
+                        "\\n<Maid>As you wish."
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 1,
+                    "parameters": [
+                        464,
+                        464,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 1,
+                    "parameters": []
+                },
+                {
+                    "code": 404,
+                    "indent": 0,
+                    "parameters": []
+                },
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        120
+                    ]
+                },
+                {
+                    "code": 235,
+                    "indent": 0,
+                    "parameters": [
+                        1
+                    ]
+                },
+                {
+                    "code": 235,
+                    "indent": 0,
+                    "parameters": [
+                        2
+                    ]
+                },
+                {
+                    "code": 235,
+                    "indent": 0,
+                    "parameters": [
+                        3
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 1,
+            "priorityType": 1,
+            "stepAnime": true,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 480,
+                "variableValid": true,
+                "variableValue": 21
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "hadumi_maidB",
+                "direction": 2,
+                "pattern": 1,
+                "characterIndex": 1
+            },
+            "list": [
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "code": 231,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        "RH_maid_hair_2",
+                        0,
+                        0,
+                        0,
+                        0,
+                        100,
+                        100,
+                        255,
+                        0
+                    ]
+                },
+                {
+                    "code": 231,
+                    "indent": 0,
+                    "parameters": [
+                        2,
+                        "RH_maid_bote_huge",
+                        0,
+                        0,
+                        0,
+                        0,
+                        100,
+                        100,
+                        255,
+                        0
+                    ]
+                },
+                {
+                    "code": 231,
+                    "indent": 0,
+                    "parameters": [
+                        3,
+                        "RH_maid_face_1",
+                        0,
+                        0,
+                        0,
+                        0,
+                        100,
+                        100,
+                        255,
+                        0
+                    ]
+                },
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        2,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Maid>We are done here!"
+                    ]
+                },
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        2,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Maid>Hurry up! Go to Smaar! And go to hospital!!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        2,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Maid>I will do the same in few minutes!"
+                    ]
+                },
+                {
+                    "code": 121,
+                    "indent": 0,
+                    "parameters": [
+                        1,
+                        1,
+                        0
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        120
+                    ]
+                },
+                {
+                    "code": 235,
+                    "indent": 0,
+                    "parameters": [
+                        1
+                    ]
+                },
+                {
+                    "code": 235,
+                    "indent": 0,
+                    "parameters": [
+                        2
+                    ]
+                },
+                {
+                    "code": 235,
+                    "indent": 0,
+                    "parameters": [
+                        3
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 1,
+            "priorityType": 1,
+            "stepAnime": true,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 29,
+    "y": 31
+}

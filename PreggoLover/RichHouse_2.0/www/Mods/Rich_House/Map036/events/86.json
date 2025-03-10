@@ -1,1 +1,102 @@
-{"id":86,"name":"EV086","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":453,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":672,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":230,"indent":0,"parameters":[120]},{"code":250,"indent":0,"parameters":[{"name":"Recovery","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[60]},{"code":122,"indent":0,"parameters":[457,457,1,0,1]},{"code":214,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":10,"y":17}
+{
+    "id": 86,
+    "name": "EV086",
+    "note": "",
+    "pages": [
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 453,
+                "variableValid": true,
+                "variableValue": 1
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 672,
+                "characterName": "",
+                "characterIndex": 0,
+                "direction": 2,
+                "pattern": 0
+            },
+            "list": [
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        120
+                    ]
+                },
+                {
+                    "code": 250,
+                    "indent": 0,
+                    "parameters": [
+                        {
+                            "name": "Recovery",
+                            "volume": 90,
+                            "pitch": 100,
+                            "pan": 0
+                        }
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        60
+                    ]
+                },
+                {
+                    "code": 122,
+                    "indent": 0,
+                    "parameters": [
+                        457,
+                        457,
+                        1,
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "code": 214,
+                    "indent": 0,
+                    "parameters": []
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 10,
+    "y": 17
+}

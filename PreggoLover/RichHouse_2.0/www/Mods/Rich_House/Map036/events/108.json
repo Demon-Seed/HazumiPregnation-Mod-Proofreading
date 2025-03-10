@@ -1,1 +1,366 @@
-{"id":108,"name":"EV108","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":8,"pattern":1,"characterIndex":2},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":454,"variableValid":true,"variableValue":4},"directionFix":false,"image":{"tileId":0,"characterName":"Student_boy_2","direction":8,"pattern":1,"characterIndex":2},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Walter Drunken>Hay Maid! I want some Beer! Hic..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>Of course, I tell my collegue, she will serve "]},{"code":401,"indent":0,"parameters":["you at the moment!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Walter Drunken>Ha, that long hair baloon? He he he."]},{"code":401,"indent":0,"parameters":["Hic..."]},{"code":401,"indent":0,"parameters":["How much beer can I storge in your belly? Hic..."]},{"code":401,"indent":0,"parameters":["Nevermind, go..."]},{"code":230,"indent":0,"parameters":[30]},{"code":213,"indent":0,"parameters":[-1,2,false]},{"code":230,"indent":0,"parameters":[30]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":454,"variableValid":true,"variableValue":5},"directionFix":false,"image":{"tileId":0,"characterName":"Student_boy_2","direction":8,"pattern":1,"characterIndex":2},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Walter Drunken>Hay Maid! I want some Beer! Hic..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<\\n[1]>Of course, I tell my collegue, she will serve "]},{"code":401,"indent":0,"parameters":["you at the moment!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["\\n<Walter Drunken>Ha, that long hair baloon? He he he."]},{"code":401,"indent":0,"parameters":["Hic..."]},{"code":401,"indent":0,"parameters":["How much beer can I storge in your belly? Hic..."]},{"code":401,"indent":0,"parameters":["Nevermind, go..."]},{"code":230,"indent":0,"parameters":[30]},{"code":213,"indent":0,"parameters":[-1,2,false]},{"code":230,"indent":0,"parameters":[30]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":31,"y":41}
+{
+    "id": 108,
+    "name": "EV108",
+    "note": "",
+    "pages": [
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 1,
+                "variableValid": false,
+                "variableValue": 0
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "",
+                "direction": 8,
+                "pattern": 1,
+                "characterIndex": 2
+            },
+            "list": [
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 0,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 454,
+                "variableValid": true,
+                "variableValue": 4
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "Student_boy_2",
+                "direction": 8,
+                "pattern": 1,
+                "characterIndex": 2
+            },
+            "list": [
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Walter Drunken>Hay Maid! I want some Beer! Hic..."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\n[1]>Of course, I tell my collegue, she will serve "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "you at the moment!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Walter Drunken>Ha, that long hair baloon? He he he."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "Hic..."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "How much beer can I storge in your belly? Hic..."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "Nevermind, go..."
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        30
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 0,
+                    "parameters": [
+                        -1,
+                        2,
+                        false
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        30
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        },
+        {
+            "conditions": {
+                "actorId": 1,
+                "actorValid": false,
+                "itemId": 1,
+                "itemValid": false,
+                "selfSwitchCh": "A",
+                "selfSwitchValid": false,
+                "switch1Id": 1,
+                "switch1Valid": false,
+                "switch2Id": 1,
+                "switch2Valid": false,
+                "variableId": 454,
+                "variableValid": true,
+                "variableValue": 5
+            },
+            "directionFix": false,
+            "image": {
+                "tileId": 0,
+                "characterName": "Student_boy_2",
+                "direction": 8,
+                "pattern": 1,
+                "characterIndex": 2
+            },
+            "list": [
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Walter Drunken>Hay Maid! I want some Beer! Hic..."
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<\\n[1]>Of course, I tell my collegue, she will serve "
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "you at the moment!"
+                    ]
+                },
+                {
+                    "code": 101,
+                    "indent": 0,
+                    "parameters": [
+                        "",
+                        0,
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "\\n<Walter Drunken>Ha, that long hair baloon? He he he."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "Hic..."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "How much beer can I storge in your belly? Hic..."
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "Nevermind, go..."
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        30
+                    ]
+                },
+                {
+                    "code": 213,
+                    "indent": 0,
+                    "parameters": [
+                        -1,
+                        2,
+                        false
+                    ]
+                },
+                {
+                    "code": 230,
+                    "indent": 0,
+                    "parameters": [
+                        30
+                    ]
+                },
+                {
+                    "code": 0,
+                    "indent": 0,
+                    "parameters": []
+                }
+            ],
+            "moveFrequency": 3,
+            "moveRoute": {
+                "list": [
+                    {
+                        "code": 0,
+                        "parameters": []
+                    }
+                ],
+                "repeat": true,
+                "skippable": false,
+                "wait": false
+            },
+            "moveSpeed": 3,
+            "moveType": 0,
+            "priorityType": 1,
+            "stepAnime": false,
+            "through": false,
+            "trigger": 0,
+            "walkAnime": true
+        }
+    ],
+    "x": 31,
+    "y": 41
+}

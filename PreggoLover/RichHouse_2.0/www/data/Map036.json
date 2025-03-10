@@ -15807,7 +15807,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\v[104]>It is not yet time for this child to be born." 
+                                "\\n<\\v[104]>It is not yet time for this child to be born."
                             ]
                         },
                         {
@@ -18178,17 +18178,17 @@
                         },
                         {
                             "code": 401,
-                    "indent": 0,
-                    "parameters": [
-                        "\\n<Smaar>Miss \\n[1], I've been looking for you all over."
-                    ]
-                },
-                {
-                    "code": 401,
-                    "indent": 0,
-                    "parameters": [
-                        "You need to get back to work..."
-                    ]
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Smaar>Miss \\n[1], I've been looking for you all over."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "You need to get back to work..."
+                            ]
                         },
                         {
                             "code": 250,
@@ -43569,7 +43569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Maid>I'm birthing... My baby is neary"
+                                "\\n<Maid>I'm birthing... My baby is nearly"
                             ]
                         },
                         {
@@ -43628,14 +43628,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If we birth, we are fired immediately!!"
+                                "You know what happens if we give birth!!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Masterson need only pregnant women!"
+                                "Masterson needs only pregnant women!"
                             ]
                         },
                         {
