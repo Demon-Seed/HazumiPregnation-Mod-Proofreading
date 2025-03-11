@@ -42,7 +42,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Miss \\n[1] have not permission to enter this room"
+                        "Miss \\n[1] hasn't got permission\nto enter this room."
                     ]
                 },
                 {
@@ -215,7 +215,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "I'm incredabile sorry!!!!"
+                        "I'm incredibly sorry!!!!"
                     ]
                 },
                 {
@@ -249,14 +249,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>I'm sorry Mr.Masterson!! I'm going"
+                        "\\n<Maid>I'm sorry Mr.Masterson!!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "to change the sheet immediately..."
+                        "I'll change the sheet immediately..."
                     ]
                 },
                 {
@@ -314,7 +314,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>Nnnn.... no... I can handle it."
+                        "\\n<Maid>Nnnn.... no, I can handle it."
                     ]
                 },
                 {
@@ -331,14 +331,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>I do not pay you, for holding "
+                        "\\n<\\v[104]>I do not pay you to hold your belly and cry!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "belly, and screaming! Get back to work!!!"
+                        "Get back to work!!!"
                     ]
                 },
                 {
@@ -537,7 +537,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Miss \\n[1] have not permission to enter this room"
+                        "Miss \\n[1] hasn't got permission\nto enter this room."
                     ]
                 },
                 {

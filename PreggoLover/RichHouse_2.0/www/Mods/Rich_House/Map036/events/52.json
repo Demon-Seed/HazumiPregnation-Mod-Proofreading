@@ -129,7 +129,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>Mrister Masterson Mansion"
+                        "\\n<\\n[1]>We are at Mr.Masterson's mansion!"
                     ]
                 },
                 {
@@ -146,7 +146,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>We have a woman, who give birth here..."
+                        "\\n<\\n[1]>We have a woman who's given birth!"
                     ]
                 },
                 {
@@ -163,7 +163,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Operator>Oh.. Again? Unbelievable!"
+                        "\\n<Operator>...Again? Unbelievable!"
                     ]
                 },
                 {
@@ -246,14 +246,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n[1] did a good thing. For helping Maid, your charm"
+                        "\\n[1] did a good thing."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "was increased."
+                        "For helping the Maid, your charm has increased."
                     ]
                 },
                 {

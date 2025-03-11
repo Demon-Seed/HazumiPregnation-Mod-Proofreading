@@ -1292,7 +1292,7 @@
             "code": 401,
             "indent": 1,
             "parameters": [
-                "You Give birth..."
+                "you gave birth..."
             ]
         },
         {
@@ -1326,7 +1326,7 @@
             "code": 401,
             "indent": 1,
             "parameters": [
-                "\\n<Guest>It is verry pitty... But I must report it to "
+                "\\n<Guest>It is very pitty... But I must report it to "
             ]
         },
         {
@@ -1439,7 +1439,7 @@
             "code": 401,
             "indent": 1,
             "parameters": [
-                "\\n<Smaar>Mr. Andy, I'm incredabile sorry!!!"
+                "\\n<Smaar>Mr. Andy, I'm incredibly sorry!!!"
             ]
         },
         {
