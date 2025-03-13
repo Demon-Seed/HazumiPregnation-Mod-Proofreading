@@ -202,14 +202,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>Go and talk with Chef in kitchen. "
+                        "\\n<Maid>Go and talk with Chef in the kitchen. "
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "He will explain you everything."
+                        "He will explain everything."
                     ]
                 },
                 {
@@ -373,7 +373,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>So you will you serve the big hall with me?"
+                        "\\n<Maid>So, you will serve the big hall with me?"
                     ]
                 },
                 {
@@ -555,7 +555,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>Baby is kicking a lot..."
+                        "\\n<Maid>My baby is kicking a lot..."
                     ]
                 },
                 {
@@ -581,7 +581,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>And contractions... They are hits me sometimes."
+                        "\\n<Maid>I've been feeling contractions come and go too..."
                     ]
                 },
                 {
@@ -614,7 +614,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "that you are in the middle of the birthing..."
+                        "It seems that you've gone into labor..."
                     ]
                 },
                 {
@@ -663,21 +663,21 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>And let the money fly away? Do you know how "
+                        "\\n<Maid>And let the money fly away?"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "much Smaar pays for serving a Celebration of Life "
+                        "Do you know how much Smaar pays for serving a"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "ceremony with huge belly?"
+                        "Celebration of Life ceremony with huge belly?"
                     ]
                 },
                 {
@@ -729,21 +729,21 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>I spoke to Smaar. "
+                        "\\n<Maid>I spoke to Smaar."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "If something goes wrong and my uterus starts pushing "
+                        "If something goes wrong and my uterus starts"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "the baby out, I need to go to him."
+                        "pushing the baby out, I'll have to go see him."
                     ]
                 },
                 {
@@ -769,14 +769,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>He will give the Medicine and help me to make "
+                        "\\n<Maid>He'll give me the Medicine to delay my labor,"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "it possible for me to continue working."
+                        "and help make it possible to continue working."
                     ]
                 },
                 {
@@ -802,7 +802,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>So you can talk with him too. He will help."
+                        "\\n<Maid>So you can talk with him too, he will help."
                     ]
                 },
                 {
@@ -830,7 +830,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>Ok, thank you for your explanation."
+                        "\\n<\\n[1]>Ok, thank you for the explanation."
                     ]
                 },
                 {
@@ -858,7 +858,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>So you can talk with him too. He will help."
+                        "\\n<Maid>So you can talk with him too, he will help."
                     ]
                 },
                 {
@@ -901,21 +901,21 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>Yes, Smaar will call, when he will need us."
+                        "\\n<Maid>Yes, Smaar will call when he needs us."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "I will lay down for a while. I would advise you to do "
+                        "I will lie down for a while,"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "the same. "
+                        "I'd advise you do the same."
                     ]
                 },
                 {
@@ -1090,7 +1090,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>I need to rest for a while. Please. "
+                        "\\n<Maid>Please let me rest for a while."
                     ]
                 },
                 {
@@ -1123,7 +1123,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>Yes. Of course."
+                        "\\n<\\n[1]>Yes, of course."
                     ]
                 },
                 {
