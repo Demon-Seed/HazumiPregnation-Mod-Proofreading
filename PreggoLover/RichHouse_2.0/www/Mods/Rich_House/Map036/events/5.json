@@ -290,7 +290,7 @@
                     "parameters": [
                         [
                             "Serve the lower Big Hall",
-                            "Serve the upper Saloon",
+                            "Serve the Upper Saloon",
                             "Serve in housekeeping",
                             "I want to see the house"
                         ],
@@ -408,7 +408,7 @@
                     "indent": 0,
                     "parameters": [
                         1,
-                        "Serve the upper Saloon"
+                        "Serve the Upper Saloon"
                     ]
                 },
                 {
@@ -442,7 +442,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\v[104]>I'm sorry. Serving the upper Saloon is available"
+                        "\\n<\\v[104]>I'm sorry. Serving the Upper Saloon is available"
                     ]
                 },
                 {
@@ -865,7 +865,7 @@
                     "parameters": [
                         [
                             "Serve the lower Big Hall",
-                            "Serve the upper Saloon",
+                            "Serve the Upper Saloon",
                             "Serve in housekeeping"
                         ],
                         1,
@@ -984,7 +984,7 @@
                     "indent": 0,
                     "parameters": [
                         1,
-                        "Serve the upper Saloon"
+                        "Serve the Upper Saloon"
                     ]
                 },
                 {
@@ -3412,7 +3412,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<\\n[1]>Aaaaaaaahhhhhhhh...."
+                        "\\n<\\n[1]>Aaaaaaaahhhhhhhh..."
                     ]
                 },
                 {

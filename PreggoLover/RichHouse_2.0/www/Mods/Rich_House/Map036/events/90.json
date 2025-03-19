@@ -42,7 +42,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Miss \\n[1] have not permission to enter to this level."
+                        "Miss \\n[1] doesn't have permission\nto enter to this level."
                     ]
                 },
                 {
