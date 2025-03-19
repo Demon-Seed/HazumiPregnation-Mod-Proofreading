@@ -2278,7 +2278,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\n<Horny Boy>mmhhmm\\..\\..\\..\\.."
+                "\\n<Horny Boy>Mmhhmm\\..\\..\\.."
               ]
             },
             {
