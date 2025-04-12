@@ -100,7 +100,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "you orders! Hurry! Serving the guest is "
+                        "you orders! Hurry! Serving the guest"
                     ]
                 },
                 {
@@ -193,21 +193,21 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Now I need to prepare Buffet here. "
+                        "Now I need to prepare the buffet. "
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Go to Cheef. "
+                        "Go to Chef, he's in the kitchen. "
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "He is in kitchen. He tell you more."
+                        "He will tell you more."
                     ]
                 },
                 {
@@ -245,7 +245,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Masterson>Serving guest is priority!"
+                        "\\n<Masterson>Serving guest is the priority!"
                     ]
                 },
                 {
@@ -259,7 +259,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Come here, when you serve all guests."
+                        "Come here, when you serve all the guests."
                     ]
                 },
                 {
@@ -419,21 +419,21 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Come here - I touch your belly last time."
+                        "Come here, I'll touch your belly one last time."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Than you can go to Smaar, he will let you"
+                        "Then you can go to Smaar, he will let you"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Birth... he he he..."
+                        "give birth... he he he..."
                     ]
                 },
                 {
@@ -450,14 +450,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Masterson>Will you allow touch your "
+                        "\\n<Masterson>May I touch your "
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "belly last time?"
+                        "belly one last time?"
                     ]
                 },
                 {
@@ -496,14 +496,14 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Masterson>Hard and strethed!"
+                        "\\n<Masterson>So hard and stretched!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "What if I push it harder, wil it blow?"
+                        "What if I push it harder, will it blow?"
                     ]
                 },
                 {
@@ -520,7 +520,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\n[1]>No, please no!"
+                        "\\n<\\n[1]>No, please don't!"
                     ]
                 },
                 {
@@ -537,14 +537,14 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Masterson>You will give birth right"
+                        "\\n<Masterson>Oh? What if I do anyway?"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "there isn't it?"
+                        "Will you give birth right here?"
                     ]
                 },
                 {
@@ -561,7 +561,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\n[1]>I cannot hold it much longer..."
+                        "\\n<\\n[1]>Yes... I cannot hold it much longer..."
                     ]
                 },
                 {
@@ -651,14 +651,14 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<\\n[1]>I will not hold the baby inside!"
+                        "\\n<\\n[1]>Nghh! I can't hold the baby inside!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "It wil booooorn... Right in front of all guests..."
+                        "It's gonna come ooouut, infront of everyoneee..."
                     ]
                 },
                 {
@@ -689,7 +689,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Masterson>And... If you give birth here,"
+                        "\\n<Masterson>Hmm... If you give birth here,"
                     ]
                 },
                 {
@@ -918,28 +918,28 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Masterson>It's OK. Go to Smaar, and do"
+                        "\\n<Masterson>Fine, go to Smaar and do"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "what you need to do. Hope you will come "
+                        "what you need to do. Hope you'll come "
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "back, when you be pregnant again."
+                        "back when you're pregnant again."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "I will wait for you. Bye!"
+                        "I will wait for your return. Bye!"
                     ]
                 },
                 {

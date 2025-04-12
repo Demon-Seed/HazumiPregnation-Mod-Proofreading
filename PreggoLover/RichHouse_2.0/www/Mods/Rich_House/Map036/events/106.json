@@ -387,7 +387,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>Chef in kitchen is waiting for you!"
+                        "\\n<Maid>Chef is in the kitchen waiting for you!"
                     ]
                 },
                 {
@@ -413,28 +413,28 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>I see you in labor too! Be careful! "
+                        "\\n<Maid>I see you're in labor too! Be careful! "
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Do not Give birth in front of our guests! It will ruine "
+                        "Do not Give birth in front of our guests! "
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "your reputation."
+                        "it will ruin your reputation."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Serve only one gust at once. And talk to Mr.Masterson."
+                        "Serve only one guest at a time and talk to Mr.Masterson."
                     ]
                 },
                 {
@@ -451,28 +451,28 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>If you want, i give to you small mirror."
+                        "\\n<Maid>If you want, I can give you a small mirror."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "To help you check how much is head poped out."
+                        "It'll help you check how far out the head it."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "If guest invite you go upstairs... Just leave the "
+                        "If a guest invites you upstairs just leave the "
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "mirror here. I will keep it for you."
+                        "mirror here, I will keep it safe for you."
                     ]
                 },
                 {
@@ -770,7 +770,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Maid>Hurry up! Go to Smaar! And go to hospital!!"
+                        "\\n<Maid>Hurry up! Go to Smaar! And go to a hospital!!"
                     ]
                 },
                 {
