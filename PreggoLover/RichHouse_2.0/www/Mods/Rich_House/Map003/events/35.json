@@ -153,21 +153,21 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>Nice Belly, but too small. It is not enought"
+                        "\\n<\\v[104]>Sorry. That's a nice belly, but it's too small"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "for my Master. Sorry. Go, talk with manager, he will "
+                        "for my Master. Go talk to the store manager."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "surely have work for you. I'm busy."
+                        "He should have more appropriate work for you."
                     ]
                 },
                 {
@@ -260,7 +260,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "because of your belly, come here! "
+                        "because of your size, come to me!"
                     ]
                 },
                 {

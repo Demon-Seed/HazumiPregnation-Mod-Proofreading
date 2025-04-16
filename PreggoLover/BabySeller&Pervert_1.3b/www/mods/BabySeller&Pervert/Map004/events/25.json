@@ -424,7 +424,7 @@
           "code": 401,
           "indent": 3,
           "parameters": [
-            "\\n<\\n[1]>Yes, I have not enought money to keep and rise"
+            "\\n<\\n[1]>Yes, I have not enough money to keep and rise"
           ]
         },
         {
@@ -582,7 +582,7 @@
           "code": 401,
           "indent": 3,
           "parameters": [
-            "\\n<\\v[104]>But sometimes, they have not enought time"
+            "\\n<\\v[104]>But sometimes, they have not enough time"
           ]
         },
         {
