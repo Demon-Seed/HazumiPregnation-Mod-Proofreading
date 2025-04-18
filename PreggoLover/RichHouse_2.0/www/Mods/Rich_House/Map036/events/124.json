@@ -269,7 +269,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<Greeno>Are you forget my order?"
+                        "\\n<Greeno>Have you forget my order?"
                     ]
                 },
                 {
@@ -397,7 +397,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>Yes Mister, what do you want?"
+                        "\\n<\\n[1]>Yes Mister, what would you like?"
                     ]
                 },
                 {
@@ -525,7 +525,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Greeno>Take some fruits here."
+                        "\\n<Greeno>Take some Fruits here."
                     ]
                 },
                 {
@@ -596,7 +596,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Greeno>Complete Dinner will be satisfated."
+                        "\\n<Greeno>Complex Dinner will satisfy me."
                     ]
                 },
                 {

@@ -269,7 +269,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<Pinky>Hay Baby! I'm ordered something right?"
+                        "\\n<Pinky>Hey Baby! I've ordered something right?"
                     ]
                 },
                 {
@@ -380,7 +380,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Pinky>Whoa! Round and Nice Baby! Come here."
+                        "\\n<Pinky>Whoa! What a round belly! Come here."
                     ]
                 },
                 {
@@ -427,7 +427,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Pinky>one RoastBeef! And hurry!"
+                        "\\n<Pinky>one Roast Beef! And hurry!"
                     ]
                 },
                 {
@@ -498,7 +498,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Pinky>some fruits. Baby can you hurry up?"
+                        "\\n<Pinky>some Fruits. Baby can you hurry up?"
                     ]
                 },
                 {
@@ -569,7 +569,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Pinky>your Belly! Yes, I want your belly babe!"
+                        "\\n<Pinky>your belly! Baby I can't get enough of it!"
                     ]
                 },
                 {
@@ -577,8 +577,8 @@
                     "indent": 1,
                     "parameters": [
                         [
-                            "Ehm... Yes...",
-                            "No, definitely No!"
+                            "Ehm... Sure...",
+                            "Definitely Not!"
                         ],
                         1,
                         0,
@@ -591,7 +591,7 @@
                     "indent": 1,
                     "parameters": [
                         0,
-                        "Ehm... Yes..."
+                        "Ehm... Sure..."
                     ]
                 },
                 {
@@ -608,7 +608,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<Pinky>Let's go. Yea!!"
+                        "\\n<Pinky>Yea!! Let's go! "
                     ]
                 },
                 {
@@ -712,7 +712,7 @@
                     "indent": 1,
                     "parameters": [
                         1,
-                        "No, definitely No!"
+                        "Definitely Not!"
                     ]
                 },
                 {

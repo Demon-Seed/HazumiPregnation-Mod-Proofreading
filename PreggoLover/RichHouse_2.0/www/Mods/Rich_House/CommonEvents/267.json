@@ -4553,7 +4553,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n<\\n[1]>...aaiiee!!...aaiiieee!!...aaaiiieee!!"
+                "\\n<\\n[1]>Aaiiee!!... Aaiiieee!!... Aaaiiieee!!"
             ]
         },
         {
@@ -4612,7 +4612,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n<\\n[1]>Hoooooo!...hoooo!...hooo!"
+                "\\n<\\n[1]>Hoooooo!... Hoooo!... Hooo!"
             ]
         },
         {
@@ -5428,7 +5428,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n<\\n[1]>Hooooooooooooo!...hooooooooooooo!..."
+                "\\n<\\n[1]>Hooooooooooo!... Hooooooooooo!..."
             ]
         },
         {

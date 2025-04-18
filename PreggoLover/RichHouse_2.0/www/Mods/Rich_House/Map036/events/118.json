@@ -380,7 +380,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Gare>Hello can I do a order?"
+                        "\\n<Gare>Hello may I place an order?"
                     ]
                 },
                 {
@@ -508,7 +508,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Gare>I want Some Fresh Fruits."
+                        "\\n<Gare>I want some Fresh Fruits."
                     ]
                 },
                 {
@@ -579,7 +579,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Gare>I want Complete Dinner please."
+                        "\\n<Gare>I want Complex Dinner please."
                     ]
                 },
                 {
@@ -721,7 +721,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Gare>I want a RoastBeef please!"
+                        "\\n<Gare>I want a Roast Beef please!"
                     ]
                 },
                 {
@@ -792,7 +792,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Gare>I want Bowl od soup, please!"
+                        "\\n<Gare>I want Bowl of Soup, please!"
                     ]
                 },
                 {

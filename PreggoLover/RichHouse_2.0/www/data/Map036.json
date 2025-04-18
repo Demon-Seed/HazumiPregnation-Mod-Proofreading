@@ -43569,7 +43569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Maid>I'm birthing... My baby is nearly"
+                                "\\n<Maid>It's coming... My baby is nearly"
                             ]
                         },
                         {
@@ -44810,7 +44810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll get to the bottom of it right away Master!!!!"
+                                "I'll fix this right away Master!!!!"
                             ]
                         },
                         {
@@ -69990,21 +69990,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Masterson>Go to Selby, he will give"
+                                "\\n<Masterson>Talk to Selby, he will give you orders!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "you orders! Hurry! Serving the guest"
+                                "Hurry! The guest is top priority!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "the priority!"
+                                "Now go!"
                             ]
                         },
                         {
@@ -70083,7 +70083,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Masterson>Okey! Guests are served! Good."
+                                "\\n<Masterson>Okay! the guests are served! Good."
                             ]
                         },
                         {
@@ -70097,7 +70097,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Go to Chef, he's in the kitchen."
+                                "Talk to Chef, he's in the kitchen."
                             ]
                         },
                         {
@@ -70142,21 +70142,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Masterson>Serving guest is the priority!"
+                                "\\n<Masterson>Serving guests is the priority!"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Go and do your work. "
+                                "Go and do your work."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Come here, when you serve all the guests."
+                                "Come back when you serve them all."
                             ]
                         },
                         {
@@ -70234,7 +70234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Masterson>Do your job Girl! "
+                                "\\n<Masterson>Do your job Girl!"
                             ]
                         },
                         {
@@ -71004,14 +71004,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Selby>Thank you \\n[1]! Nice and round Belly. Maybe "
+                                "\\n<Selby>Thank you \\n[1]! What a round Belly."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "next time you give birth in our clinic?"
+                                "Maybe next time you'll give birth in our clinic?"
                             ]
                         },
                         {
@@ -71407,7 +71407,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Selby>Maybe some fruits Please!"
+                                "\\n<Selby>Maybe some Fruits Please!"
                             ]
                         },
                         {
@@ -71478,7 +71478,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Selby>One Complet Dinner please!"
+                                "\\n<Selby>One Complex Dinner please!"
                             ]
                         },
                         {
@@ -71549,7 +71549,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Selby>I want a Golden Chiken please!"
+                                "\\n<Selby>I want a Golden Chicken please!"
                             ]
                         },
                         {
@@ -71620,7 +71620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Selby>Bring me a RoastBeef please!"
+                                "\\n<Selby>Bring me a Roast Beef please!"
                             ]
                         },
                         {
@@ -71691,7 +71691,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Selby>Bowl of soup for today, please!"
+                                "\\n<Selby>Bowl of Soup for today, please!"
                             ]
                         },
                         {
@@ -72912,7 +72912,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Lex>Round baby, where is my order?"
+                                "\\n<Lex>Round belly, where is my order?"
                             ]
                         },
                         {
@@ -73069,7 +73069,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Lex>Round baby, where is my order?"
+                                "\\n<Lex>Round belly, where is my order?"
                             ]
                         },
                         {
@@ -73180,7 +73180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lex>Sweet Round baby, I want..."
+                                "\\n<Lex>Sweet Round belly, I want..."
                             ]
                         },
                         {
@@ -73362,7 +73362,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Lex>Sex. Yes, sex with preg baby. Let's go?"
+                                "\\n<Lex>Hmmm, sex... Sex with big preg belly. Let's go?"
                             ]
                         },
                         {
@@ -73370,8 +73370,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Ehm... Yes...",
-                                    "No, definitely No!"
+                                    "Ehm... Sure...",
+                                    "Definitely Not!"
                                 ],
                                 1,
                                 0,
@@ -73384,7 +73384,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "Ehm... Yes..."
+                                "Ehm... Sure..."
                             ]
                         },
                         {
@@ -73401,14 +73401,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Lex>Niiiice, masterson have room upstair for that."
+                                "\\n<Lex>Niiiice, Masterson has a room upstairs."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Come."
+                                "Come, let's go."
                             ]
                         },
                         {
@@ -73512,7 +73512,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "No, definitely No!"
+                                "Definitely Not!"
                             ]
                         },
                         {
@@ -74095,7 +74095,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Blumerg>Get here Pizza!"
+                                "\\n<Blumerg>Bring here Pizza!"
                             ]
                         },
                         {
@@ -74166,7 +74166,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Blumerg>Get here some Fresh Fruits."
+                                "\\n<Blumerg>Bring here some Fresh Fruits."
                             ]
                         },
                         {
@@ -74237,7 +74237,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Blumerg>Get here Coplete Dinner!"
+                                "\\n<Blumerg>Bring here Complex Dinner!"
                             ]
                         },
                         {
@@ -74308,7 +74308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Blumerg>Get here Grilled Chicken!"
+                                "\\n<Blumerg>Bring here grilled chicken!"
                             ]
                         },
                         {
@@ -74379,7 +74379,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Blumerg>Get here RoastBeef!"
+                                "\\n<Blumerg>Bring here Roast Beef!"
                             ]
                         },
                         {
@@ -74450,7 +74450,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Blumerg>Get here Soup bowl!"
+                                "\\n<Blumerg>Bring here Soup Bowl!"
                             ]
                         },
                         {
@@ -74521,14 +74521,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Blumerg>Get here... Yourself! I need release my "
+                                "\\n<Blumerg>Bring here... Your body! My balls need to be"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ball's pressure! So you help me in bed, he he..."
+                                "relieved! So you'll help me in bed, he he..."
                             ]
                         },
                         {
@@ -74536,8 +74536,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Ehm... Yes...",
-                                    "No, definitely No!"
+                                    "Ehm... Sure...",
+                                    "Definitely Not!"
                                 ],
                                 1,
                                 0,
@@ -74550,7 +74550,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "Ehm... Yes..."
+                                "Ehm... Sure..."
                             ]
                         },
                         {
@@ -74567,7 +74567,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Blumerg>Room upstairs is waiting. Come."
+                                "\\n<Blumerg>A room upstairs is waiting. Come."
                             ]
                         },
                         {
@@ -74671,7 +74671,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "No, definitely No!"
+                                "Definitely Not!"
                             ]
                         },
                         {
@@ -74688,7 +74688,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Blumerg>Hey Preggy, realy? Want to loose this job?"
+                                "\\n<Blumerg>Really? Want to lose this job preggy?"
                             ]
                         },
                         {
@@ -74725,7 +74725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Of course! One moment please!"
+                                "\\n<\\n[1]>Oh of course! One moment please!"
                             ]
                         },
                         {
@@ -74983,7 +74983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>Uuuu... Baby is coming..."
+                                "\\n<\\n[1]>Uuuu... The baby is coming..."
                             ]
                         },
                         {
@@ -75555,8 +75555,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Ehm... Yes...",
-                                    "No, definitely No!"
+                                    "Ehm... Sure...",
+                                    "Definitely Not!"
                                 ],
                                 1,
                                 0,
@@ -75569,7 +75569,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "Ehm... Yes..."
+                                "Ehm... Sure..."
                             ]
                         },
                         {
@@ -75690,7 +75690,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "No, definitely No!"
+                                "Definitely Not!"
                             ]
                         },
                         {
@@ -76415,7 +76415,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Fracua>Get me Complete Dinner please."
+                                "\\n<Fracua>Get me Complex Dinner please."
                             ]
                         },
                         {
@@ -76486,7 +76486,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Fracua>Get me Grilled Chicken please."
+                                "\\n<Fracua>Get me grilled chicken please."
                             ]
                         },
                         {
@@ -76557,7 +76557,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Fracua>Get me RoastBeef please."
+                                "\\n<Fracua>Get me Roast Beef please."
                             ]
                         },
                         {
@@ -76707,8 +76707,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Ehm... Yes...",
-                                    "No, definitely No!"
+                                    "Ehm... Sure...",
+                                    "Definitely Not!"
                                 ],
                                 1,
                                 0,
@@ -76721,7 +76721,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "Ehm... Yes..."
+                                "Ehm... Sure..."
                             ]
                         },
                         {
@@ -76842,7 +76842,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "No, definitely No!"
+                                "Definitely Not!"
                             ]
                         },
                         {
@@ -77385,7 +77385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Accio>Oh, lovely belly maid, do you serve me please?"
+                                "\\n<Accio>Oh, lovely belly maid,\nwould you serve me please?"
                             ]
                         },
                         {
@@ -77567,7 +77567,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Accio>Get me Complete Dinner please."
+                                "\\n<Accio>Get me Complex Dinner please."
                             ]
                         },
                         {
@@ -77638,7 +77638,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Accio>Get me Grilled Chicken please."
+                                "\\n<Accio>Get me grilled chicken please."
                             ]
                         },
                         {
@@ -77709,7 +77709,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Accio>Get me RoastBeef please."
+                                "\\n<Accio>Get me Roast Beef please."
                             ]
                         },
                         {
@@ -77859,8 +77859,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Ehm... Yes...",
-                                    "No, definitely No!"
+                                    "Ehm... Sure...",
+                                    "Definitely Not!"
                                 ],
                                 1,
                                 0,
@@ -77873,7 +77873,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "Ehm... Yes..."
+                                "Ehm... Sure..."
                             ]
                         },
                         {
@@ -77994,7 +77994,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "No, definitely No!"
+                                "Definitely Not!"
                             ]
                         },
                         {
@@ -78537,7 +78537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Gare>Hello can I do a order?"
+                                "\\n<Gare>Hello may I place an order?"
                             ]
                         },
                         {
@@ -78665,7 +78665,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Gare>I want Some Fresh Fruits."
+                                "\\n<Gare>I want some Fresh Fruits."
                             ]
                         },
                         {
@@ -78736,7 +78736,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Gare>I want Complete Dinner please."
+                                "\\n<Gare>I want Complex Dinner please."
                             ]
                         },
                         {
@@ -78878,7 +78878,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Gare>I want a RoastBeef please!"
+                                "\\n<Gare>I want a Roast Beef please!"
                             ]
                         },
                         {
@@ -78949,7 +78949,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Gare>I want Bowl od soup, please!"
+                                "\\n<Gare>I want Bowl of Soup, please!"
                             ]
                         },
                         {
@@ -79498,7 +79498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Gira>Hello can I do a order?"
+                                "\\n<Gira>Hello may I place an order?"
                             ]
                         },
                         {
@@ -79626,7 +79626,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Gira>I want Some Fresh Fruits."
+                                "\\n<Gira>I want some Fresh Fruits."
                             ]
                         },
                         {
@@ -79697,7 +79697,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Gira>I want Complete Dinner please."
+                                "\\n<Gira>I want Complex Dinner please."
                             ]
                         },
                         {
@@ -79839,7 +79839,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Gira>I want a RoastBeef please!"
+                                "\\n<Gira>I want a Roast Beef please!"
                             ]
                         },
                         {
@@ -79910,7 +79910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Gira>I want Bowl od soup, please!"
+                                "\\n<Gira>I want Bowl of Soup, please!"
                             ]
                         },
                         {
@@ -80348,14 +80348,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Andy>I hope, you are not forget about my order "
+                                "\\n<Andy>I hope, you haven't forgotten about my order"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "sweetheard?"
+                                "sweetheart?"
                             ]
                         },
                         {
@@ -80584,7 +80584,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Andy>some fruits please?"
+                                "\\n<Andy>some Fruits please?"
                             ]
                         },
                         {
@@ -80655,7 +80655,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Andy>a whole plate of Complete Dinner please?"
+                                "\\n<Andy>a whole plate ofcomplete dinner please?"
                             ]
                         },
                         {
@@ -80797,7 +80797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Andy>perfetly coocked RoastBeef please?"
+                                "\\n<Andy>perfectly coocked Roast Beef please?"
                             ]
                         },
                         {
@@ -80868,7 +80868,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Andy>one bowl of Soup please?"
+                                "\\n<Andy>one Bowl of Soup please?"
                             ]
                         },
                         {
@@ -80946,7 +80946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I want to cum in your lovely belly! Is it possible?"
+                                "I want to cum on your lovely belly! Is it possible?"
                             ]
                         },
                         {
@@ -80954,8 +80954,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Ehm... Yes...",
-                                    "No, definitely No!"
+                                    "Ehm... Sure...",
+                                    "Definitely Not!"
                                 ],
                                 1,
                                 0,
@@ -80968,7 +80968,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "Ehm... Yes..."
+                                "Ehm... Sure..."
                             ]
                         },
                         {
@@ -80985,7 +80985,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Andy>Oh. Sweetheadr, come with me!"
+                                "\\n<Andy>Oh. Sweetheart, come with me!"
                             ]
                         },
                         {
@@ -81089,7 +81089,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "No, definitely No!"
+                                "Definitely Not!"
                             ]
                         },
                         {
@@ -81211,7 +81211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Andy>You have a lovely belly sweetheard!"
+                                "\\n<Andy>You have a lovely belly sweetheart!"
                             ]
                         },
                         {
@@ -81469,7 +81469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Peach>No, Thank you! We have drinks already."
+                                "\\n<Peach>No, thank you! We have drinks already."
                             ]
                         },
                         {
@@ -81727,7 +81727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Apple>No, Thank you! We have drinks already."
+                                "\\n<Apple>No, thank you! We have drinks already."
                             ]
                         },
                         {
@@ -81920,14 +81920,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "We help children to be born there,"
+                                "We help mothers give birth and"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "and take care of them!"
+                                "take care of the children!"
                             ]
                         },
                         {
@@ -82084,7 +82084,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Nun>Are you forget about Nun my dear?"
+                                "\\n<Nun>Have you forget about me dear?"
                             ]
                         },
                         {
@@ -82195,7 +82195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Nun>Oh, my dear! How are you working with this huge"
+                                "\\n<Nun>Oh dear! How are you working with that huge"
                             ]
                         },
                         {
@@ -82384,7 +82384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Nun>Complete Dinner please."
+                                "\\n<Nun>Complex Dinner please."
                             ]
                         },
                         {
@@ -82526,7 +82526,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Nun>RoastBeef please!"
+                                "\\n<Nun>Roast Beef please!"
                             ]
                         },
                         {
@@ -82597,7 +82597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Nun>Bowl of soup darling!"
+                                "\\n<Nun>Bowl of Soup darling!"
                             ]
                         },
                         {
@@ -83035,7 +83035,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Greeno>Are you forget my order?"
+                                "\\n<Greeno>Have you forget my order?"
                             ]
                         },
                         {
@@ -83163,7 +83163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Yes Mister, what do you want?"
+                                "\\n<\\n[1]>Yes Mister, what would you like?"
                             ]
                         },
                         {
@@ -83291,7 +83291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Greeno>Take some fruits here."
+                                "\\n<Greeno>Take some Fruits here."
                             ]
                         },
                         {
@@ -83362,7 +83362,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Greeno>Complete Dinner will be satisfated."
+                                "\\n<Greeno>Complex Dinner will satisfy me."
                             ]
                         },
                         {
@@ -83989,21 +83989,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mr.Masterson always have a great maids "
+                                "Mr.Masterson always has great maids"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "on his celebrations."
+                                "at his celebrations."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Can you ring me ..."
+                                "Can you ring me up..."
                             ]
                         },
                         {
@@ -84185,7 +84185,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Becca>Complete Dinner?"
+                                "\\n<Becca>Complex Dinner?"
                             ]
                         },
                         {
@@ -84327,7 +84327,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Becca>RoastBeef?"
+                                "\\n<Becca>Roast Beef?"
                             ]
                         },
                         {
@@ -84398,7 +84398,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Becca>Bowl of soup?"
+                                "\\n<Becca>Bowl of Soup?"
                             ]
                         },
                         {
@@ -84836,7 +84836,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Pinky>Hay Baby! I'm ordered something right?"
+                                "\\n<Pinky>Hey Baby! I've ordered something right?"
                             ]
                         },
                         {
@@ -84947,7 +84947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Pinky>Whoa! Round and Nice Baby! Come here."
+                                "\\n<Pinky>Whoa! What a round belly! Come here."
                             ]
                         },
                         {
@@ -84994,7 +84994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Pinky>one RoastBeef! And hurry!"
+                                "\\n<Pinky>one Roast Beef! And hurry!"
                             ]
                         },
                         {
@@ -85065,7 +85065,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Pinky>some fruits. Baby can you hurry up?"
+                                "\\n<Pinky>some Fruits. Baby can you hurry up?"
                             ]
                         },
                         {
@@ -85136,7 +85136,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Pinky>your Belly! Yes, I want your belly babe!"
+                                "\\n<Pinky>your belly! Baby I can't get enough of it!"
                             ]
                         },
                         {
@@ -85144,8 +85144,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Ehm... Yes...",
-                                    "No, definitely No!"
+                                    "Ehm... Sure...",
+                                    "Definitely Not!"
                                 ],
                                 1,
                                 0,
@@ -85158,7 +85158,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "Ehm... Yes..."
+                                "Ehm... Sure..."
                             ]
                         },
                         {
@@ -85175,7 +85175,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Pinky>Let's go. Yea!!"
+                                "\\n<Pinky>Yea!! Let's go! "
                             ]
                         },
                         {
@@ -85279,7 +85279,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "No, definitely No!"
+                                "Definitely Not!"
                             ]
                         },
                         {
@@ -85551,7 +85551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Pizza. Let's bring it to Guest!"
+                                "\\n<\\n[1]>Pizza. Let's bring it to the guest!"
                             ]
                         },
                         {
@@ -85751,7 +85751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Fresh fruits! Let's bring it to Guest!"
+                                "\\n<\\n[1]>Fresh Fruits! Let's bring it to the guest!"
                             ]
                         },
                         {
@@ -85951,7 +85951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>One Complex Dinner. Let's bring it to Guest!"
+                                "\\n<\\n[1]>Complex Dinner. Let's bring it to the guest!"
                             ]
                         },
                         {
@@ -87181,7 +87181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Grilled Chicken! Let's bring it to Guest!"
+                                "\\n<\\n[1]>Grilled Chicken! Let's bring it to the guest!"
                             ]
                         },
                         {
@@ -87685,14 +87685,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Geeez... Semen is driping..."
+                                "\\n<\\n[1]>Geeez... Semen is leaking out..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hope my beby will not slides out more easily..."
+                                "I hope I can still hold the baby in..."
                             ]
                         },
                         {
@@ -87854,7 +87854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Oh no... It is slide out..."
+                                "\\n<\\n[1]>Oh no... It is sliding down..."
                             ]
                         },
                         {
@@ -88036,7 +88036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>Uuuu... Baby is coming..."
+                                "\\n<\\n[1]>Uuuu... The baby is coming..."
                             ]
                         },
                         {
@@ -88168,14 +88168,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Geeez... Semen is driping..."
+                                "\\n<\\n[1]>Geeez... Semen is leaking out..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hope my beby will not slides out more easily..."
+                                "I hope I can still hold the baby in..."
                             ]
                         },
                         {
@@ -88337,7 +88337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Oh no... It is slide out..."
+                                "\\n<\\n[1]>Oh no... It is sliding down..."
                             ]
                         },
                         {
@@ -89867,7 +89867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>RoastBiff! Let's bring it to Guest!"
+                                "\\n<\\n[1]>Roast Beef! Let's bring it to the guest!"
                             ]
                         },
                         {
@@ -90067,7 +90067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Bowl of Soup! Let's bring it to Guest!"
+                                "\\n<\\n[1]>Bowl of Soup! Let's bring it to the guest!"
                             ]
                         },
                         {
@@ -91155,14 +91155,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Finaly... Dont know, how I do all that work,"
+                                "\\n<\\n[1]>Finally... I don't know how I did all that work."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "and keep Baby inside..."
+                                "All while keeping the baby inside..."
                             ]
                         },
                         {
@@ -91179,7 +91179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>My belly will burst! This plate is so heavy!"
+                                "\\n<\\n[1]>This plate is so heavy! My belly will pop!"
                             ]
                         },
                         {
@@ -91660,7 +91660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>This Plates are quite heavy..."
+                                "\\n<\\n[1]>These plates are quite heavy..."
                             ]
                         },
                         {
@@ -91725,7 +91725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Baby hold on. I need to keep you inside!"
+                                "\\n<\\n[1]>Hold on baby. I need to keep you inside!"
                             ]
                         },
                         {
@@ -91933,7 +91933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>This Plates are quite heavy..."
+                                "\\n<\\n[1]>These plates are quite heavy..."
                             ]
                         },
                         {
@@ -91998,7 +91998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Baby hold on. I need to keep you inside!"
+                                "\\n<\\n[1]>Hold on baby. I need to keep you inside!"
                             ]
                         },
                         {
@@ -92206,14 +92206,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Finaly... Dont know, how I do all that work,"
+                                "\\n<\\n[1]>Finally... I don't know how I did all that work."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "and keep Baby inside..."
+                                "All while keeping the baby inside..."
                             ]
                         },
                         {
@@ -92230,7 +92230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>My belly will burst! This plate is so heavy!"
+                                "\\n<\\n[1]>This plate is so heavy! My belly will pop!"
                             ]
                         },
                         {
@@ -92505,14 +92505,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Finaly... Dont know, how I do all that work,"
+                                "\\n<\\n[1]>Finally... I don't know how I did all that work."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "and keep Baby inside..."
+                                "All while keeping the baby inside..."
                             ]
                         },
                         {
@@ -92529,7 +92529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>My belly will burst! This plate is so heavy!"
+                                "\\n<\\n[1]>This plate is so heavy! My belly will pop!"
                             ]
                         },
                         {
@@ -92804,14 +92804,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Finaly... Dont know, how I do all that work,"
+                                "\\n<\\n[1]>Finally... I don't know how I did all that work."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "and keep Baby inside..."
+                                "All while keeping the baby inside..."
                             ]
                         },
                         {
@@ -92828,7 +92828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>My belly will burst! This plate is so heavy!"
+                                "\\n<\\n[1]>This plate is so heavy! My belly will pop!"
                             ]
                         },
                         {
@@ -93103,14 +93103,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Finaly... Dont know, how I do all that work,"
+                                "\\n<\\n[1]>Finally... I don't know how I did all that work."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "and keep Baby inside..."
+                                "All while keeping the baby inside..."
                             ]
                         },
                         {
@@ -93127,7 +93127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>My belly will burst! This plate is so heavy!"
+                                "\\n<\\n[1]>This plate is so heavy! My belly will pop!"
                             ]
                         },
                         {
@@ -93864,14 +93864,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Geeez... Semen is driping..."
+                                "\\n<\\n[1]>Geeez... Semen is leaking out..."
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hope my beby will not slides out more easily..."
+                                "I hope I can still hold the baby in..."
                             ]
                         },
                         {
@@ -94033,7 +94033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Oh no... It is slide out..."
+                                "\\n<\\n[1]>Oh no... It is sliding down..."
                             ]
                         },
                         {
@@ -94386,7 +94386,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Gira>Attencion? Where my order is?!"
+                                "\\n<Gira>Attention? Where is my order?!"
                             ]
                         },
                         {
@@ -94497,7 +94497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>Maid! Serve me, that is order!"
+                                "\\n<Captain>Maid! Serve me, that is an order!"
                             ]
                         },
                         {
@@ -94514,7 +94514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>What is the order?"
+                                "\\n<\\n[1]>What can I get for you?"
                             ]
                         },
                         {
@@ -94625,7 +94625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Captain>Fresh fruits!"
+                                "\\n<Captain>Fresh Fruits!"
                             ]
                         },
                         {
@@ -94696,7 +94696,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Captain>Cemplete Dinner!"
+                                "\\n<Captain>Complex Dinner!"
                             ]
                         },
                         {

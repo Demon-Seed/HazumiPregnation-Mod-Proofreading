@@ -499,8 +499,8 @@
                     "indent": 1,
                     "parameters": [
                         [
-                            "Ehm... Yes...",
-                            "No, definitely No!"
+                            "Ehm... Sure...",
+                            "Definitely Not!"
                         ],
                         1,
                         0,
@@ -513,7 +513,7 @@
                     "indent": 1,
                     "parameters": [
                         0,
-                        "Ehm... Yes..."
+                        "Ehm... Sure..."
                     ]
                 },
                 {
@@ -634,7 +634,7 @@
                     "indent": 1,
                     "parameters": [
                         1,
-                        "No, definitely No!"
+                        "Definitely Not!"
                     ]
                 },
                 {

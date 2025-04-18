@@ -112,14 +112,14 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<Selby>Thank you \\n[1]! Nice and round Belly. Maybe "
+                        "\\n<Selby>Thank you \\n[1]! What a round Belly."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "next time you give birth in our clinic?"
+                        "Maybe next time you'll give birth in our clinic?"
                     ]
                 },
                 {
@@ -515,7 +515,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Selby>Maybe some fruits Please!"
+                        "\\n<Selby>Maybe some Fruits Please!"
                     ]
                 },
                 {
@@ -586,7 +586,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Selby>One Complet Dinner please!"
+                        "\\n<Selby>One Complex Dinner please!"
                     ]
                 },
                 {
@@ -657,7 +657,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Selby>I want a Golden Chiken please!"
+                        "\\n<Selby>I want a Golden Chicken please!"
                     ]
                 },
                 {
@@ -728,7 +728,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Selby>Bring me a RoastBeef please!"
+                        "\\n<Selby>Bring me a Roast Beef please!"
                     ]
                 },
                 {
@@ -799,7 +799,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Selby>Bowl of soup for today, please!"
+                        "\\n<Selby>Bowl of Soup for today, please!"
                     ]
                 },
                 {

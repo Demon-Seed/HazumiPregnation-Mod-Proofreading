@@ -269,7 +269,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<Gira>Attencion? Where my order is?!"
+                        "\\n<Gira>Attention? Where is my order?!"
                     ]
                 },
                 {
@@ -380,7 +380,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Captain>Maid! Serve me, that is order!"
+                        "\\n<Captain>Maid! Serve me, that is an order!"
                     ]
                 },
                 {
@@ -397,7 +397,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>What is the order?"
+                        "\\n<\\n[1]>What can I get for you?"
                     ]
                 },
                 {
@@ -508,7 +508,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Captain>Fresh fruits!"
+                        "\\n<Captain>Fresh Fruits!"
                     ]
                 },
                 {
@@ -579,7 +579,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Captain>Cemplete Dinner!"
+                        "\\n<Captain>Complex Dinner!"
                     ]
                 },
                 {

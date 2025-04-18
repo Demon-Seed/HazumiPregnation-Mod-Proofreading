@@ -269,14 +269,14 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<Andy>I hope, you are not forget about my order "
+                        "\\n<Andy>I hope, you haven't forgotten about my order"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "sweetheard?"
+                        "sweetheart?"
                     ]
                 },
                 {
@@ -505,7 +505,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Andy>some fruits please?"
+                        "\\n<Andy>some Fruits please?"
                     ]
                 },
                 {
@@ -576,7 +576,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Andy>a whole plate of Complete Dinner please?"
+                        "\\n<Andy>a whole plate ofcomplete dinner please?"
                     ]
                 },
                 {
@@ -718,7 +718,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Andy>perfetly coocked RoastBeef please?"
+                        "\\n<Andy>perfectly coocked Roast Beef please?"
                     ]
                 },
                 {
@@ -789,7 +789,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Andy>one bowl of Soup please?"
+                        "\\n<Andy>one Bowl of Soup please?"
                     ]
                 },
                 {
@@ -867,7 +867,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "I want to cum in your lovely belly! Is it possible?"
+                        "I want to cum on your lovely belly! Is it possible?"
                     ]
                 },
                 {
@@ -875,8 +875,8 @@
                     "indent": 1,
                     "parameters": [
                         [
-                            "Ehm... Yes...",
-                            "No, definitely No!"
+                            "Ehm... Sure...",
+                            "Definitely Not!"
                         ],
                         1,
                         0,
@@ -889,7 +889,7 @@
                     "indent": 1,
                     "parameters": [
                         0,
-                        "Ehm... Yes..."
+                        "Ehm... Sure..."
                     ]
                 },
                 {
@@ -906,7 +906,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<Andy>Oh. Sweetheadr, come with me!"
+                        "\\n<Andy>Oh. Sweetheart, come with me!"
                     ]
                 },
                 {
@@ -1010,7 +1010,7 @@
                     "indent": 1,
                     "parameters": [
                         1,
-                        "No, definitely No!"
+                        "Definitely Not!"
                     ]
                 },
                 {
@@ -1132,7 +1132,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Andy>You have a lovely belly sweetheard!"
+                        "\\n<Andy>You have a lovely belly sweetheart!"
                     ]
                 },
                 {

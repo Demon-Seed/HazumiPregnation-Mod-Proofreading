@@ -112,7 +112,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<Lex>Round baby, where is my order?"
+                        "\\n<Lex>Round belly, where is my order?"
                     ]
                 },
                 {
@@ -269,7 +269,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<Lex>Round baby, where is my order?"
+                        "\\n<Lex>Round belly, where is my order?"
                     ]
                 },
                 {
@@ -380,7 +380,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Lex>Sweet Round baby, I want..."
+                        "\\n<Lex>Sweet Round belly, I want..."
                     ]
                 },
                 {
@@ -562,7 +562,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Lex>Sex. Yes, sex with preg baby. Let's go?"
+                        "\\n<Lex>Hmmm, sex... Sex with big preg belly. Let's go?"
                     ]
                 },
                 {
@@ -570,8 +570,8 @@
                     "indent": 1,
                     "parameters": [
                         [
-                            "Ehm... Yes...",
-                            "No, definitely No!"
+                            "Ehm... Sure...",
+                            "Definitely Not!"
                         ],
                         1,
                         0,
@@ -584,7 +584,7 @@
                     "indent": 1,
                     "parameters": [
                         0,
-                        "Ehm... Yes..."
+                        "Ehm... Sure..."
                     ]
                 },
                 {
@@ -601,14 +601,14 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<Lex>Niiiice, masterson have room upstair for that."
+                        "\\n<Lex>Niiiice, Masterson has a room upstairs."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "Come."
+                        "Come, let's go."
                     ]
                 },
                 {
@@ -712,7 +712,7 @@
                     "indent": 1,
                     "parameters": [
                         1,
-                        "No, definitely No!"
+                        "Definitely Not!"
                     ]
                 },
                 {
@@ -729,7 +729,7 @@
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\n<Pinky>No??? OK..."
+                        "\\n<Pinky>No??? Ok..."
                     ]
                 },
                 {

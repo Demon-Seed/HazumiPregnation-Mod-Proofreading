@@ -1195,7 +1195,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "The huge experience of childbirth increases \\n[1]'s \ncharm by \\c[2]\\v[21]\\c[0]."
+                "The experience of childbirth increases \\n[1]'s \ncharm by \\c[2]\\v[21]\\c[0]."
             ]
         },
         {
@@ -1217,7 +1217,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n[1] goes go home and takes a vacation..."
+                "\\n[1] goes home and takes a vacation..."
             ]
         },
         {

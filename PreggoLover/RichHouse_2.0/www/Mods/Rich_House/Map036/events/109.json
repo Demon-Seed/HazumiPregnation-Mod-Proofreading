@@ -93,21 +93,21 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Masterson>Go to Selby, he will give "
+                        "\\n<Masterson>Talk to Selby, he will give you orders!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "you orders! Hurry! Serving the guest"
+                        "Hurry! The guest is top priority!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "priority! Move out!"
+                        "Now go!"
                     ]
                 },
                 {
@@ -186,21 +186,21 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Masterson>Okey! Guests are served! Good."
+                        "\\n<Masterson>Okay! The guests are served! Good."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Now I need to prepare the buffet. "
+                        "Now I need to prepare the buffet."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Go to Chef, he's in the kitchen. "
+                        "Talk to Chef, he's in the kitchen. "
                     ]
                 },
                 {
@@ -245,21 +245,21 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Masterson>Serving guest is the priority!"
+                        "\\n<Masterson>Serving guests is the priority!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Go and do your work. "
+                        "Go and do your work."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "Come here, when you serve all the guests."
+                        "Come back when you serve them all."
                     ]
                 },
                 {
@@ -337,7 +337,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Masterson>Do your job Girl! "
+                        "\\n<Masterson>Do your job Girl!"
                     ]
                 },
                 {

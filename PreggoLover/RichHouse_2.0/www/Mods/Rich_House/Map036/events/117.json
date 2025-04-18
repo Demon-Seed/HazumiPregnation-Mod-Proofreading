@@ -380,7 +380,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Accio>Oh, lovely belly maid, do you serve me please?"
+                        "\\n<Accio>Oh, lovely belly maid,\nwould you serve me please?"
                     ]
                 },
                 {
@@ -562,7 +562,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Accio>Get me Complete Dinner please."
+                        "\\n<Accio>Get me Complex Dinner please."
                     ]
                 },
                 {
@@ -633,7 +633,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Accio>Get me Grilled Chicken please."
+                        "\\n<Accio>Get me grilled chicken please."
                     ]
                 },
                 {
@@ -704,7 +704,7 @@
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\n<Accio>Get me RoastBeef please."
+                        "\\n<Accio>Get me Roast Beef please."
                     ]
                 },
                 {
@@ -854,8 +854,8 @@
                     "indent": 1,
                     "parameters": [
                         [
-                            "Ehm... Yes...",
-                            "No, definitely No!"
+                            "Ehm... Sure...",
+                            "Definitely Not!"
                         ],
                         1,
                         0,
@@ -868,7 +868,7 @@
                     "indent": 1,
                     "parameters": [
                         0,
-                        "Ehm... Yes..."
+                        "Ehm... Sure..."
                     ]
                 },
                 {
@@ -989,7 +989,7 @@
                     "indent": 1,
                     "parameters": [
                         1,
-                        "No, definitely No!"
+                        "Definitely Not!"
                     ]
                 },
                 {
