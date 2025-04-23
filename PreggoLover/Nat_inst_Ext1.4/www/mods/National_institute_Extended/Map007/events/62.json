@@ -497,7 +497,7 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "It's even bigger than mine! Are you expecting multiples?"
+            "It's even bigger than mine!\nAre you expecting multiples?"
           ]
         },
         {
