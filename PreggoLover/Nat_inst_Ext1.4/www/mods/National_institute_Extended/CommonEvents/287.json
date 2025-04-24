@@ -3889,7 +3889,7 @@
       "code": 401,
       "indent": 4,
       "parameters": [
-        "\\n<\\n[1]>I need to hold it, I need to hold it!!!!"
+        "\\n<\\n[1]>I need to hold it, I need to hold it!!!"
       ]
     },
     {
@@ -4668,7 +4668,7 @@
       "parameters": [
         [
           "Hold it",
-          "Push!!!!"
+          "Push!!!"
         ],
         1,
         0,
@@ -4964,7 +4964,7 @@
       "indent": 5,
       "parameters": [
         1,
-        "Push!!!!"
+        "Push!!!"
       ]
     },
     {
@@ -5206,7 +5206,7 @@
       "code": 401,
       "indent": 3,
       "parameters": [
-        "I'm Birthing!! "
+        "I'm birthing!! "
       ]
     },
     {

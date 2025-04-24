@@ -11630,7 +11630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "and fill it in the toilets."
+                                "and fill it in the restroom."
                             ]
                         },
                         {
@@ -12764,7 +12764,7 @@
                             "parameters": [
                                 [
                                     "Serve the lower Big Hall",
-                                    "Serve the Upper Saloon",
+                                    "Serve the upper Saloon",
                                     "Serve in housekeeping",
                                     "I want to see the house"
                                 ],
@@ -12882,7 +12882,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Serve the Upper Saloon"
+                                "Serve the upper Saloon"
                             ]
                         },
                         {
@@ -12899,7 +12899,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>Maybe I can serve the Upper Saloon?"
+                                "\\n<\\n[1]>Maybe I can serve the upper Saloon?"
                             ]
                         },
                         {
@@ -12916,7 +12916,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\v[104]>I'm sorry. Serving the Upper Saloon is available"
+                                "\\n<\\v[104]>I'm sorry. Serving the upper Saloon is available"
                             ]
                         },
                         {
@@ -13339,7 +13339,7 @@
                             "parameters": [
                                 [
                                     "Serve the lower Big Hall",
-                                    "Serve the Upper Saloon",
+                                    "Serve the upper Saloon",
                                     "Serve in housekeeping"
                                 ],
                                 1,
@@ -13458,7 +13458,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "Serve the Upper Saloon"
+                                "Serve the upper Saloon"
                             ]
                         },
                         {
@@ -13486,7 +13486,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\n[1]>I want to Serve the Upper Saloon."
+                                "\\n<\\n[1]>I want to Serve the upper Saloon."
                             ]
                         },
                         {
@@ -13503,7 +13503,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\v[104]>Serving the Upper Saloon, is available only "
+                                "\\n<\\v[104]>Serving the upper Saloon, is available only "
                             ]
                         },
                         {
@@ -18255,7 +18255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Smaar>Bloody Hell!!!!\nAre you giving birth???"
+                                "\\n<Smaar>Bloody Hell!!!\nAre you giving birth???"
                             ]
                         },
                         {
@@ -18375,7 +18375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Aaaaaaaaaahhhhhhhh!!!!!!"
+                                "\\n<\\n[1]>Aaaaaaaaaahhhhhhhh!!!"
                             ]
                         },
                         {
@@ -18491,7 +18491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Aaaaaaaaaahhhhhhhh!!!!!!"
+                                "\\n<\\n[1]>Aaaaaaaaaahhhhhhhh!!!"
                             ]
                         },
                         {
@@ -22947,7 +22947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Here, the shower, or the downstairs sink...?"
+                                "In here or the downstairs sink...?"
                             ]
                         },
                         {
@@ -23672,7 +23672,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to come out right now?"
+                                "\\n<\\n[1]>Are you trying to come out now?"
                             ]
                         },
                         {
@@ -24437,7 +24437,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to come out right now?"
+                                "\\n<\\n[1]>Are you trying to come out now?"
                             ]
                         },
                         {
@@ -25202,7 +25202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to come out right now?"
+                                "\\n<\\n[1]>Are you trying to come out now?"
                             ]
                         },
                         {
@@ -25967,7 +25967,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to come out right now?"
+                                "\\n<\\n[1]>Are you trying to come out now?"
                             ]
                         },
                         {
@@ -26732,7 +26732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to come out right now?"
+                                "\\n<\\n[1]>Are you trying to come out now?"
                             ]
                         },
                         {
@@ -27497,7 +27497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to come out right now?"
+                                "\\n<\\n[1]>Are you trying to come out now?"
                             ]
                         },
                         {
@@ -28262,7 +28262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to come out right now?"
+                                "\\n<\\n[1]>Are you trying to come out now?"
                             ]
                         },
                         {
@@ -29027,7 +29027,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to come out right now?"
+                                "\\n<\\n[1]>Are you trying to come out now?"
                             ]
                         },
                         {
@@ -29977,7 +29977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to come out right now?"
+                                "\\n<\\n[1]>Are you trying to come out now?"
                             ]
                         },
                         {
@@ -30742,7 +30742,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to come out right now?"
+                                "\\n<\\n[1]>Are you trying to come out now?"
                             ]
                         },
                         {
@@ -31507,7 +31507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to come out right now?"
+                                "\\n<\\n[1]>Are you trying to come out now?"
                             ]
                         },
                         {
@@ -32272,7 +32272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to come out right now?"
+                                "\\n<\\n[1]>Are you trying to come out now?"
                             ]
                         },
                         {
@@ -33037,7 +33037,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to come out right now?"
+                                "\\n<\\n[1]>Are you trying to come out now?"
                             ]
                         },
                         {
@@ -34188,7 +34188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Smaar>Bloody hell!!!!\nAre you giving birth???"
+                                "\\n<Smaar>Bloody hell!!!\nAre you giving birth???"
                             ]
                         },
                         {
@@ -34315,7 +34315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Aaaaaaaaaahhhhhhhh!!!!!!"
+                                "\\n<\\n[1]>Aaaaaaaaaahhhhhhhh!!!"
                             ]
                         },
                         {
@@ -34431,7 +34431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Aaaaaaaaaahhhhhhhh!!!!!!"
+                                "\\n<\\n[1]>Aaaaaaaaaahhhhhhhh!!!"
                             ]
                         },
                         {
@@ -35754,7 +35754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>No! No no no no... Noooooo!!!!!!"
+                                "\\n<\\n[1]>No! No no no no... Noooooo!!!"
                             ]
                         },
                         {
@@ -35950,7 +35950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Aaaaahhhhhhh!!!!"
+                                "\\n<\\n[1]>Aaaaahhhhhhh!!!"
                             ]
                         },
                         {
@@ -35993,7 +35993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>No! No no no no... Noooooo!!!!!!"
+                                "\\n<\\n[1]>No! No no no no... Noooooo!!!"
                             ]
                         },
                         {
@@ -36924,7 +36924,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to come out right now?"
+                                "\\n<\\n[1]>Are you trying to come out now?"
                             ]
                         },
                         {
@@ -38075,7 +38075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Smaar>Bloody hell!!!!\nAre you giving birth???"
+                                "\\n<Smaar>Bloody hell!!!\nAre you giving birth???"
                             ]
                         },
                         {
@@ -38202,7 +38202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Aaaaaaaaaahhhhhhhh!!!!!!"
+                                "\\n<\\n[1]>Aaaaaaaaaahhhhhhhh!!!"
                             ]
                         },
                         {
@@ -38318,7 +38318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Aaaaaaaaaahhhhhhhh!!!!!!"
+                                "\\n<\\n[1]>Aaaaaaaaaahhhhhhhh!!!"
                             ]
                         },
                         {
@@ -39641,7 +39641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>No! No no no no... Noooooo!!!!!!"
+                                "\\n<\\n[1]>No! No no no no... Noooooo!!!"
                             ]
                         },
                         {
@@ -39837,7 +39837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Aaaaahhhhhhh!!!!"
+                                "\\n<\\n[1]>Aaaaahhhhhhh!!!"
                             ]
                         },
                         {
@@ -39880,7 +39880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>No! No no no no... Noooooo!!!!!!"
+                                "\\n<\\n[1]>No! No no no no... Noooooo!!!"
                             ]
                         },
                         {
@@ -41122,7 +41122,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to come out right now?"
+                                "\\n<\\n[1]>Are you trying to come out now?"
                             ]
                         },
                         {
@@ -41887,7 +41887,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>You trying to come out right now?"
+                                "\\n<\\n[1]>Are you trying to come out now?"
                             ]
                         },
                         {
@@ -44810,7 +44810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll fix this right away Master!!!!"
+                                "I'll fix this right away Master!!!"
                             ]
                         },
                         {
@@ -50032,7 +50032,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I cannot hold it anymore!!!"
+                                "I can't hold it anymore!!!"
                             ]
                         },
                         {
@@ -50370,7 +50370,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I can't hold it anymore!!!! AAHHH!!!!!"
+                                "I can't hold it anymore!!! AAHHH!!!"
                             ]
                         },
                         {
@@ -54116,7 +54116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm going to resume my work at the Upper Saloon..."
+                                "I'm going to resume my work at the upper Saloon..."
                             ]
                         },
                         {
@@ -54497,7 +54497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Aaaaaaaaahhhhh... I'm... Aaaaaaagghhh!!!!"
+                                "\\n<\\n[1]>Aaaaaaaaahhhhh... I'm... Aaaaaaagghhh!!!"
                             ]
                         },
                         {
@@ -62817,7 +62817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Ooooooooooh!!!!"
+                                "\\n<\\n[1]>Ooooooooooh!!!"
                             ]
                         },
                         {
@@ -62862,7 +62862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Ooouuuuuu!!!!!"
+                                "\\n<\\n[1]>Ooouuuuuu!!!"
                             ]
                         },
                         {
@@ -62890,7 +62890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Yaaaaahhhh!!!!"
+                                "\\n<\\n[1]>Yaaaaahhhh!!!"
                             ]
                         },
                         {
@@ -62966,7 +62966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>My uterus is stretching..."
+                                "\\n<\\n[1]>My womb is stretching..."
                             ]
                         },
                         {
@@ -63382,7 +63382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[1]>Aaaaaaaaaaahhhhhhhhhhhh!!!!!!"
+                                "\\n<\\n[1]>Aaaaaaaaaaahhhhhhhhhhhh!!!"
                             ]
                         },
                         {
@@ -70680,7 +70680,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[1]>Please stoooop!!!!"
+                                "\\n<\\n[1]>Please stoooop!!!"
                             ]
                         },
                         {
