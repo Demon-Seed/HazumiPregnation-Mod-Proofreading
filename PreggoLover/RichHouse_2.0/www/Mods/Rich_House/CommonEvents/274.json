@@ -156,14 +156,14 @@
       "code": 401,
       "indent": 0,
       "parameters": [
-        "\\n<Smaar>Miss \\n[1], this is a violation of the rules "
+        "\\n<Smaar>Miss \\n[1], this is a violation of the "
       ]
     },
     {
       "code": 401,
       "indent": 0,
       "parameters": [
-        "of this house!"
+        "rules of the house!"
       ]
     },
     {
@@ -180,7 +180,7 @@
       "code": 401,
       "indent": 0,
       "parameters": [
-        "\\n<\\n[1]>I'm birthing!!! Help me!!!"
+        "\\n<\\n[1]>I can't- nghhh!!! Help me!!!"
       ]
     },
     {
@@ -310,7 +310,7 @@
       "code": 401,
       "indent": 0,
       "parameters": [
-        "\\n<Smaar>Try to hold it, I'm calling for ambulance..."
+        "\\n<Smaar>Try to hold it. I'm calling for an ambulance..."
       ]
     },
     {
@@ -338,7 +338,7 @@
       "code": 401,
       "indent": 0,
       "parameters": [
-        "\\n<\\n[1]>I cannot..."
+        "\\n<\\n[1]>I... can't!!!"
       ]
     },
     {
@@ -543,7 +543,7 @@
       "code": 401,
       "indent": 1,
       "parameters": [
-        "\\n<\\n[1]>Contractions does not stop!!"
+        "\\n<\\n[1]>The contractions aren't stopping!!"
       ]
     },
     {
@@ -1053,21 +1053,21 @@
       "code": 401,
       "indent": 0,
       "parameters": [
-        "\\n<Smaar>You need to leave our mansion. "
+        "\\n<Smaar>You need to leave our mansion."
       ]
     },
     {
       "code": 401,
       "indent": 0,
       "parameters": [
-        "Technicly, you aren't pregnant anymore. So you cannot"
+        "You are no longer pregnant, so you"
       ]
     },
     {
       "code": 401,
       "indent": 0,
       "parameters": [
-        "proceed your job."
+        "cannot proceed with your work."
       ]
     },
     {
@@ -1084,28 +1084,28 @@
       "code": 401,
       "indent": 0,
       "parameters": [
-        "\\n<Smaar>My Master need to be served only by pregnant "
+        "\\n<Smaar>You know the rule Miss \\n[1]. "
       ]
     },
     {
       "code": 401,
       "indent": 0,
       "parameters": [
-        "girls."
+        "Only pregnant girls serve my master."
       ]
     },
     {
       "code": 401,
       "indent": 0,
       "parameters": [
-        "You can try, another time..."
+        "Come back when your belly has returned."
       ]
     },
     {
       "code": 401,
       "indent": 0,
       "parameters": [
-        "Now please return your uniform."
+        "Now, please return your uniform."
       ]
     },
     {
@@ -1122,7 +1122,7 @@
       "code": 401,
       "indent": 0,
       "parameters": [
-        "\\n[1] Did not earn any money..."
+        "\\n[1] did not earn any money..."
       ]
     },
     {

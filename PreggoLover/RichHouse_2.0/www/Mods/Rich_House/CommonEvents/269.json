@@ -57,7 +57,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n<Smaar>Let me help remove yor clothes Miss \\n[1]."
+                "\\n<Smaar>Let me help remove your clothes Miss \\n[1]."
             ]
         },
         {
@@ -202,7 +202,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n<\\n[1]>UGYAAAAAAAAA! \nI can't do it this time! I'll die!"
+                "\\n<\\n[1]>UGYAAAAAAAAA!\nI can't do it this time! I'll die!"
             ]
         },
         {
@@ -269,7 +269,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n<Smaar>Oh god! It is going very fast!"
+                "\\n<Smaar>Oh god! It's coming out fast!"
             ]
         },
         {
@@ -353,7 +353,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n<Smaar>Breathe deeper! "
+                "\\n<Smaar>Breathe deeper! Push harder!"
             ]
         },
         {
@@ -388,7 +388,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n<\\n[1]>I cannot... I need to puuusshhh!!!"
+                "\\n<\\n[1]>I can't! I need to push noooow!!!"
             ]
         },
         {
@@ -472,7 +472,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n<\\n[1]>Another contraction is coming!!!"
+                "\\n<\\n[1]>The contractions keep coming!!!"
             ]
         },
         {
@@ -535,7 +535,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n<Smaar>Keeep pushing!!!"
+                "\\n<Smaar>Keep pushing!!!"
             ]
         },
         {
@@ -586,7 +586,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n<\\n[1]>It's coming! It's coming!!! Aaaaaghhhhhh!"
+                "\\n<\\n[1]>It's coming oooout!!! Aaaaaghhhhhh!"
             ]
         },
         {
@@ -662,7 +662,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n<\\n[1]>Yes... Ohhhh... oooohhh... It is out!!!"
+                "\\n<\\n[1]>Yes! Ohhhh... Ooohhh... It's out!!!"
             ]
         },
         {
@@ -722,7 +722,7 @@
             "code": 401,
             "indent": 1,
             "parameters": [
-                "\\n<\\n[1]>My contractions does not stop!!"
+                "\\n<\\n[1]>Nghh... I'm having more contractions!!!"
             ]
         },
         {
@@ -750,14 +750,14 @@
             "code": 401,
             "indent": 1,
             "parameters": [
-                "\\n<Smaar>I see... The size of your belly indicates that "
+                "\\n<Smaar>I see... your belly was quite big..."
             ]
         },
         {
             "code": 401,
             "indent": 1,
             "parameters": [
-                "there is another fetus in there."
+                "there must be another baby in there."
             ]
         },
         {
@@ -847,7 +847,7 @@
             "code": 401,
             "indent": 1,
             "parameters": [
-                "\\n<Smaar>You need to push Miss \\n[1]"
+                "\\n<Smaar>You need to push Miss \\n[1]."
             ]
         },
         {
@@ -864,7 +864,7 @@
             "code": 401,
             "indent": 1,
             "parameters": [
-                "\\n<\\n[1]>Hhhhhnnnnnnnnnggggggggghhhh!!"
+                "\\n<\\n[1]>I know! Hnghhhhhhhh!"
             ]
         },
         {
@@ -881,7 +881,7 @@
             "code": 401,
             "indent": 1,
             "parameters": [
-                "\\n<\\n[1]>It's coming! It's coming!!! Aaaaaghhhhhh!"
+                "\\n<\\n[1]>It's coming oooout!!! Aaaaaghhhhhh!"
             ]
         },
         {
@@ -1157,21 +1157,21 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n<Smaar>I must report to my Master, that one of his"
+                "\\n<Smaar>I must inform my Master that one of his"
             ]
         },
         {
             "code": 401,
             "indent": 0,
             "parameters": [
-                "maids is no more pregnant... And that he had a Baby in "
+                "maids gave birth... and that the child"
             ]
         },
         {
             "code": 401,
             "indent": 0,
             "parameters": [
-                "his House. His Baby..."
+                "born in his house is his own."
             ]
         },
         {
@@ -1205,21 +1205,21 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n<Smaar>You need to leave our mansion. "
+                "\\n<Smaar>You need to leave our mansion."
             ]
         },
         {
             "code": 401,
             "indent": 0,
             "parameters": [
-                "Technicly, you aren't pregnant anymore. So you cannot"
+                "You are no longer pregnant, so you"
             ]
         },
         {
             "code": 401,
             "indent": 0,
             "parameters": [
-                "proceed your job."
+                "cannot proceed with your work."
             ]
         },
         {
@@ -1236,28 +1236,28 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n<Smaar>My Master need to be served only by pregnant "
+                "\\n<Smaar>You know the rule Miss \\n[1]. "
             ]
         },
         {
             "code": 401,
             "indent": 0,
             "parameters": [
-                "girls."
+                "Only pregnant girls serve my master."
             ]
         },
         {
             "code": 401,
             "indent": 0,
             "parameters": [
-                "You can try, another time..."
+                "Come back when your belly has returned."
             ]
         },
         {
             "code": 401,
             "indent": 0,
             "parameters": [
-                "Now please return your uniform."
+                "Now, please return your uniform."
             ]
         },
         {
@@ -1274,7 +1274,7 @@
             "code": 401,
             "indent": 0,
             "parameters": [
-                "\\n[1] Did not earn any money..."
+                "\\n[1] did not earn any money..."
             ]
         },
         {

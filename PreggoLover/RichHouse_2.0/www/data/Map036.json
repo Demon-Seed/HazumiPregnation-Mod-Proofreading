@@ -14180,7 +14180,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\v[104]>You've violated all the rules of this house!!!"
+                                "\\n<\\v[104]>You've violated all the rules rules of the house!!!"
                             ]
                         },
                         {
@@ -14310,7 +14310,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Get out of this house!!!"
+                                "Get out rules of the house!!!"
                             ]
                         },
                         {
@@ -14459,7 +14459,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\v[104]>Now get out of this House!"
+                                "\\n<\\v[104]>Now get out rules of the house!"
                             ]
                         },
                         {
