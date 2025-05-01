@@ -2586,28 +2586,28 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>Miss \\n[1], you are a bit late!"
+                        "\\n<\\v[104]>Miss \\n[1], you're late!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "The party's ongoing your co-worker needs help."
+                        "The party's ongoing, and"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Hurry up, you need to start serving"
+                        "your co-worker needs help!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "the Big Hall immediately!!!"
+                        "Get to the Big Hall now!"
                     ]
                 },
                 {
@@ -2701,7 +2701,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>Yes... I... I'm... Errrrmmmmm... Eh..."
+                        "\\n<\\n[1]>Yes... I- I'm... Errrrmmmmm..."
                     ]
                 },
                 {
@@ -2938,14 +2938,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>I can push baby back in for a while, or you"
+                        "\\n<\\v[104]>I can push baby back in, or you can use"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "can use some other way to push your baby back inside."
+                        "some other way to keep your baby inside."
                     ]
                 },
                 {
@@ -2959,7 +2959,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "I'll give you an experimental Medicine."
+                        "I'll give you an experimental medicine."
                     ]
                 },
                 {
@@ -3112,21 +3112,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\v[104]>Talk to second maid."
+                        "\\n<\\v[104]>Go talk to the second maid."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "She will give you instructions!"
-                    ]
-                },
-                {
-                    "code": 401,
-                    "indent": 0,
-                    "parameters": [
-                        ""
+                        "She will give you your instructions!"
                     ]
                 },
                 {
@@ -3134,6 +3127,13 @@
                     "indent": 0,
                     "parameters": [
                         "Go!"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        ""
                     ]
                 },
                 {

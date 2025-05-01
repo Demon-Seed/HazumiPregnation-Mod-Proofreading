@@ -93,14 +93,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>She's right. I need to get some "
+                        "\\n<\\n[1]>She's right."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "sleep before work."
+                        "I need to get some sleep before work."
                     ]
                 },
                 {
@@ -198,14 +198,14 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<\\n[1]>Oh... I overslept!!"
+                        "\\n<\\n[1]>...Ah! I overslept!!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Need to hurry!!!"
+                        "I need to hurry!!!"
                     ]
                 },
                 {
