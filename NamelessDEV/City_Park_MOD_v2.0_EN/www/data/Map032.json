@@ -12051,7 +12051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "← Bathroom"
+                                "← Restroom"
                             ]
                         },
                         {
@@ -12086,7 +12086,7 @@
         },
         {
             "id": 7,
-            "name": "Bathroom Sign",
+            "name": "Restroom Sign",
             "note": "",
             "pages": [
                 {
@@ -12148,7 +12148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bathroom"
+                                "Restroom"
                             ]
                         },
                         {
