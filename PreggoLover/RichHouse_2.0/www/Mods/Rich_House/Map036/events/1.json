@@ -1,6 +1,6 @@
 {
     "id": 1,
-    "name": "Guard_1",
+    "name": "Guard 1",
     "note": "",
     "pages": [
         {
@@ -42,7 +42,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Guard_1>No one can go outside! Master's orders."
+                        "\\n<Guard 1>No one can go outside! Master's orders."
                     ]
                 },
                 {
@@ -59,7 +59,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Guard_1>Talk to Smaar to be able to leave."
+                        "\\n<Guard 1>Talk to Smaar to be able to leave."
                     ]
                 },
                 {

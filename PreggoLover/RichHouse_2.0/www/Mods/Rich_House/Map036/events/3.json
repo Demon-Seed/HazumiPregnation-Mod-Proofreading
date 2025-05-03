@@ -1,6 +1,6 @@
 {
     "id": 3,
-    "name": "Guard_2",
+    "name": "Guard 2",
     "note": "",
     "pages": [
         {
@@ -42,7 +42,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Guard_2>Sorry, maids do not get permission to leave."
+                        "\\n<Guard 2>Sorry, maids do not get permission to leave."
                     ]
                 },
                 {
@@ -59,7 +59,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Guard_2>To get permission, talk to Smaar."
+                        "\\n<Guard 2>To get permission, talk to Smaar."
                     ]
                 },
                 {

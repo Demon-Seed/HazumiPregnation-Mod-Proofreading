@@ -432,7 +432,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Guard_1>Is anybody here?"
+                        "\\n<Guard 1>Is anybody here?"
                     ]
                 },
                 {
@@ -491,7 +491,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Guard_1>Are you ok??"
+                        "\\n<Guard 1>Are you ok??"
                     ]
                 },
                 {
@@ -547,7 +547,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Guard_1>Are you giving birth???"
+                        "\\n<Guard 1>Are you giving birth???"
                     ]
                 },
                 {
@@ -764,7 +764,7 @@
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\n<Guard_1>Oh crap!! Hold on, I will help you."
+                        "\\n<Guard 1>Oh crap!! Hold on, I will help you."
                     ]
                 },
                 {
