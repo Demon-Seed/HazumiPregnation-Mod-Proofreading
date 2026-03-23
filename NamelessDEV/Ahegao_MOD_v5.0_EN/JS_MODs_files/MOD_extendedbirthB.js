@@ -213,7 +213,7 @@ const overrides = function(){
 				"code": 401,
 				"indent": 1,
 				"parameters": [
-					"\\n<\\v[104]>I need you to relax. Breathe with me. \nHah\\.\\.\\.\\. \nHoo\\.\\.\\.\\."
+					"\\n<\\v[104]>I need you to relax. Now, breathe with me. \nHah\\.\\.\\.\\. \nHoo\\.\\.\\.\\."
 				]
 			},
 			{
@@ -449,7 +449,7 @@ const overrides = function(){
 				"code": 401,
 				"indent": 1,
 				"parameters": [
-					"\\n<\\n[1]>Haa, haa, haaaa. \nPlease can I push?? \nOh god..need...to...push..NOW!!!"
+					"\\n<\\n[1]>Haa, haa, haaaa. \nPlease can I push?? \nOh god..need...to...push...NOW!!!"
 				]
 			},
 			{
@@ -539,7 +539,7 @@ const overrides = function(){
 				"code": 401,
 				"indent": 1,
 				"parameters": [
-					"\\n<\\v[104]>Ok, slow down. Switch to shorter breathes."
+					"\\n<\\v[104]>Ok, slow down. Switch to shorter breaths."
 				]
 			},
 			{
@@ -618,7 +618,7 @@ const overrides = function(){
 				"code": 401,
 				"indent": 1,
 				"parameters": [
-					"\\n<\\v[104]>Okay, take a deep breath. \nNow Push!"
+					"\\n<\\v[104]>Okay, now take a deep breath \nand push!"
 				]
 			},
 			{
@@ -2481,7 +2481,7 @@ const overrides = function(){
 				"code": 401,
 				"indent": 2,
 				"parameters": [
-					"\\n<\\v[104]>Let's see\\..\\..\\..\\..\\...\\.\\.\\. yes!...your \\c[3]cervix\\c[0] is at 10cm!!"
+					"\\n<\\v[104]>Let's see\\..\\..\\..\\..\\.. Yes!... Your \\c[3]cervix\\c[0] is at 10cm!!"
 				]
 			},
 			{

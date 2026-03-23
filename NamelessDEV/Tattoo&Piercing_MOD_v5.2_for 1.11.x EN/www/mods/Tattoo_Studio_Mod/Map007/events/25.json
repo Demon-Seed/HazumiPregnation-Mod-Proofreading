@@ -367,14 +367,14 @@
           "code": 401,
           "indent": 0,
           "parameters": [
-            "\\n<\\v[104]>It's good to see you again \\n[1], It's me Izumi,"
+            "\\n<\\v[104]>It's good to see you again \\n[1]. It's me, Izumi,"
           ]
         },
         {
           "code": 401,
           "indent": 0,
           "parameters": [
-            "from the Institute, We were in class together."
+            "from the institute. We were in class together."
           ]
         },
         {
