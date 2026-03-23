@@ -7,7 +7,11 @@
 # Mod Credits
  - Exhibitionism Mod: XYZone
  - The Rest of the Mods: Parent Folder Name
-   
+
+# Known Mod Bugs
+**NamelessDev**
+- Public / Blocked Birth does *NOT* play well with the Tattoo & Piercing mod. If your third birth is in public it bugs out the eventing for meeting Izumi and hardlocks the game.
+- Public / Blocked Birth does not display images properly. I am just not going to bother with the mod anymore until it's updated. 
 
 # Example Changes 
 
