@@ -1,24 +1,3 @@
-function s(id){
-       return $gameSwitches._data[id] || 0;
-}
-function v(id){
-    return $gameVariables._data[id] || 0;
-}
-
-function nakaIndex(){
-    const SPERM_IN_UTERUS = $gameVariables._data[13];
-    const uterus = (SPERM_IN_UTERUS/1200)
-    let naka = ($H.in_seieki.findNum(uterus)).clamp(0,11)
-    //console.log('naka '+naka+' naka2 '+naka2)
-    return naka
-}
-
-function checkExistAhegao(fileName){
-    const url = 'mods/JS_MODs_files/' + fileName + '.js';
-    return Mihil_FileExists.checkExist(url, true)
-}
-
-
 // overdue Functions
 function isOverdueSingleBaby(){
     return !hasMultiBaby() && !hasTriplesOrMore() && !hasTwinsBaby() && v(43) >=44 && v(43) <=49

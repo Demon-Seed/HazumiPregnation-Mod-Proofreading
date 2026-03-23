@@ -1,23 +1,7 @@
-function s(id){
-    return $gameSwitches._data[id] || 0;
-}
-function v(id){
-    return $gameVariables._data[id] || 0
-}
-
-function sotoIndex(){
-    const soto = ($H.out_seieki.findNum(v(76))-0 ).clamp(0,4)
-    return soto
-}
-function tareIndex(){
-    const naka = ($H.in_seieki.findNum(v(77))-0 ).clamp(0,4)
-    return naka
-}
-
 //cg layers for 1.11.1 v2
 
 (function () {
-    //laters for missionary
+    //layers for missionary
 
     const _makeCGMissionary = Display_CG.Missionary.prototype.makeCG;
     Display_CG.Missionary.prototype.makeCG = function(){
